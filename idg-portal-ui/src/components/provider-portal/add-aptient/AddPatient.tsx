@@ -1,7 +1,7 @@
 import { PropsWithChildren } from 'react';
-import { ChildrenProps } from '../../types/CommonTypes';
+import { ChildrenProps } from '../../../types/CommonTypes';
 
-export const PatientPortalSearch: React.FC<
+export const AddPatient: React.FC<
   PropsWithChildren<ChildrenProps>
 > = () => {
   return (
