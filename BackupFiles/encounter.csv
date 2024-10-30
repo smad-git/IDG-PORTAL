@@ -1,0 +1,501 @@
+encounterId,patientId,encounterDate,reason,createdDate
+4729,5763,1996-05-17,"['Flu', 'Arthritis', 'Arthritis', 'COVID-19', 'Diabetes', 'Sinusitis', 'Gastroenteritis', 'Arthritis', 'COVID-19', 'Flu']",1970-03-27
+8242,1872,2001-03-08,"['Chronic Pain', 'Hypertension', 'Migraine', 'Migraine', 'Common Cold', 'Skin Rash', 'Bronchitis', 'Migraine', 'Bronchitis', 'Anemia', 'Common Cold', 'Arthritis', 'Common Cold', 'Sinusitis', 'Asthma']",2003-11-03
+1630,3921,1975-05-19,"['Migraine', 'Common Cold', 'Asthma', 'Sinusitis', 'Common Cold']",1974-04-02
+8838,2281,1980-09-27,"['Hypertension', 'Anemia', 'Flu', 'Migraine', 'Gastroenteritis', 'Sinusitis', 'Asthma', 'Arthritis']",1985-08-26
+7897,8635,1995-03-30,"['Chronic Pain', 'Anemia']",1997-08-27
+7797,5595,1990-06-11,"['Sinusitis', 'Common Cold', 'Arthritis']",1982-12-01
+1702,3459,2006-10-27,"['Pneumonia', 'Flu', 'Pneumonia', 'Flu', 'Skin Rash', 'Gastroenteritis', 'Arthritis', 'Sinusitis', 'Strep Throat', 'Flu', 'Gastroenteritis', 'Migraine', 'Chronic Pain']",1999-05-21
+9850,5136,2012-05-31,"['Asthma', 'Chronic Pain']",2011-12-03
+1293,989,2021-09-09,"['Skin Rash', 'Skin Rash', 'Bronchitis', 'Skin Rash', 'Asthma', 'COVID-19', 'Sinusitis', 'Bronchitis', 'Skin Rash', 'Sinusitis', 'Gastroenteritis', 'Sinusitis', 'Anemia', 'Anemia', 'Hypertension', 'Pneumonia']",1975-10-03
+1683,4657,1977-10-07,"['Anemia', 'Asthma', 'Strep Throat', 'COVID-19', 'COVID-19', 'Pneumonia', 'Diabetes', 'Strep Throat', 'Sinusitis', 'Hypertension', 'Strep Throat']",1981-04-09
+2647,6155,2013-04-22,"['Flu', 'Chronic Pain', 'Flu', 'Gastroenteritis', 'Common Cold', 'Common Cold']",2004-08-16
+4913,7176,1989-07-21,"['Migraine', 'Bronchitis', 'Hypertension', 'Strep Throat', 'Common Cold', 'Anemia', 'Hypertension', 'Arthritis', 'Sinusitis', 'Chronic Pain']",2003-12-09
+3907,3638,1987-02-12,"['Flu', 'Pneumonia', 'Gastroenteritis', 'Gastroenteritis', 'Anemia', 'Strep Throat', 'Gastroenteritis', 'COVID-19']",2008-12-31
+6989,2895,1983-10-28,"['Sinusitis', 'Sinusitis', 'Gastroenteritis', 'Hypertension', 'Arthritis', 'Pneumonia', 'Chronic Pain']",1988-10-26
+2402,7859,1993-11-02,"['Diabetes', 'Bronchitis', 'Skin Rash', 'Hypertension', 'COVID-19', 'Common Cold', 'Diabetes']",1974-03-18
+771,4753,1970-11-02,"['Common Cold', 'Skin Rash', 'Arthritis', 'Chronic Pain', 'Pneumonia', 'Common Cold', 'Strep Throat', 'Flu', 'Sinusitis', 'Hypertension', 'Pneumonia', 'Strep Throat', 'Pneumonia', 'Anemia', 'Anemia', 'Hypertension']",2013-11-03
+8208,78,2014-12-09,"['Skin Rash', 'Anemia', 'Common Cold', 'Hypertension', 'Bronchitis', 'COVID-19', 'Strep Throat', 'Skin Rash', 'Hypertension', 'Hypertension', 'Sinusitis']",1992-05-18
+5859,2356,1992-10-07,"['Arthritis', 'Chronic Pain', 'COVID-19', 'Bronchitis', 'Hypertension', 'Flu', 'Migraine', 'Sinusitis', 'Bronchitis', 'Flu', 'Skin Rash', 'Gastroenteritis', 'Strep Throat', 'Gastroenteritis', 'COVID-19', 'Anemia']",2000-07-13
+6813,6353,1988-12-21,"['Migraine', 'Sinusitis', 'Strep Throat', 'Flu']",2020-04-16
+6425,4127,1998-11-26,"['Hypertension', 'COVID-19', 'Pneumonia', 'Hypertension', 'Diabetes', 'Gastroenteritis', 'Hypertension', 'Asthma']",2014-02-25
+3643,7020,1991-10-13,"['Flu', 'Chronic Pain', 'Anemia', 'Arthritis', 'Sinusitis', 'COVID-19', 'Bronchitis', 'Anemia', 'Hypertension', 'Gastroenteritis', 'Arthritis', 'Strep Throat', 'Skin Rash']",1976-03-21
+5388,2965,2002-12-03,"['Strep Throat', 'Asthma', 'Sinusitis', 'Skin Rash', 'Asthma']",2014-09-18
+952,5400,2020-12-29,"['Strep Throat', 'Strep Throat', 'Strep Throat', 'COVID-19', 'Chronic Pain', 'Strep Throat', 'Strep Throat', 'Common Cold', 'Migraine']",1979-03-19
+8139,1149,1973-08-06,"['Common Cold', 'Chronic Pain', 'Skin Rash', 'Bronchitis', 'Gastroenteritis', 'Asthma', 'Migraine', 'Chronic Pain', 'COVID-19', 'Sinusitis', 'Asthma', 'Gastroenteritis', 'Arthritis', 'Flu']",1973-09-04
+4104,9210,2011-09-12,"['Migraine', 'Chronic Pain', 'Flu', 'Anemia', 'Hypertension', 'Chronic Pain', 'Chronic Pain', 'Arthritis']",1992-10-24
+189,6122,1992-10-07,"['Skin Rash', 'Chronic Pain', 'Bronchitis', 'Skin Rash', 'Diabetes', 'Strep Throat', 'Diabetes', 'Anemia', 'Common Cold', 'Pneumonia', 'Gastroenteritis', 'Strep Throat', 'Hypertension', 'Flu']",2005-02-21
+1762,4094,1973-10-29,"['Flu', 'Sinusitis', 'Bronchitis', 'Sinusitis', 'Pneumonia', 'Gastroenteritis', 'Sinusitis']",2021-09-21
+3586,5790,1995-07-01,"['Anemia', 'Common Cold']",1991-04-24
+7296,9761,2023-07-19,"['Asthma', 'Hypertension', 'Diabetes', 'Sinusitis', 'Flu', 'Hypertension', 'Common Cold', 'Arthritis']",2012-04-17
+9032,3471,2001-09-25,"['Chronic Pain', 'Diabetes', 'Bronchitis', 'Bronchitis', 'Sinusitis', 'Migraine', 'Bronchitis', 'Common Cold', 'Strep Throat', 'Sinusitis', 'Gastroenteritis', 'Skin Rash', 'Asthma', 'Migraine', 'Common Cold']",1981-06-17
+680,2467,2000-09-24,"['Sinusitis', 'Flu', 'Strep Throat']",1971-06-25
+9543,5289,2020-08-01,"['Gastroenteritis', 'Diabetes', 'Flu', 'Arthritis', 'Diabetes', 'Chronic Pain', 'Anemia', 'Anemia', 'Gastroenteritis']",2022-12-25
+4560,1532,1992-10-07,"['Common Cold', 'Migraine', 'Sinusitis', 'COVID-19', 'Asthma', 'Strep Throat', 'Pneumonia', 'Sinusitis', 'Gastroenteritis', 'Common Cold', 'COVID-19', 'Arthritis', 'Diabetes', 'Asthma', 'Migraine']",2024-01-24
+7347,2202,1998-11-25,"['Sinusitis', 'Flu', 'Skin Rash', 'Arthritis', 'Bronchitis']",2009-03-17
+8002,8469,1978-11-24,"['Common Cold', 'Common Cold', 'Flu', 'Bronchitis', 'Asthma', 'COVID-19', 'Gastroenteritis', 'Chronic Pain', 'Diabetes', 'Pneumonia', 'Asthma', 'Common Cold', 'Strep Throat', 'Bronchitis', 'Chronic Pain', 'Chronic Pain']",1983-10-28
+1723,9302,1980-05-20,"['Arthritis', 'Anemia', 'Asthma', 'Chronic Pain', 'Chronic Pain', 'Migraine', 'Hypertension', 'Flu', 'Chronic Pain', 'Arthritis', 'Chronic Pain', 'Sinusitis', 'Flu', 'Sinusitis', 'Bronchitis', 'Strep Throat']",1992-11-04
+1371,5595,1995-08-05,"['Migraine', 'Sinusitis', 'Diabetes', 'Arthritis', 'Skin Rash', 'Migraine', 'Arthritis', 'Flu', 'Flu', 'Bronchitis']",2020-03-24
+5016,7734,2001-01-13,"['Asthma', 'Diabetes', 'Hypertension', 'Bronchitis', 'Asthma', 'Hypertension', 'Gastroenteritis', 'Arthritis', 'Bronchitis', 'Bronchitis', 'Migraine', 'Skin Rash', 'Chronic Pain', 'Pneumonia', 'Diabetes', 'Gastroenteritis']",2004-03-15
+445,393,2009-05-12,['Anemia'],1998-03-01
+6906,2455,2004-06-19,"['Diabetes', 'Asthma', 'Migraine']",2017-01-10
+2952,4902,1974-03-25,['Anemia'],1982-03-08
+7418,1940,1993-08-23,"['Bronchitis', 'Chronic Pain', 'Flu', 'Flu', 'Diabetes', 'Bronchitis', 'Anemia', 'Common Cold', 'Diabetes', 'Common Cold', 'Gastroenteritis', 'Asthma', 'Arthritis', 'Pneumonia']",2020-11-19
+6014,8926,2005-02-08,"['Sinusitis', 'Arthritis', 'Common Cold']",1995-01-04
+6706,4193,2024-02-22,"['Strep Throat', 'Diabetes', 'Hypertension', 'Arthritis', 'Arthritis', 'Asthma', 'Pneumonia', 'Diabetes', 'Migraine', 'Bronchitis', 'Gastroenteritis', 'Chronic Pain']",2022-01-31
+6402,3347,1977-03-07,"['Hypertension', 'Bronchitis', 'Flu', 'Migraine', 'Asthma', 'COVID-19', 'Arthritis', 'Skin Rash']",2002-03-24
+5210,6418,2019-02-23,"['Skin Rash', 'Asthma', 'COVID-19', 'Bronchitis', 'Asthma', 'Skin Rash', 'Arthritis', 'Skin Rash', 'Pneumonia']",1992-10-31
+6634,7330,2001-05-08,"['Sinusitis', 'Asthma', 'Hypertension', 'Bronchitis', 'Sinusitis', 'Strep Throat', 'Chronic Pain', 'Chronic Pain', 'Diabetes', 'Arthritis']",2012-02-25
+3009,3918,2000-08-16,"['Skin Rash', 'Arthritis', 'Gastroenteritis', 'Sinusitis', 'Skin Rash', 'Diabetes']",1975-10-01
+7197,5305,1970-11-29,"['Migraine', 'Common Cold', 'Migraine', 'Hypertension', 'Diabetes', 'Flu', 'Anemia', 'Migraine', 'Hypertension']",1995-03-27
+45,9221,2009-03-18,"['Strep Throat', 'Arthritis', 'Pneumonia', 'Diabetes', 'Skin Rash', 'Chronic Pain', 'Chronic Pain', 'Gastroenteritis', 'Common Cold', 'Flu', 'COVID-19', 'Diabetes', 'Anemia', 'Strep Throat', 'Chronic Pain']",1973-09-29
+429,931,1981-02-11,"['Hypertension', 'Anemia', 'Common Cold', 'Common Cold', 'Skin Rash', 'Common Cold']",2022-08-02
+2460,6891,2011-05-15,"['COVID-19', 'Sinusitis', 'Chronic Pain', 'Pneumonia', 'Gastroenteritis', 'Pneumonia', 'Diabetes', 'Asthma', 'Hypertension', 'Bronchitis', 'Strep Throat', 'Hypertension', 'Strep Throat', 'Diabetes', 'Anemia']",1975-01-17
+4825,1049,1989-12-01,['Pneumonia'],2000-11-17
+603,748,1978-09-01,"['Common Cold', 'Hypertension', 'Gastroenteritis', 'COVID-19', 'Skin Rash', 'Diabetes', 'Migraine', 'Strep Throat', 'Anemia', 'Pneumonia', 'Common Cold', 'Sinusitis', 'Anemia', 'Skin Rash', 'Pneumonia']",2018-06-02
+7985,7330,2013-12-02,"['Gastroenteritis', 'Diabetes', 'Pneumonia', 'Common Cold', 'Pneumonia', 'Arthritis']",2004-08-27
+4416,7206,2000-11-01,"['Migraine', 'Hypertension', 'Migraine', 'Arthritis', 'Sinusitis', 'COVID-19', 'Asthma']",1987-10-23
+322,4094,2001-09-05,"['Chronic Pain', 'Hypertension', 'Arthritis', 'Pneumonia', 'Strep Throat', 'Common Cold', 'Bronchitis', 'Sinusitis', 'Arthritis', 'Gastroenteritis', 'Sinusitis']",2015-05-22
+8491,1689,1971-04-04,"['Chronic Pain', 'Common Cold', 'Flu']",2016-01-31
+1008,2965,1978-05-10,"['Asthma', 'Diabetes', 'Pneumonia', 'Flu', 'Diabetes', 'Hypertension', 'Diabetes', 'COVID-19', 'Pneumonia']",1993-01-31
+5465,6948,2004-12-31,"['Strep Throat', 'Common Cold', 'Skin Rash', 'Gastroenteritis', 'Diabetes', 'Chronic Pain', 'Sinusitis', 'COVID-19']",1992-06-19
+5725,6073,2023-09-24,['Chronic Pain'],1987-05-30
+4513,1354,2014-01-24,"['Flu', 'Common Cold', 'Skin Rash', 'Migraine', 'Migraine', 'Gastroenteritis', 'Gastroenteritis', 'Diabetes', 'Flu', 'Strep Throat', 'Chronic Pain', 'Strep Throat', 'Sinusitis', 'Bronchitis']",1996-02-03
+1883,5547,1994-03-21,['Gastroenteritis'],2007-07-02
+978,9016,1975-03-14,"['Skin Rash', 'Gastroenteritis', 'Arthritis', 'Sinusitis', 'Arthritis', 'Anemia', 'Skin Rash', 'Flu', 'Bronchitis', 'Anemia', 'Asthma', 'Skin Rash', 'Chronic Pain', 'COVID-19', 'Sinusitis', 'Bronchitis']",2001-09-21
+4743,2356,1977-05-27,"['Anemia', 'Migraine', 'Skin Rash', 'Skin Rash', 'Skin Rash', 'Diabetes', 'Diabetes', 'Diabetes', 'Bronchitis', 'COVID-19', 'Gastroenteritis', 'Chronic Pain', 'Strep Throat', 'Asthma']",1974-01-22
+2293,5344,1973-05-22,"['Sinusitis', 'Asthma', 'Bronchitis', 'Asthma', 'Asthma', 'Gastroenteritis', 'Chronic Pain', 'Common Cold', 'Skin Rash', 'Strep Throat', 'Diabetes', 'Common Cold']",1987-01-15
+3806,4749,1995-04-12,"['Diabetes', 'Flu', 'Bronchitis', 'Hypertension']",2010-04-24
+5788,7108,2006-07-11,"['Diabetes', 'Anemia', 'Sinusitis', 'Arthritis', 'Strep Throat', 'Chronic Pain', 'Flu', 'Chronic Pain', 'Asthma', 'Flu', 'Asthma', 'Flu', 'Bronchitis', 'Sinusitis']",2020-11-10
+1267,6538,1996-09-06,"['Common Cold', 'Gastroenteritis', 'Anemia', 'Bronchitis', 'Strep Throat', 'Asthma', 'Anemia']",2001-11-01
+1900,8313,2020-03-28,['Hypertension'],1975-01-24
+3312,8327,1979-08-14,"['Common Cold', 'Skin Rash', 'COVID-19', 'Hypertension', 'Arthritis', 'Arthritis', 'Anemia', 'Bronchitis', 'Common Cold', 'COVID-19', 'Sinusitis', 'Diabetes']",1998-11-17
+5503,9480,1982-02-21,"['Gastroenteritis', 'Migraine', 'Anemia', 'Sinusitis', 'Anemia', 'Hypertension', 'Anemia', 'COVID-19', 'Pneumonia', 'COVID-19', 'Gastroenteritis', 'Migraine', 'Skin Rash']",2023-11-08
+3217,1146,1995-07-07,"['Strep Throat', 'COVID-19', 'Asthma', 'Arthritis', 'Skin Rash', 'Sinusitis', 'Bronchitis', 'Arthritis', 'Diabetes']",1977-11-18
+1775,4442,2014-02-26,"['Strep Throat', 'Bronchitis', 'Pneumonia', 'Sinusitis', 'Skin Rash', 'Common Cold', 'Bronchitis', 'Anemia', 'Anemia', 'Chronic Pain', 'Flu', 'Sinusitis']",1987-11-07
+9031,7176,2024-02-14,"['Chronic Pain', 'Anemia', 'Anemia', 'Skin Rash', 'COVID-19', 'Gastroenteritis', 'Strep Throat', 'Bronchitis']",1986-07-06
+9965,735,2020-04-25,"['Chronic Pain', 'Flu', 'Diabetes', 'COVID-19', 'Migraine', 'Anemia', 'Asthma', 'Flu', 'Arthritis', 'COVID-19', 'Anemia', 'Migraine', 'Diabetes']",1977-05-12
+1614,1918,2024-10-26,"['COVID-19', 'Sinusitis', 'Flu', 'Bronchitis', 'Gastroenteritis', 'Sinusitis', 'Gastroenteritis', 'Asthma', 'Chronic Pain', 'COVID-19', 'Common Cold', 'COVID-19', 'Migraine']",2007-08-11
+6060,9713,2006-04-15,"['Arthritis', 'Diabetes', 'Skin Rash', 'COVID-19', 'Chronic Pain', 'Asthma', 'Gastroenteritis']",2000-08-21
+9796,4057,2011-01-19,"['Hypertension', 'Hypertension']",1996-12-23
+6270,6959,1987-06-21,"['Arthritis', 'Skin Rash', 'Arthritis', 'Chronic Pain', 'Gastroenteritis', 'Chronic Pain', 'Flu', 'Diabetes', 'Flu', 'Migraine', 'Gastroenteritis', 'COVID-19', 'Gastroenteritis', 'Migraine']",1972-05-30
+5329,4965,1971-07-06,"['Diabetes', 'Pneumonia', 'Arthritis', 'Sinusitis', 'Asthma', 'Skin Rash', 'Diabetes', 'Bronchitis', 'Chronic Pain', 'Flu', 'Anemia']",1990-12-17
+1695,4955,2022-05-20,"['Chronic Pain', 'Skin Rash', 'Diabetes', 'Gastroenteritis', 'Diabetes', 'Hypertension', 'Pneumonia', 'Diabetes']",2000-03-10
+6823,3188,1996-06-16,"['Arthritis', 'Pneumonia', 'COVID-19', 'Sinusitis', 'Strep Throat', 'COVID-19', 'Arthritis', 'Gastroenteritis', 'Gastroenteritis', 'Diabetes', 'Sinusitis']",1993-11-06
+281,3505,2005-03-22,"['Migraine', 'Asthma', 'Migraine', 'Diabetes', 'Hypertension', 'Hypertension', 'Migraine', 'Asthma', 'Anemia', 'Hypertension', 'Skin Rash']",1994-07-30
+6922,4685,2007-12-10,"['Flu', 'Chronic Pain', 'Bronchitis', 'Migraine', 'Diabetes', 'Asthma']",2011-02-26
+4038,9631,1982-12-30,"['Chronic Pain', 'Diabetes', 'Diabetes', 'Migraine', 'Flu', 'Flu', 'Asthma', 'COVID-19', 'Migraine', 'Arthritis', 'Sinusitis', 'Diabetes', 'Flu', 'Skin Rash']",2019-04-26
+4350,179,1984-04-14,['COVID-19'],1990-03-31
+433,706,1975-04-04,"['Migraine', 'Flu', 'COVID-19', 'Diabetes', 'Migraine', 'Strep Throat', 'Migraine', 'Arthritis']",2012-11-05
+2878,6948,2019-10-06,"['Pneumonia', 'Gastroenteritis', 'Arthritis', 'COVID-19', 'Skin Rash', 'Strep Throat', 'COVID-19', 'Common Cold', 'Diabetes', 'Sinusitis', 'Strep Throat']",2014-10-26
+3519,7255,1989-08-17,['Pneumonia'],2001-05-16
+10000,7500,1973-12-10,"['Skin Rash', 'COVID-19', 'COVID-19', 'Arthritis', 'Strep Throat', 'Strep Throat', 'Skin Rash', 'Chronic Pain', 'Bronchitis', 'Sinusitis', 'Asthma']",2016-12-13
+3738,9360,2019-09-05,"['Sinusitis', 'Chronic Pain', 'Strep Throat', 'Gastroenteritis', 'Common Cold', 'Common Cold', 'Flu', 'Asthma', 'COVID-19', 'Common Cold']",1995-04-06
+542,9386,1986-11-05,"['Arthritis', 'Arthritis', 'Hypertension']",2004-07-13
+6683,2325,2004-04-12,"['COVID-19', 'Pneumonia', 'Skin Rash', 'Common Cold']",2020-09-19
+4328,8170,1976-05-31,"['Arthritis', 'Bronchitis', 'COVID-19', 'Sinusitis', 'Skin Rash', 'Common Cold']",1989-02-09
+8394,6948,1984-06-16,"['COVID-19', 'Flu', 'Arthritis', 'Flu', 'Skin Rash', 'Diabetes', 'Diabetes', 'Bronchitis', 'Skin Rash', 'Common Cold', 'Skin Rash', 'Arthritis', 'Diabetes']",1972-11-19
+7759,5305,2000-03-29,"['Gastroenteritis', 'Skin Rash', 'Gastroenteritis', 'Chronic Pain', 'Diabetes']",2015-04-26
+3753,9107,1984-10-03,"['Gastroenteritis', 'Skin Rash', 'Strep Throat', 'Anemia', 'Sinusitis', 'Skin Rash', 'Common Cold', 'Strep Throat', 'Migraine', 'Strep Throat', 'Gastroenteritis', 'COVID-19', 'Flu']",2020-10-15
+6009,106,1986-02-01,"['Common Cold', 'Anemia', 'Chronic Pain', 'Chronic Pain', 'Diabetes', 'Sinusitis', 'Strep Throat', 'Flu']",1979-11-25
+9369,706,1996-06-28,"['Bronchitis', 'Gastroenteritis', 'Asthma', 'Common Cold', 'Gastroenteritis', 'Chronic Pain', 'Chronic Pain', 'COVID-19', 'Pneumonia']",1989-01-19
+7352,931,2004-11-22,"['Anemia', 'Pneumonia', 'Arthritis', 'Anemia', 'Chronic Pain']",1981-06-10
+5008,3695,1972-01-22,"['Diabetes', 'Asthma', 'Chronic Pain', 'Strep Throat', 'Common Cold', 'Migraine', 'Migraine', 'Bronchitis', 'Arthritis', 'COVID-19']",2000-02-09
+2698,5595,2021-09-26,"['Gastroenteritis', 'Anemia', 'Flu', 'Bronchitis', 'COVID-19', 'Pneumonia', 'Flu', 'Migraine', 'Asthma']",1974-09-24
+8143,3332,1991-12-18,"['Gastroenteritis', 'Pneumonia', 'Skin Rash', 'Migraine', 'Diabetes', 'Arthritis', 'Sinusitis', 'Asthma', 'Bronchitis', 'Anemia', 'Anemia']",1979-04-26
+7701,154,2003-04-17,"['Strep Throat', 'Gastroenteritis', 'Common Cold', 'Strep Throat', 'Anemia', 'Strep Throat', 'Flu', 'Flu', 'Common Cold', 'Diabetes', 'Flu', 'Diabetes', 'Chronic Pain']",1986-03-16
+9163,8090,1993-04-06,"['Diabetes', 'Skin Rash', 'Pneumonia', 'Pneumonia', 'Flu', 'Arthritis', 'Strep Throat', 'Sinusitis', 'Pneumonia', 'Flu', 'Migraine', 'Diabetes', 'Skin Rash']",1982-04-27
+1467,8090,2006-01-15,"['Chronic Pain', 'COVID-19', 'COVID-19', 'Pneumonia', 'Flu', 'Asthma']",2000-10-11
+5355,695,2021-08-15,"['Gastroenteritis', 'Strep Throat', 'Sinusitis', 'Strep Throat', 'Gastroenteritis', 'Strep Throat', 'Gastroenteritis', 'Arthritis', 'Gastroenteritis', 'Strep Throat', 'Arthritis']",1970-05-10
+5707,787,1976-08-17,"['Skin Rash', 'Migraine', 'Common Cold']",1994-01-21
+5423,5719,1981-04-10,"['Skin Rash', 'Common Cold', 'Diabetes', 'Skin Rash']",1990-07-17
+6506,7938,1985-12-30,"['Hypertension', 'Chronic Pain', 'Hypertension']",1970-05-01
+8229,7383,1975-06-06,"['Pneumonia', 'Hypertension', 'COVID-19', 'COVID-19', 'Arthritis', 'Pneumonia', 'Chronic Pain', 'Asthma']",1973-01-20
+5122,2597,2001-09-04,"['Anemia', 'Gastroenteritis', 'Common Cold', 'Diabetes', 'Bronchitis', 'Arthritis', 'Chronic Pain', 'Pneumonia', 'Strep Throat', 'Diabetes', 'Flu', 'Arthritis', 'Asthma']",1987-06-02
+4436,3542,1970-06-06,"['Skin Rash', 'Arthritis', 'Skin Rash', 'Anemia', 'Common Cold', 'Common Cold', 'Chronic Pain', 'Pneumonia', 'COVID-19', 'Migraine', 'Chronic Pain', 'Hypertension', 'Asthma', 'Migraine']",2019-07-25
+2466,51,1999-01-24,"['Skin Rash', 'COVID-19', 'Flu', 'Migraine', 'Arthritis', 'Bronchitis', 'Strep Throat', 'Gastroenteritis', 'Migraine', 'Skin Rash', 'Gastroenteritis', 'COVID-19', 'COVID-19', 'Skin Rash']",1988-09-28
+8207,2077,2019-07-04,"['Asthma', 'Sinusitis', 'Strep Throat', 'Bronchitis', 'COVID-19', 'Hypertension', 'Gastroenteritis', 'Gastroenteritis', 'Arthritis', 'Diabetes', 'Common Cold', 'Migraine', 'Anemia']",1995-01-26
+4647,6418,2009-11-02,"['Asthma', 'Migraine', 'Hypertension', 'Diabetes', 'Common Cold', 'Diabetes', 'Migraine', 'Anemia', 'Diabetes', 'Pneumonia', 'Hypertension', 'Bronchitis', 'Skin Rash', 'Chronic Pain', 'Pneumonia']",1975-06-13
+6133,8653,2008-10-01,"['COVID-19', 'Asthma', 'Migraine', 'Arthritis', 'COVID-19']",1990-01-09
+1113,495,2003-07-06,['Common Cold'],1988-05-20
+8251,8382,2000-09-21,"['Bronchitis', 'Anemia', 'Pneumonia', 'Asthma', 'Arthritis', 'Skin Rash', 'Gastroenteritis', 'COVID-19', 'Anemia', 'Migraine', 'Bronchitis', 'Arthritis', 'Skin Rash', 'Common Cold', 'Asthma', 'Flu']",1971-09-17
+7356,4434,2005-02-15,"['Flu', 'Strep Throat', 'COVID-19', 'Diabetes', 'Asthma', 'Skin Rash', 'Sinusitis', 'Arthritis']",2003-04-27
+6735,6230,1990-09-11,"['Diabetes', 'COVID-19', 'Hypertension', 'Common Cold', 'Strep Throat', 'Sinusitis', 'Skin Rash', 'Hypertension', 'Bronchitis', 'Pneumonia', 'Hypertension', 'Asthma', 'Skin Rash', 'Skin Rash']",1994-01-07
+3660,9574,1996-11-30,"['Chronic Pain', 'Diabetes', 'Gastroenteritis', 'Diabetes', 'Hypertension', 'Chronic Pain', 'Gastroenteritis']",1977-04-27
+8312,7044,2002-09-14,"['Skin Rash', 'Migraine', 'Gastroenteritis', 'Anemia', 'COVID-19', 'Gastroenteritis', 'Gastroenteritis', 'Migraine', 'Asthma', 'Hypertension', 'Common Cold', 'Sinusitis', 'Strep Throat', 'Strep Throat', 'Hypertension']",2002-09-04
+7647,1939,1990-05-13,"['Gastroenteritis', 'Sinusitis']",1971-07-12
+3205,1816,1997-06-01,"['Diabetes', 'Arthritis', 'Pneumonia', 'Bronchitis', 'Gastroenteritis', 'Migraine', 'Sinusitis', 'Hypertension', 'Arthritis']",1996-01-14
+2357,3151,1996-04-13,"['Flu', 'Pneumonia', 'Diabetes', 'Flu', 'COVID-19', 'Asthma', 'Migraine', 'Diabetes', 'Hypertension', 'Migraine', 'Asthma', 'Anemia']",2017-06-27
+5356,1902,1972-06-17,"['Gastroenteritis', 'Migraine', 'Skin Rash', 'Bronchitis', 'Migraine', 'Asthma', 'Flu', 'Migraine', 'Anemia', 'Anemia', 'Flu', 'Diabetes']",1978-12-10
+6376,3251,1981-12-15,"['Common Cold', 'Asthma', 'Diabetes', 'Hypertension', 'Bronchitis']",2010-09-27
+533,8083,1996-11-08,['COVID-19'],1984-12-31
+6217,8473,1981-06-05,"['Asthma', 'Asthma', 'Gastroenteritis', 'Common Cold', 'Bronchitis', 'Migraine']",1983-03-19
+2117,8523,2021-02-22,"['Pneumonia', 'Migraine']",2004-11-24
+6554,6768,2021-04-16,"['COVID-19', 'COVID-19', 'Bronchitis', 'Asthma']",1990-01-30
+9522,9643,1999-10-05,"['Migraine', 'Pneumonia', 'Bronchitis', 'Arthritis', 'Chronic Pain', 'Asthma', 'COVID-19', 'Flu', 'Chronic Pain', 'Diabetes', 'Sinusitis', 'Common Cold']",2001-06-06
+6910,2256,1977-02-11,"['Asthma', 'Flu', 'Anemia', 'Strep Throat', 'Flu', 'Pneumonia', 'Migraine', 'Sinusitis']",2005-06-11
+9003,3918,1992-04-30,"['Diabetes', 'Sinusitis', 'Diabetes', 'Chronic Pain']",2019-07-25
+628,6073,1983-08-28,"['Bronchitis', 'Arthritis', 'Gastroenteritis', 'Hypertension']",2020-04-21
+7161,7215,1989-12-04,"['Arthritis', 'Skin Rash', 'Common Cold', 'Bronchitis', 'Sinusitis', 'Migraine', 'Pneumonia', 'Hypertension', 'Skin Rash', 'Flu']",2006-12-26
+6339,8313,1977-06-20,"['Migraine', 'Asthma', 'Asthma', 'Migraine', 'Diabetes', 'Sinusitis', 'Anemia', 'Flu', 'Gastroenteritis', 'Asthma', 'Chronic Pain', 'Strep Throat']",1992-09-13
+5745,9508,1990-10-25,"['Pneumonia', 'Gastroenteritis', 'Anemia', 'Flu', 'Pneumonia', 'Bronchitis', 'Gastroenteritis', 'Strep Throat']",2018-11-25
+1650,889,2010-06-18,"['Bronchitis', 'Gastroenteritis', 'Gastroenteritis', 'Flu', 'Flu', 'Chronic Pain', 'Diabetes']",1982-01-16
+9393,1671,1982-04-29,"['Sinusitis', 'Skin Rash', 'Arthritis', 'Anemia', 'Flu']",2002-08-30
+3747,5180,2020-04-12,"['Anemia', 'Gastroenteritis', 'Diabetes', 'Sinusitis', 'Anemia', 'Sinusitis', 'Sinusitis', 'Skin Rash', 'Diabetes', 'Anemia', 'Sinusitis', 'Gastroenteritis']",1981-07-23
+9378,679,1972-02-21,"['Hypertension', 'Diabetes', 'Chronic Pain', 'Common Cold']",2015-10-24
+3607,2356,1995-01-07,"['Anemia', 'Arthritis', 'Chronic Pain', 'Flu', 'Anemia', 'Arthritis', 'Arthritis', 'Migraine', 'Arthritis', 'Flu', 'Common Cold', 'Strep Throat', 'Diabetes', 'Bronchitis']",2007-12-23
+2642,8304,2022-07-12,"['Chronic Pain', 'Skin Rash', 'Strep Throat', 'Sinusitis', 'Arthritis', 'Common Cold', 'Common Cold', 'Migraine', 'Pneumonia', 'Hypertension', 'Skin Rash', 'COVID-19', 'Common Cold', 'Bronchitis', 'Anemia', 'COVID-19']",1984-05-17
+3575,6380,1972-11-03,"['Bronchitis', 'Anemia', 'Pneumonia', 'Hypertension', 'Diabetes', 'Chronic Pain', 'Pneumonia', 'Skin Rash', 'Diabetes', 'Asthma', 'Flu', 'Strep Throat', 'Common Cold', 'Arthritis', 'Migraine', 'Diabetes']",1974-01-09
+2964,2902,1970-07-08,"['Common Cold', 'COVID-19', 'Sinusitis', 'Common Cold', 'Sinusitis', 'Anemia', 'Strep Throat', 'Arthritis', 'Common Cold', 'Flu']",1981-04-28
+3892,7967,1991-09-12,"['COVID-19', 'Diabetes', 'COVID-19', 'Migraine']",2006-04-07
+4357,1465,1982-01-16,"['Pneumonia', 'Pneumonia', 'Hypertension', 'Bronchitis', 'Skin Rash', 'Chronic Pain', 'Diabetes', 'Diabetes', 'Pneumonia', 'Diabetes']",1999-01-19
+8146,989,2010-10-25,"['Strep Throat', 'Pneumonia', 'Diabetes', 'COVID-19', 'Arthritis', 'Diabetes', 'Diabetes', 'Hypertension', 'Sinusitis', 'Asthma', 'Bronchitis', 'Skin Rash', 'Gastroenteritis']",2020-12-01
+4837,6994,1980-08-21,"['Hypertension', 'Pneumonia']",1989-03-12
+8481,4890,1994-03-04,"['Asthma', 'Migraine']",2021-08-16
+1792,405,1979-06-19,"['Migraine', 'Sinusitis', 'Pneumonia', 'Gastroenteritis', 'Chronic Pain', 'Asthma']",1991-04-13
+6118,4442,1978-02-09,"['COVID-19', 'Anemia', 'Sinusitis', 'Diabetes']",2012-07-18
+5158,5363,1998-12-17,"['Hypertension', 'Skin Rash', 'Migraine', 'Gastroenteritis', 'Bronchitis', 'Migraine', 'COVID-19', 'Gastroenteritis', 'Common Cold', 'Flu', 'Gastroenteritis', 'Diabetes', 'Pneumonia', 'Chronic Pain']",1974-01-02
+4044,4119,2003-06-19,['Hypertension'],1993-05-28
+8682,5754,1999-02-28,"['Migraine', 'Pneumonia', 'Pneumonia', 'Diabetes', 'Pneumonia', 'Strep Throat', 'Strep Throat', 'Asthma', 'Flu', 'Migraine', 'COVID-19', 'Migraine', 'Common Cold', 'Gastroenteritis', 'Common Cold']",1983-03-03
+1246,9956,2007-04-17,"['Arthritis', 'COVID-19', 'Bronchitis', 'Flu', 'Strep Throat', 'Skin Rash', 'Skin Rash', 'Sinusitis', 'Strep Throat', 'Asthma', 'Chronic Pain', 'Migraine', 'Skin Rash']",1985-05-19
+8147,9124,1986-03-29,"['Anemia', 'Diabetes', 'Skin Rash', 'Asthma']",1970-12-22
+2989,9500,2024-05-04,"['Common Cold', 'Migraine', 'Asthma', 'Anemia']",2007-09-29
+7111,1480,2006-06-19,"['Strep Throat', 'Skin Rash', 'Chronic Pain', 'Strep Throat', 'Diabetes', 'Flu', 'Diabetes', 'Asthma', 'Migraine', 'Strep Throat', 'Hypertension', 'Hypertension']",2021-11-02
+5414,687,1982-02-21,"['Bronchitis', 'Hypertension', 'Flu']",1975-05-09
+2083,5659,2014-12-23,"['Pneumonia', 'Asthma']",1992-06-02
+6851,958,1975-05-16,"['Skin Rash', 'Hypertension', 'Asthma', 'Gastroenteritis']",2018-03-04
+6340,3010,1980-05-15,"['Flu', 'Strep Throat', 'Bronchitis', 'Chronic Pain', 'Diabetes', 'Flu', 'Common Cold', 'Migraine', 'COVID-19']",1986-04-24
+1143,192,2016-11-15,"['Hypertension', 'Diabetes', 'Skin Rash', 'Pneumonia', 'Diabetes', 'Arthritis', 'Strep Throat', 'Migraine', 'Gastroenteritis', 'Diabetes', 'Bronchitis', 'Chronic Pain', 'Flu', 'Chronic Pain']",2011-12-25
+7057,2755,1990-11-04,"['Chronic Pain', 'Bronchitis', 'Strep Throat', 'Hypertension', 'Anemia', 'Migraine', 'Pneumonia']",1981-08-16
+872,2162,1992-03-23,"['Diabetes', 'Skin Rash', 'Asthma', 'Skin Rash', 'Anemia', 'Hypertension', 'Arthritis']",2019-09-27
+6254,8684,2011-11-04,"['COVID-19', 'Asthma', 'Chronic Pain', 'Migraine', 'Common Cold', 'Sinusitis', 'Sinusitis', 'Skin Rash']",2021-05-09
+3775,2511,2010-07-30,"['Strep Throat', 'Pneumonia', 'Arthritis', 'Diabetes', 'Gastroenteritis', 'Gastroenteritis', 'Flu', 'Gastroenteritis', 'Skin Rash', 'Common Cold']",2003-07-06
+3996,8635,2023-06-05,"['Bronchitis', 'Sinusitis', 'Sinusitis', 'Skin Rash', 'Hypertension', 'Chronic Pain', 'Bronchitis', 'Skin Rash', 'Bronchitis', 'Common Cold', 'Skin Rash', 'Strep Throat', 'Asthma']",2005-05-10
+2668,8031,1975-07-07,"['Gastroenteritis', 'Migraine', 'Flu']",2011-12-16
+5509,9808,1981-04-20,"['Chronic Pain', 'Bronchitis']",1982-12-21
+720,6854,2021-01-09,"['Pneumonia', 'Gastroenteritis', 'Chronic Pain', 'Asthma', 'Skin Rash', 'Skin Rash', 'Pneumonia', 'Migraine', 'Arthritis', 'Common Cold']",2022-10-17
+5972,4057,1995-05-09,"['Flu', 'Flu', 'Arthritis', 'Flu', 'Gastroenteritis', 'Arthritis']",2007-12-31
+2342,6484,2024-08-07,"['Anemia', 'Chronic Pain', 'Anemia', 'Gastroenteritis', 'Bronchitis', 'Bronchitis']",1987-02-14
+5844,1918,1994-05-25,"['Strep Throat', 'Bronchitis']",1986-08-24
+9675,5459,1998-06-11,"['Asthma', 'Diabetes', 'Arthritis', 'Arthritis', 'Diabetes', 'Migraine', 'Chronic Pain', 'Sinusitis', 'Common Cold', 'COVID-19', 'Strep Throat']",1997-04-14
+9789,8824,2005-09-05,"['Anemia', 'Pneumonia', 'Gastroenteritis', 'Migraine', 'Chronic Pain', 'Pneumonia', 'Gastroenteritis', 'Pneumonia', 'Hypertension', 'Bronchitis']",2021-07-09
+3143,9652,1995-04-25,"['Strep Throat', 'Migraine', 'Pneumonia', 'Gastroenteritis', 'Bronchitis', 'Strep Throat', 'Anemia']",2019-11-06
+7645,3444,1987-07-06,"['Chronic Pain', 'Chronic Pain', 'Skin Rash', 'Gastroenteritis', 'Anemia', 'Migraine', 'Asthma', 'COVID-19']",2004-01-24
+4728,1940,1978-08-04,"['Pneumonia', 'Skin Rash', 'Migraine', 'Skin Rash', 'Pneumonia', 'Flu', 'Flu', 'Gastroenteritis', 'Pneumonia', 'Diabetes', 'Pneumonia', 'Gastroenteritis', 'Hypertension', 'Chronic Pain', 'Asthma']",2000-03-24
+7175,5229,1979-08-30,"['Gastroenteritis', 'Pneumonia', 'Hypertension', 'Diabetes', 'Common Cold', 'Asthma', 'Common Cold', 'Pneumonia']",2005-05-20
+8804,2868,1989-05-16,"['Sinusitis', 'Anemia', 'Pneumonia', 'Anemia', 'Flu', 'Common Cold', 'Asthma', 'Asthma', 'Gastroenteritis', 'Hypertension']",1997-05-16
+9853,2841,1987-05-02,"['Anemia', 'Skin Rash', 'Chronic Pain', 'Skin Rash', 'Pneumonia', 'Skin Rash', 'Diabetes', 'Arthritis', 'Hypertension', 'Sinusitis', 'Migraine', 'COVID-19', 'Chronic Pain', 'COVID-19', 'COVID-19']",1973-08-05
+3473,2530,1995-11-15,"['Bronchitis', 'Migraine', 'Arthritis', 'Skin Rash', 'Arthritis', 'Asthma', 'Diabetes', 'COVID-19']",1980-06-24
+3329,2378,1970-10-03,"['Arthritis', 'Strep Throat', 'Skin Rash']",1992-06-25
+2494,7176,1970-04-03,"['Bronchitis', 'Skin Rash', 'Asthma', 'Gastroenteritis', 'Chronic Pain', 'Flu', 'COVID-19', 'Gastroenteritis', 'Skin Rash', 'Skin Rash', 'COVID-19', 'Migraine', 'Migraine', 'Pneumonia', 'Pneumonia', 'Chronic Pain']",1970-02-26
+5217,4552,2010-06-28,"['COVID-19', 'Hypertension', 'Gastroenteritis', 'Common Cold', 'Migraine', 'Gastroenteritis', 'Gastroenteritis', 'Skin Rash', 'COVID-19', 'Strep Throat', 'Anemia', 'Chronic Pain']",2012-03-09
+5252,7890,1972-07-20,"['Pneumonia', 'COVID-19', 'Arthritis', 'Diabetes', 'Anemia', 'Common Cold', 'Migraine', 'Bronchitis', 'COVID-19', 'Gastroenteritis', 'Bronchitis', 'Diabetes', 'Sinusitis', 'Sinusitis']",2005-05-22
+9128,1290,1983-09-14,"['Sinusitis', 'Bronchitis', 'Strep Throat', 'Migraine', 'Pneumonia', 'Flu']",1991-07-22
+9702,7635,2018-06-11,"['COVID-19', 'Diabetes', 'Pneumonia', 'Chronic Pain', 'Skin Rash', 'Diabetes', 'Chronic Pain', 'Anemia', 'Anemia', 'Diabetes', 'Hypertension', 'Migraine']",1974-05-14
+7644,3373,1983-04-20,"['COVID-19', 'Skin Rash', 'COVID-19', 'Bronchitis', 'Bronchitis', 'Strep Throat', 'COVID-19', 'COVID-19', 'Skin Rash', 'Gastroenteritis', 'COVID-19', 'Gastroenteritis']",2002-01-04
+604,3965,1980-01-23,"['Skin Rash', 'Flu']",2015-02-28
+810,9495,1980-12-04,"['Flu', 'Diabetes']",1983-02-12
+562,5021,1982-04-23,"['Asthma', 'Hypertension', 'Hypertension', 'Asthma', 'Skin Rash', 'COVID-19', 'Hypertension', 'Common Cold', 'Arthritis', 'Hypertension', 'Gastroenteritis', 'Hypertension']",1981-07-19
+2448,2745,2014-04-20,"['Pneumonia', 'Hypertension', 'Common Cold', 'Diabetes', 'Flu', 'Sinusitis', 'Sinusitis', 'Gastroenteritis', 'COVID-19', 'Gastroenteritis', 'Bronchitis', 'COVID-19']",1985-07-15
+238,6680,2003-06-07,"['Arthritis', 'Sinusitis', 'Diabetes', 'Hypertension', 'Arthritis', 'Sinusitis', 'Arthritis']",2022-04-07
+2826,8395,2000-03-01,"['Hypertension', 'Bronchitis', 'Gastroenteritis', 'Hypertension', 'Chronic Pain', 'Pneumonia', 'Arthritis', 'Common Cold', 'Flu']",1997-10-24
+4333,2353,2019-03-17,"['Pneumonia', 'Skin Rash', 'Bronchitis', 'Arthritis', 'Strep Throat', 'COVID-19', 'Flu', 'Migraine', 'Sinusitis', 'Pneumonia', 'COVID-19', 'Common Cold', 'Bronchitis', 'Flu', 'Sinusitis', 'Chronic Pain']",2015-05-28
+1560,7782,1988-04-30,"['Pneumonia', 'Asthma', 'Anemia', 'Diabetes', 'Sinusitis', 'Strep Throat', 'Strep Throat', 'Chronic Pain']",2019-06-15
+488,1166,2022-11-24,"['Chronic Pain', 'Anemia', 'Hypertension', 'Pneumonia', 'COVID-19', 'COVID-19', 'Flu', 'Common Cold', 'Diabetes']",1991-04-13
+4236,2614,2005-05-18,"['Diabetes', 'Arthritis', 'Anemia']",1989-10-16
+5830,3570,1981-08-24,"['Common Cold', 'Asthma', 'Pneumonia', 'Common Cold', 'Chronic Pain', 'Flu', 'COVID-19', 'Strep Throat', 'Hypertension', 'Migraine']",1983-02-04
+590,731,2021-07-26,"['Anemia', 'Arthritis', 'Chronic Pain', 'Diabetes', 'Arthritis', 'Flu', 'Pneumonia', 'Bronchitis', 'Chronic Pain', 'Migraine', 'Anemia', 'Arthritis']",2002-05-10
+7078,2455,1998-12-30,"['Asthma', 'Migraine', 'Diabetes', 'Chronic Pain', 'Pneumonia', 'COVID-19', 'Common Cold', 'Strep Throat', 'Pneumonia', 'Anemia', 'Sinusitis', 'Diabetes', 'COVID-19', 'COVID-19']",2001-02-27
+8099,2411,2003-03-06,"['Asthma', 'Asthma']",2013-01-04
+5894,5719,1986-09-13,"['Skin Rash', 'Bronchitis', 'Skin Rash', 'Common Cold', 'Asthma', 'Sinusitis', 'Migraine', 'Asthma', 'Strep Throat', 'COVID-19', 'Common Cold']",1985-06-05
+8475,9372,1992-05-31,"['Flu', 'Migraine', 'Diabetes', 'Migraine', 'Skin Rash', 'Diabetes', 'Skin Rash', 'Strep Throat', 'Sinusitis', 'Strep Throat', 'Strep Throat', 'COVID-19', 'Gastroenteritis', 'Flu']",1982-06-11
+3040,8508,1982-02-03,"['COVID-19', 'Gastroenteritis', 'Migraine', 'Skin Rash', 'Arthritis', 'Migraine', 'Diabetes', 'COVID-19', 'Chronic Pain']",1982-12-17
+3585,8375,1984-12-03,"['Arthritis', 'Anemia', 'Diabetes', 'Pneumonia', 'Asthma', 'Anemia', 'Migraine', 'Sinusitis', 'Sinusitis', 'Anemia', 'Strep Throat', 'Flu', 'Migraine', 'Pneumonia']",1990-12-05
+7098,6680,2020-01-27,"['Anemia', 'Pneumonia', 'Flu', 'Migraine', 'Migraine', 'Bronchitis', 'Bronchitis', 'Flu', 'Pneumonia', 'Bronchitis', 'Migraine']",1989-02-19
+6429,4119,2012-10-25,"['Asthma', 'Migraine', 'COVID-19', 'COVID-19', 'Diabetes', 'Bronchitis', 'Strep Throat', 'Sinusitis', 'Chronic Pain', 'Pneumonia', 'Common Cold', 'Arthritis', 'COVID-19', 'Gastroenteritis', 'COVID-19', 'Hypertension']",2013-10-03
+3777,8895,2008-07-17,"['Skin Rash', 'Diabetes', 'Pneumonia', 'Asthma']",1984-04-29
+5397,2650,1979-10-02,"['Chronic Pain', 'Gastroenteritis', 'Strep Throat', 'Arthritis', 'Anemia', 'Diabetes', 'Chronic Pain', 'COVID-19', 'Anemia', 'Gastroenteritis', 'Gastroenteritis', 'Asthma', 'Anemia', 'Bronchitis']",2019-05-16
+6651,5782,2001-08-09,"['COVID-19', 'Common Cold', 'COVID-19', 'Gastroenteritis', 'Chronic Pain', 'Asthma', 'Bronchitis', 'Bronchitis', 'Skin Rash', 'Pneumonia']",1978-02-19
+4566,6072,2018-05-05,"['Common Cold', 'Bronchitis', 'Asthma', 'Chronic Pain', 'Pneumonia', 'Sinusitis']",2003-06-27
+8712,8670,2023-06-28,"['Diabetes', 'Pneumonia', 'Common Cold', 'Gastroenteritis', 'Skin Rash', 'Chronic Pain', 'Flu', 'Diabetes', 'Migraine', 'Bronchitis', 'Flu', 'Flu', 'Sinusitis', 'Migraine', 'Hypertension', 'Anemia']",2006-08-22
+3405,7281,1984-10-07,"['Asthma', 'Asthma', 'Common Cold', 'Bronchitis', 'Chronic Pain', 'Gastroenteritis', 'Strep Throat', 'Common Cold', 'Chronic Pain', 'Strep Throat', 'Sinusitis', 'Skin Rash', 'Skin Rash', 'Diabetes', 'Asthma', 'Flu']",2009-07-11
+1260,6189,1980-05-21,"['Strep Throat', 'Arthritis']",1984-05-14
+1316,4477,2007-12-26,"['Arthritis', 'Asthma', 'Chronic Pain', 'Migraine', 'Hypertension', 'Anemia', 'Diabetes', 'Chronic Pain', 'Flu', 'Common Cold', 'Anemia', 'Bronchitis']",1980-01-03
+8717,687,1971-02-04,"['Common Cold', 'Asthma', 'Gastroenteritis', 'Chronic Pain', 'Migraine', 'Asthma', 'Flu']",1989-12-14
+6934,1086,1972-02-16,"['Hypertension', 'Gastroenteritis', 'Hypertension', 'COVID-19', 'Hypertension', 'COVID-19', 'Arthritis', 'Flu', 'Diabetes', 'Flu', 'COVID-19', 'Anemia']",1995-08-19
+4878,5935,1996-11-22,"['Flu', 'Pneumonia', 'COVID-19', 'COVID-19', 'Common Cold', 'Bronchitis', 'Chronic Pain', 'Chronic Pain', 'Pneumonia', 'Anemia', 'Migraine', 'Strep Throat']",1972-09-03
+526,2407,2014-04-01,"['Gastroenteritis', 'COVID-19', 'Asthma', 'Migraine', 'Bronchitis', 'Chronic Pain', 'Pneumonia', 'Sinusitis', 'Skin Rash', 'Sinusitis', 'Bronchitis', 'Pneumonia', 'Strep Throat', 'Bronchitis']",1996-12-19
+7724,5806,1973-02-01,"['Pneumonia', 'Diabetes', 'Common Cold', 'Flu']",1989-10-29
+9085,8223,1970-03-16,"['Hypertension', 'Pneumonia', 'Strep Throat', 'Common Cold', 'Common Cold', 'COVID-19']",1984-08-20
+174,1908,1977-12-29,"['Flu', 'Arthritis', 'Skin Rash', 'Strep Throat', 'Flu', 'COVID-19', 'Bronchitis', 'Anemia']",2000-05-17
+2785,7924,1982-07-04,"['Anemia', 'Pneumonia', 'Chronic Pain', 'Diabetes', 'Flu']",2015-09-17
+1995,1149,1982-02-05,"['Strep Throat', 'Common Cold']",1993-12-19
+8532,3277,2004-09-17,"['Pneumonia', 'Flu', 'Flu', 'Asthma', 'Skin Rash']",1971-08-31
+2795,3751,2022-12-06,"['Diabetes', 'Diabetes', 'Bronchitis', 'COVID-19', 'Common Cold', 'COVID-19', 'Gastroenteritis']",1999-05-07
+4008,8626,2022-04-01,"['COVID-19', 'Bronchitis', 'Common Cold', 'Pneumonia', 'Common Cold', 'Flu', 'Anemia', 'Gastroenteritis', 'Gastroenteritis', 'COVID-19', 'Arthritis', 'Common Cold', 'Skin Rash', 'Chronic Pain', 'Pneumonia', 'Migraine']",1995-04-15
+8948,3306,1983-12-26,"['Common Cold', 'Migraine', 'Anemia', 'Strep Throat', 'Strep Throat', 'Gastroenteritis', 'Hypertension', 'Gastroenteritis']",2013-12-21
+7802,4971,2011-03-08,"['Hypertension', 'Pneumonia', 'Anemia', 'Hypertension', 'Migraine', 'Anemia', 'Migraine', 'COVID-19', 'Skin Rash', 'Asthma', 'Flu', 'Anemia', 'Skin Rash', 'Migraine', 'Common Cold', 'Diabetes']",1996-07-16
+7779,6962,1981-11-01,"['Arthritis', 'Flu', 'Flu', 'Skin Rash']",1977-05-29
+3470,4939,1992-05-27,"['Migraine', 'Gastroenteritis', 'Chronic Pain', 'Asthma', 'Common Cold', 'Flu', 'COVID-19', 'Gastroenteritis', 'Flu', 'Asthma']",1999-02-03
+634,458,1972-10-02,"['Diabetes', 'Arthritis', 'Skin Rash', 'Chronic Pain', 'Asthma', 'Diabetes', 'Sinusitis', 'COVID-19', 'Common Cold', 'COVID-19', 'Arthritis', 'COVID-19', 'Skin Rash', 'Arthritis', 'Anemia', 'Flu']",1975-05-15
+9735,5781,2010-10-24,"['Common Cold', 'Pneumonia', 'Bronchitis', 'Arthritis', 'COVID-19']",2017-04-04
+9655,2157,1994-07-15,"['Strep Throat', 'Skin Rash', 'Pneumonia', 'Anemia', 'Hypertension', 'Diabetes', 'Anemia', 'Strep Throat', 'Flu', 'Arthritis']",1992-06-08
+9323,4080,1986-03-16,"['Hypertension', 'Gastroenteritis', 'COVID-19', 'Bronchitis', 'Diabetes', 'COVID-19', 'Migraine', 'Asthma']",1971-08-06
+5487,2538,1984-01-25,"['Sinusitis', 'Strep Throat', 'Common Cold', 'Flu', 'Sinusitis', 'Pneumonia', 'Strep Throat', 'Skin Rash', 'Anemia', 'Skin Rash', 'Pneumonia', 'Arthritis']",1988-08-13
+4420,51,1993-06-29,"['Pneumonia', 'Diabetes', 'Skin Rash', 'Migraine', 'Migraine', 'Migraine', 'Pneumonia', 'COVID-19']",1984-04-03
+69,9365,1988-05-14,"['Skin Rash', 'Flu', 'Diabetes']",1984-07-25
+3126,4917,1978-12-01,"['Common Cold', 'Chronic Pain', 'Sinusitis', 'Chronic Pain', 'Strep Throat', 'Skin Rash', 'Common Cold']",2005-05-07
+2761,2122,1997-12-19,"['Anemia', 'Gastroenteritis', 'Diabetes', 'Sinusitis', 'Common Cold', 'Flu']",2002-07-25
+3457,7308,1989-09-17,"['Chronic Pain', 'Anemia', 'Bronchitis', 'Chronic Pain', 'Hypertension', 'Anemia', 'Chronic Pain', 'Arthritis', 'Hypertension', 'Chronic Pain']",1985-08-13
+3416,2790,2012-11-10,"['Migraine', 'Pneumonia', 'Flu', 'Arthritis', 'Bronchitis', 'Anemia', 'Bronchitis', 'Bronchitis', 'Asthma']",1987-01-07
+8100,7877,2019-05-09,"['Skin Rash', 'Anemia', 'Common Cold', 'Skin Rash']",1988-05-03
+7596,7812,2019-06-10,"['Bronchitis', 'Arthritis', 'Anemia', 'Arthritis', 'Gastroenteritis']",2014-04-05
+8737,5730,1995-12-27,['Pneumonia'],1978-03-04
+3191,347,1996-12-25,"['Sinusitis', 'Strep Throat', 'Diabetes', 'Bronchitis', 'Sinusitis', 'COVID-19', 'Pneumonia', 'Anemia', 'Chronic Pain', 'Diabetes', 'Anemia', 'Bronchitis', 'Migraine', 'Flu', 'Common Cold']",1994-01-18
+5668,7133,2000-07-05,"['Asthma', 'Gastroenteritis', 'Pneumonia', 'Strep Throat', 'COVID-19']",1996-06-18
+5985,1233,2017-03-22,"['Arthritis', 'Flu', 'Skin Rash', 'Strep Throat', 'Bronchitis', 'Skin Rash', 'Gastroenteritis', 'Diabetes', 'Pneumonia', 'Bronchitis', 'Hypertension', 'Anemia', 'Arthritis']",2021-09-02
+4883,7890,1995-04-02,"['Arthritis', 'Anemia', 'Sinusitis', 'Gastroenteritis', 'Anemia']",1993-02-07
+9410,6410,1971-11-03,"['Asthma', 'Migraine', 'Pneumonia', 'Anemia', 'Bronchitis']",1982-06-02
+4852,6242,2024-09-07,"['Asthma', 'Chronic Pain', 'Common Cold', 'Chronic Pain', 'Hypertension', 'Common Cold', 'Hypertension', 'Skin Rash', 'Chronic Pain', 'COVID-19', 'Arthritis', 'Gastroenteritis', 'Diabetes', 'Gastroenteritis']",1980-01-30
+3980,8922,2019-11-28,"['Anemia', 'Anemia', 'Pneumonia', 'Flu', 'Asthma', 'Common Cold', 'Strep Throat', 'Anemia', 'Pneumonia', 'Common Cold', 'Chronic Pain', 'Gastroenteritis', 'Skin Rash', 'Asthma', 'Common Cold', 'Common Cold']",2010-03-05
+9878,2912,1970-09-13,"['Hypertension', 'Flu', 'Flu', 'Arthritis', 'Diabetes', 'Common Cold', 'Bronchitis', 'Gastroenteritis', 'Chronic Pain', 'Pneumonia', 'Gastroenteritis']",2006-05-04
+7424,6629,2023-09-20,"['Bronchitis', 'Bronchitis', 'Hypertension', 'Pneumonia', 'Pneumonia', 'Sinusitis', 'COVID-19', 'Gastroenteritis', 'Strep Throat']",2003-12-31
+8706,701,2001-09-16,"['COVID-19', 'Pneumonia', 'Strep Throat', 'Gastroenteritis', 'Arthritis', 'Sinusitis', 'Common Cold', 'Diabetes', 'Gastroenteritis', 'Chronic Pain', 'Flu', 'Flu', 'Strep Throat', 'Anemia', 'Asthma']",1982-04-02
+7511,222,1973-10-10,['Bronchitis'],2013-12-01
+2953,4193,1980-07-30,"['Pneumonia', 'Diabetes', 'Skin Rash', 'Chronic Pain', 'COVID-19', 'Bronchitis', 'Common Cold']",1989-12-20
+6132,9525,1984-08-19,"['Skin Rash', 'Bronchitis', 'Anemia', 'Skin Rash', 'Bronchitis', 'Arthritis', 'Arthritis', 'Common Cold', 'Sinusitis', 'Common Cold', 'COVID-19', 'Bronchitis', 'Bronchitis']",1993-10-22
+546,3881,1974-08-09,"['Gastroenteritis', 'Gastroenteritis', 'Arthritis', 'Chronic Pain', 'Hypertension', 'Anemia']",2008-11-14
+2780,5229,1985-12-08,"['Chronic Pain', 'Strep Throat', 'Skin Rash', 'Bronchitis', 'Arthritis', 'Skin Rash', 'Sinusitis', 'Skin Rash', 'Pneumonia', 'Skin Rash', 'Diabetes', 'Hypertension', 'Sinusitis']",1979-04-09
+9341,4340,1975-05-09,"['Diabetes', 'Asthma']",2001-02-09
+9991,4145,2011-10-17,"['Common Cold', 'Asthma', 'Strep Throat', 'COVID-19', 'Skin Rash', 'Bronchitis', 'Arthritis', 'Arthritis', 'Bronchitis', 'Migraine']",1970-01-20
+8436,1089,2008-06-22,"['Skin Rash', 'Pneumonia', 'Strep Throat']",1977-07-13
+3932,9995,1999-03-03,"['Arthritis', 'Asthma', 'Asthma', 'COVID-19', 'Common Cold', 'Anemia', 'Migraine', 'Common Cold', 'Bronchitis', 'Skin Rash', 'Strep Throat', 'Chronic Pain', 'Diabetes']",1981-01-26
+131,8951,1994-10-26,"['Migraine', 'Flu', 'Diabetes', 'Bronchitis', 'Chronic Pain']",1979-05-26
+8294,7284,2011-10-06,"['Flu', 'Gastroenteritis', 'Flu', 'Hypertension', 'COVID-19', 'Flu', 'Gastroenteritis', 'Pneumonia', 'Pneumonia', 'Diabetes', 'Flu']",1991-03-21
+6928,9035,1977-07-09,"['Diabetes', 'Anemia', 'Diabetes', 'Asthma', 'Bronchitis', 'Sinusitis']",2009-01-05
+8078,2477,2024-08-24,['Strep Throat'],1971-06-15
+7196,2157,1974-12-26,"['COVID-19', 'Anemia', 'Common Cold', 'Chronic Pain', 'Strep Throat', 'Hypertension', 'Skin Rash', 'Arthritis', 'Skin Rash', 'Pneumonia', 'Hypertension', 'Asthma', 'Pneumonia', 'Bronchitis', 'Strep Throat']",1993-05-27
+4321,4374,2008-08-04,"['Sinusitis', 'Strep Throat', 'Arthritis', 'Diabetes']",1974-01-19
+1864,7735,1996-10-01,"['Pneumonia', 'Sinusitis', 'Arthritis', 'COVID-19', 'Pneumonia', 'Asthma', 'Arthritis', 'Skin Rash', 'Gastroenteritis', 'Sinusitis', 'COVID-19', 'COVID-19', 'Pneumonia', 'Strep Throat', 'Diabetes']",2000-09-18
+7537,7979,2003-04-11,"['Asthma', 'Strep Throat', 'Chronic Pain', 'Strep Throat', 'Asthma', 'Pneumonia', 'Skin Rash', 'Gastroenteritis', 'Skin Rash', 'Skin Rash', 'Anemia', 'Hypertension', 'Pneumonia']",1995-04-11
+9048,4453,1977-08-19,"['Arthritis', 'Asthma', 'Anemia', 'Pneumonia', 'COVID-19', 'Diabetes', 'Arthritis']",2021-08-25
+9721,2053,1977-04-17,"['Migraine', 'Flu', 'Sinusitis', 'Pneumonia', 'Hypertension']",2000-06-18
+772,8892,1987-06-03,"['Hypertension', 'Skin Rash', 'Chronic Pain', 'Asthma', 'Common Cold']",1985-09-12
+2320,4429,1991-12-21,"['Anemia', 'Sinusitis', 'Sinusitis', 'Strep Throat', 'Migraine', 'Strep Throat', 'Pneumonia', 'Anemia', 'Diabetes', 'Strep Throat', 'Arthritis', 'Gastroenteritis']",1975-01-03
+3604,3147,1983-08-21,"['Bronchitis', 'Arthritis', 'Gastroenteritis', 'Skin Rash', 'Anemia', 'Migraine', 'Hypertension', 'Gastroenteritis', 'Common Cold', 'Arthritis', 'Pneumonia', 'Skin Rash', 'Migraine', 'Diabetes', 'Strep Throat', 'Bronchitis']",1973-02-13
+9159,9787,2011-10-02,"['Asthma', 'Sinusitis']",2005-11-05
+1520,1034,1979-10-17,"['Flu', 'Arthritis', 'Diabetes', 'Migraine', 'Pneumonia', 'Chronic Pain', 'Chronic Pain', 'Chronic Pain', 'Chronic Pain', 'Skin Rash', 'Anemia', 'Pneumonia', 'Hypertension', 'Bronchitis', 'Gastroenteritis', 'COVID-19']",2000-03-30
+4373,1656,2007-09-03,"['Chronic Pain', 'Asthma', 'Chronic Pain', 'Skin Rash', 'Common Cold', 'Gastroenteritis', 'Arthritis', 'Diabetes', 'Hypertension', 'Chronic Pain', 'Chronic Pain', 'Chronic Pain']",2010-05-27
+8830,3381,1987-06-08,"['Diabetes', 'Gastroenteritis', 'Diabetes', 'Pneumonia', 'Strep Throat', 'Migraine', 'Sinusitis', 'Strep Throat', 'Common Cold', 'COVID-19', 'Flu', 'Strep Throat']",2019-08-02
+108,7326,2013-01-17,"['Pneumonia', 'Bronchitis', 'Skin Rash', 'Asthma', 'Gastroenteritis', 'Sinusitis', 'Sinusitis', 'Arthritis', 'Hypertension', 'Flu']",2001-11-05
+6390,6763,1970-08-28,"['COVID-19', 'Bronchitis']",2005-08-10
+3184,9508,1987-12-12,"['Common Cold', 'Gastroenteritis', 'Gastroenteritis', 'Common Cold', 'Pneumonia', 'Gastroenteritis', 'Arthritis', 'Hypertension', 'Common Cold', 'Common Cold', 'Gastroenteritis', 'Sinusitis']",2017-02-25
+431,4409,1979-11-28,"['Strep Throat', 'COVID-19', 'Asthma', 'Bronchitis', 'Bronchitis', 'Chronic Pain', 'Anemia', 'Bronchitis', 'Gastroenteritis', 'Migraine', 'Bronchitis']",1985-12-10
+1573,9124,1984-03-28,"['Hypertension', 'Pneumonia', 'Sinusitis', 'Hypertension', 'Sinusitis', 'Arthritis']",2016-02-28
+3326,1568,2020-09-03,"['Gastroenteritis', 'Anemia']",1981-11-02
+2823,2977,2008-11-17,"['Arthritis', 'Bronchitis', 'Diabetes', 'Gastroenteritis', 'Bronchitis', 'Migraine', 'Skin Rash', 'COVID-19', 'Asthma', 'Anemia']",2015-11-10
+9856,3757,1998-05-16,"['Flu', 'Bronchitis', 'Hypertension', 'Flu', 'Sinusitis', 'Skin Rash', 'Hypertension', 'Bronchitis', 'Sinusitis', 'Sinusitis', 'Diabetes', 'Skin Rash', 'COVID-19']",2013-04-05
+6597,5005,1984-09-17,"['Flu', 'Migraine']",2006-01-28
+9768,2407,2022-08-08,"['Flu', 'Arthritis', 'Strep Throat', 'Common Cold', 'Migraine', 'Bronchitis', 'Chronic Pain', 'Sinusitis', 'Diabetes', 'Migraine', 'Sinusitis', 'Pneumonia']",1993-05-24
+21,4721,1989-11-15,"['Migraine', 'Chronic Pain', 'Flu', 'Skin Rash', 'Hypertension', 'Flu', 'COVID-19', 'Chronic Pain', 'Arthritis', 'Gastroenteritis', 'Gastroenteritis', 'Sinusitis', 'Chronic Pain', 'Skin Rash', 'Skin Rash']",2014-09-08
+3136,5232,1992-10-02,"['Asthma', 'Flu', 'Anemia', 'Arthritis', 'Flu', 'Strep Throat', 'Strep Throat', 'Sinusitis', 'Hypertension', 'Flu', 'Strep Throat', 'Pneumonia', 'Hypertension', 'Arthritis', 'Diabetes', 'Diabetes']",2015-01-23
+4467,8632,2019-06-27,"['Sinusitis', 'Migraine', 'COVID-19', 'COVID-19', 'Bronchitis', 'Strep Throat']",1973-10-15
+7623,8907,2013-03-26,"['COVID-19', 'Migraine', 'Flu', 'Flu', 'Gastroenteritis', 'Anemia', 'Strep Throat', 'Diabetes', 'Common Cold', 'Sinusitis', 'Bronchitis', 'Sinusitis', 'Bronchitis']",2021-08-24
+1028,8758,2006-02-07,['Hypertension'],1979-10-18
+4018,7816,2013-03-03,['Bronchitis'],2012-11-09
+5500,3053,1977-07-23,"['Skin Rash', 'Skin Rash', 'Arthritis', 'Common Cold', 'Gastroenteritis', 'Anemia', 'Skin Rash', 'Bronchitis', 'Anemia', 'Arthritis', 'Sinusitis', 'Common Cold', 'Diabetes']",2005-05-16
+1342,4313,1988-07-09,"['Sinusitis', 'Asthma', 'Skin Rash', 'COVID-19', 'Common Cold', 'Common Cold', 'Gastroenteritis', 'Flu', 'Hypertension', 'COVID-19', 'Bronchitis']",1989-12-22
+6996,7291,1991-10-02,"['Arthritis', 'Skin Rash', 'Bronchitis', 'Pneumonia']",2009-09-17
+7156,1331,2012-08-09,"['Chronic Pain', 'Hypertension', 'Arthritis', 'Common Cold', 'Chronic Pain', 'Flu', 'Arthritis']",1988-08-20
+6175,1089,1987-12-21,"['Diabetes', 'Chronic Pain', 'Arthritis', 'Flu', 'Sinusitis', 'Hypertension', 'Diabetes', 'Arthritis', 'COVID-19', 'Flu', 'Bronchitis']",2002-01-12
+6196,5595,1973-01-22,"['Strep Throat', 'Gastroenteritis', 'Skin Rash', 'Arthritis', 'Flu', 'Hypertension', 'Diabetes']",2010-12-24
+853,3695,1984-12-14,"['Common Cold', 'Arthritis', 'Migraine', 'Flu']",1990-10-03
+3633,9810,2021-11-11,"['Skin Rash', 'Bronchitis', 'Strep Throat']",2022-08-07
+4022,1425,2004-09-27,"['Asthma', 'Flu', 'Hypertension', 'Hypertension', 'Chronic Pain', 'Asthma', 'Bronchitis', 'Pneumonia', 'Skin Rash', 'Anemia', 'Arthritis', 'Chronic Pain', 'Bronchitis', 'Anemia']",1972-05-20
+9347,7762,2002-04-22,"['Flu', 'Gastroenteritis', 'Migraine', 'Migraine', 'Strep Throat', 'Arthritis', 'Common Cold', 'Strep Throat']",2012-08-15
+7717,8356,2007-07-11,"['Gastroenteritis', 'Anemia', 'Common Cold', 'Migraine', 'Sinusitis', 'Bronchitis', 'Flu', 'Chronic Pain', 'Asthma', 'Pneumonia', 'Migraine', 'Hypertension', 'Pneumonia']",2005-11-20
+1852,7877,2011-07-30,"['Sinusitis', 'Gastroenteritis', 'Sinusitis', 'Anemia', 'Flu', 'Asthma', 'Diabetes', 'Arthritis', 'Strep Throat', 'Diabetes', 'Hypertension', 'Arthritis', 'Bronchitis', 'Flu', 'Hypertension']",1990-02-19
+8036,9230,1982-02-26,"['Common Cold', 'Chronic Pain', 'COVID-19']",2018-02-13
+8075,858,2024-04-02,"['Chronic Pain', 'Flu', 'Anemia', 'Pneumonia', 'Gastroenteritis', 'Migraine', 'Flu', 'Anemia', 'Skin Rash', 'Migraine', 'Diabetes', 'Flu', 'COVID-19', 'Flu']",1973-12-20
+4833,7907,1993-05-02,"['Asthma', 'Bronchitis', 'Gastroenteritis', 'Hypertension', 'Migraine', 'Skin Rash', 'Sinusitis', 'Asthma', 'Common Cold', 'Skin Rash', 'Migraine', 'COVID-19', 'Anemia', 'Strep Throat', 'Skin Rash', 'Anemia']",2016-01-20
+2950,8081,2024-04-07,"['Flu', 'Flu']",1971-12-28
+4520,7222,1974-06-14,"['Flu', 'Arthritis', 'Diabetes', 'Hypertension', 'Migraine', 'Flu', 'Anemia', 'Sinusitis', 'COVID-19', 'Asthma', 'Flu', 'Arthritis', 'Hypertension', 'Gastroenteritis', 'Anemia']",2015-02-08
+825,1412,1980-04-19,"['Chronic Pain', 'Common Cold', 'Bronchitis', 'Sinusitis', 'Pneumonia', 'Pneumonia', 'Common Cold', 'Gastroenteritis', 'Flu', 'Hypertension', 'Bronchitis', 'Strep Throat', 'Common Cold', 'Chronic Pain']",2001-09-14
+8534,4405,1985-09-07,"['Flu', 'Asthma', 'Chronic Pain', 'Gastroenteritis', 'Sinusitis', 'Migraine', 'Gastroenteritis']",1994-10-16
+4972,9418,2006-08-20,"['Common Cold', 'Anemia', 'Strep Throat', 'COVID-19', 'Arthritis', 'Skin Rash', 'Arthritis', 'Gastroenteritis', 'Pneumonia']",1995-02-21
+1867,7020,2020-05-17,"['Strep Throat', 'Bronchitis', 'Bronchitis', 'Chronic Pain', 'Anemia', 'Asthma', 'Flu', 'Chronic Pain', 'Bronchitis', 'Pneumonia', 'Migraine', 'COVID-19', 'Gastroenteritis', 'Gastroenteritis', 'Common Cold']",1970-08-28
+361,192,1970-04-17,"['Gastroenteritis', 'Migraine', 'Sinusitis', 'Chronic Pain', 'Common Cold', 'Arthritis', 'Common Cold', 'Flu', 'Common Cold', 'Arthritis', 'Hypertension', 'Hypertension', 'Diabetes']",2022-08-07
+4257,4479,2011-02-10,"['Sinusitis', 'Skin Rash', 'Migraine', 'Diabetes', 'Hypertension', 'Sinusitis', 'Hypertension', 'Bronchitis', 'Chronic Pain', 'Anemia', 'Flu', 'Chronic Pain', 'Flu', 'Skin Rash', 'Asthma']",2007-10-07
+8248,3030,1991-10-04,['Skin Rash'],1991-09-12
+7369,824,1970-08-06,"['Bronchitis', 'Diabetes', 'Common Cold', 'Hypertension', 'Strep Throat', 'Anemia', 'Asthma', 'Strep Throat', 'Strep Throat', 'Pneumonia', 'Skin Rash', 'Asthma', 'Asthma']",1991-03-29
+5373,4374,1977-04-23,"['Sinusitis', 'Migraine', 'Pneumonia', 'Strep Throat', 'Sinusitis', 'Chronic Pain', 'Anemia', 'Arthritis', 'Diabetes', 'Chronic Pain', 'Skin Rash', 'Arthritis']",1999-06-13
+6562,6422,1990-05-15,['Strep Throat'],1971-08-24
+9744,1146,1993-01-19,"['COVID-19', 'Skin Rash', 'Gastroenteritis', 'Flu', 'Flu', 'Flu', 'Chronic Pain']",2020-06-28
+6569,6538,1978-04-10,"['Flu', 'Skin Rash', 'Chronic Pain', 'Sinusitis', 'Flu', 'Sinusitis', 'Asthma', 'Strep Throat', 'Migraine']",2017-09-18
+5506,8041,2022-09-04,"['Strep Throat', 'Flu', 'Hypertension', 'Anemia', 'COVID-19', 'Sinusitis', 'Arthritis', 'Arthritis', 'Migraine', 'Common Cold', 'Migraine', 'Skin Rash', 'Bronchitis', 'Hypertension', 'Hypertension', 'Strep Throat']",2003-12-14
+3138,6570,2003-11-23,['Hypertension'],2011-04-18
+7557,3476,1979-05-18,"['Arthritis', 'Hypertension', 'Skin Rash', 'Diabetes', 'Common Cold']",1972-02-09
+831,2588,1976-08-04,"['Flu', 'Anemia', 'Strep Throat', 'Diabetes', 'Asthma', 'Sinusitis', 'Sinusitis', 'Diabetes', 'Asthma', 'Bronchitis', 'Pneumonia']",2019-11-19
+9936,8237,2003-03-18,"['Asthma', 'Diabetes', 'Hypertension']",2006-11-01
+2794,7330,1972-01-04,"['COVID-19', 'Arthritis', 'Skin Rash', 'Anemia', 'Migraine', 'Anemia', 'Flu', 'Anemia', 'Skin Rash', 'Hypertension', 'Hypertension', 'Skin Rash']",2003-09-04
+3589,3053,1996-06-12,"['Skin Rash', 'Migraine', 'Anemia', 'Migraine', 'Gastroenteritis', 'Asthma', 'Gastroenteritis', 'Gastroenteritis', 'Sinusitis']",2018-03-14
+3523,6061,1976-09-30,"['Anemia', 'Migraine', 'Flu', 'Anemia', 'Anemia', 'Sinusitis', 'Bronchitis', 'Bronchitis', 'Skin Rash', 'Hypertension']",1978-04-29
+3119,4902,1987-11-18,"['Chronic Pain', 'Bronchitis', 'Skin Rash', 'Common Cold', 'Arthritis', 'Bronchitis', 'Arthritis', 'Gastroenteritis', 'Asthma', 'Diabetes']",1991-05-16
+2938,1763,2009-05-05,['Sinusitis'],2018-03-27
+8162,8382,2007-12-16,"['Diabetes', 'COVID-19', 'Bronchitis', 'Pneumonia', 'Chronic Pain', 'Hypertension', 'Common Cold', 'Flu']",2008-07-06
+298,3525,2022-07-15,"['Strep Throat', 'Diabetes', 'Hypertension', 'Arthritis', 'Arthritis', 'Arthritis', 'Pneumonia', 'COVID-19', 'Asthma', 'Pneumonia', 'Anemia', 'Common Cold']",2000-09-17
+4056,1006,2021-12-13,"['Migraine', 'Skin Rash', 'Hypertension', 'Strep Throat', 'Skin Rash', 'COVID-19', 'Chronic Pain', 'Sinusitis', 'Skin Rash', 'Arthritis', 'Arthritis', 'Common Cold', 'COVID-19', 'Bronchitis']",2004-06-13
+763,4025,1987-02-23,"['Anemia', 'Diabetes']",1992-06-27
+3517,974,1990-09-28,"['Common Cold', 'Gastroenteritis', 'Asthma', 'Gastroenteritis']",1990-08-16
+389,8898,1973-09-29,"['Migraine', 'Bronchitis', 'Diabetes', 'Strep Throat', 'Migraine']",1992-09-06
+4255,1763,2024-08-03,"['Gastroenteritis', 'Bronchitis', 'Asthma', 'Sinusitis', 'Anemia', 'Gastroenteritis', 'Sinusitis', 'Gastroenteritis']",1987-04-01
+809,7809,2002-12-27,"['Sinusitis', 'Bronchitis', 'Pneumonia', 'Strep Throat', 'Diabetes', 'Hypertension', 'Gastroenteritis', 'Anemia', 'Common Cold', 'Bronchitis']",1984-03-08
+2094,391,1997-02-14,"['Gastroenteritis', 'Migraine', 'Asthma', 'Asthma']",2017-03-17
+6099,2695,1984-03-19,"['Common Cold', 'Hypertension']",2008-06-27
+9411,7588,1991-08-26,"['Common Cold', 'Gastroenteritis']",1978-08-09
+6394,2400,1978-07-29,"['Hypertension', 'Asthma', 'Chronic Pain', 'Migraine', 'Migraine', 'Skin Rash', 'Anemia', 'Asthma', 'COVID-19', 'Migraine', 'Asthma', 'Asthma', 'Diabetes', 'Bronchitis', 'Migraine', 'Flu']",1995-11-22
+8738,7052,1976-09-10,"['Migraine', 'Skin Rash', 'Gastroenteritis', 'Skin Rash', 'Chronic Pain', 'Arthritis', 'Pneumonia', 'Hypertension', 'Migraine', 'Common Cold', 'Skin Rash']",1987-12-17
+8873,98,1972-03-11,"['Chronic Pain', 'Arthritis', 'Pneumonia', 'Hypertension', 'Arthritis', 'Asthma', 'Strep Throat', 'Common Cold', 'COVID-19', 'Sinusitis', 'Migraine', 'Arthritis']",1980-11-03
+4549,775,2014-02-20,"['Gastroenteritis', 'Anemia', 'Migraine', 'COVID-19', 'Strep Throat']",1993-09-30
+9479,6557,2014-12-08,"['COVID-19', 'Bronchitis', 'Migraine', 'Asthma', 'Sinusitis', 'Gastroenteritis', 'Strep Throat', 'Asthma', 'Flu', 'Strep Throat', 'Migraine', 'Arthritis', 'Asthma', 'Strep Throat']",1979-05-24
+2849,8113,2014-08-26,"['Pneumonia', 'Strep Throat', 'Bronchitis', 'Hypertension', 'Common Cold', 'Anemia', 'Anemia', 'Bronchitis']",2000-01-11
+7600,991,2023-02-21,"['Diabetes', 'Chronic Pain', 'Pneumonia', 'Bronchitis', 'Hypertension', 'Anemia', 'Hypertension', 'Gastroenteritis', 'Flu', 'Diabetes', 'Bronchitis']",1985-07-03
+7610,6523,2016-07-25,"['Common Cold', 'Anemia', 'COVID-19', 'Strep Throat', 'Pneumonia', 'Flu', 'Flu', 'Anemia', 'Flu', 'Gastroenteritis', 'Arthritis', 'Strep Throat', 'Common Cold', 'Asthma']",2012-12-14
+7011,8912,1990-03-23,"['Bronchitis', 'Flu', 'Chronic Pain']",1993-04-26
+4401,199,1991-03-18,"['Asthma', 'Asthma', 'Skin Rash', 'Asthma', 'Arthritis', 'COVID-19', 'Diabetes', 'Chronic Pain', 'Skin Rash', 'Arthritis', 'Strep Throat', 'Sinusitis', 'COVID-19']",1979-04-14
+3632,691,1975-09-13,"['Strep Throat', 'Gastroenteritis', 'Strep Throat', 'Pneumonia', 'Hypertension', 'Common Cold', 'Flu', 'Bronchitis', 'Strep Throat', 'Sinusitis', 'Skin Rash', 'Anemia']",1980-12-30
+949,2513,1985-11-13,"['Hypertension', 'Common Cold', 'Bronchitis', 'Migraine', 'Migraine', 'Strep Throat', 'Arthritis', 'Anemia', 'Bronchitis', 'Skin Rash', 'Flu', 'Chronic Pain', 'Gastroenteritis']",2005-01-31
+2059,3471,2022-08-12,"['Chronic Pain', 'COVID-19', 'Bronchitis', 'Arthritis', 'Common Cold', 'Asthma', 'Pneumonia', 'Sinusitis', 'Strep Throat', 'Hypertension', 'Gastroenteritis', 'Flu', 'Hypertension']",2016-08-17
+2244,8375,2021-10-13,"['Pneumonia', 'Flu', 'Pneumonia', 'Strep Throat', 'Arthritis', 'Gastroenteritis', 'Migraine', 'Pneumonia', 'Bronchitis']",2018-10-29
+3099,8833,2008-07-15,"['Diabetes', 'Bronchitis', 'Migraine', 'Anemia', 'Asthma', 'Sinusitis']",1984-02-22
+7190,6168,1999-03-23,"['Strep Throat', 'Bronchitis', 'Pneumonia', 'Strep Throat', 'Skin Rash', 'Anemia', 'Hypertension', 'Bronchitis', 'Strep Throat', 'Sinusitis', 'Anemia', 'Common Cold', 'Bronchitis', 'Hypertension', 'Flu', 'Bronchitis']",2003-02-21
+330,4070,2014-04-26,"['Anemia', 'Common Cold', 'Migraine', 'Diabetes', 'Skin Rash', 'Migraine', 'Skin Rash', 'Bronchitis', 'Strep Throat', 'Arthritis', 'COVID-19', 'Pneumonia', 'Diabetes', 'Sinusitis', 'Common Cold', 'Asthma']",1998-03-01
+6233,7635,2024-08-12,"['COVID-19', 'Sinusitis']",2001-10-24
+9431,9684,1983-01-19,"['Arthritis', 'Gastroenteritis', 'Bronchitis', 'Strep Throat', 'Migraine', 'Strep Throat', 'Flu', 'Skin Rash', 'Bronchitis', 'Bronchitis', 'Arthritis', 'Anemia', 'Flu', 'Pneumonia', 'Bronchitis', 'Pneumonia']",2021-12-17
+4290,621,1973-05-16,"['Chronic Pain', 'Asthma', 'Sinusitis', 'COVID-19', 'Common Cold', 'Common Cold', 'Strep Throat', 'Chronic Pain', 'Bronchitis', 'Pneumonia', 'Gastroenteritis', 'Hypertension']",2010-10-17
+353,5690,1977-08-30,"['Pneumonia', 'Sinusitis', 'Anemia']",1981-08-21
+7398,2202,1994-09-23,"['Gastroenteritis', 'Flu', 'Asthma', 'Asthma', 'Flu', 'COVID-19', 'Strep Throat', 'Skin Rash', 'Hypertension', 'Chronic Pain', 'Skin Rash', 'Flu', 'Gastroenteritis', 'COVID-19', 'COVID-19', 'Flu']",2024-04-09
+4557,2280,2010-03-16,"['COVID-19', 'Sinusitis', 'Sinusitis', 'Sinusitis', 'Chronic Pain', 'Pneumonia', 'Pneumonia']",2014-01-10
+9482,123,1985-06-05,['Diabetes'],2002-09-25
+6830,297,1991-09-18,"['Pneumonia', 'Anemia', 'Migraine', 'Diabetes', 'Migraine']",1981-12-23
+3556,4124,1983-12-31,"['Diabetes', 'Anemia', 'Sinusitis', 'Pneumonia']",2002-07-20
+7046,1480,2014-01-01,"['Asthma', 'Asthma', 'Migraine', 'Hypertension', 'Diabetes', 'Strep Throat', 'Anemia', 'Diabetes', 'Hypertension', 'Common Cold', 'Bronchitis', 'Bronchitis', 'Skin Rash', 'Common Cold', 'Arthritis', 'COVID-19']",1980-04-22
+2646,858,1995-05-30,"['Anemia', 'Hypertension', 'Strep Throat', 'Anemia', 'Pneumonia', 'Strep Throat', 'Pneumonia', 'Hypertension', 'Hypertension', 'Common Cold']",2016-09-10
+9786,7588,1984-06-21,"['Arthritis', 'Migraine', 'Hypertension', 'Bronchitis', 'Flu', 'Gastroenteritis', 'Migraine', 'Bronchitis', 'COVID-19', 'Asthma', 'Hypertension']",2022-01-17
+1964,691,2000-06-30,"['Sinusitis', 'Hypertension']",1988-02-13
+7814,9062,1989-01-29,"['Common Cold', 'Chronic Pain', 'Common Cold', 'Bronchitis', 'Migraine']",1988-10-22
+5963,8946,2007-06-23,"['Bronchitis', 'Anemia', 'Arthritis', 'Strep Throat', 'Skin Rash', 'Skin Rash', 'COVID-19', 'Strep Throat', 'Migraine', 'Hypertension', 'Migraine', 'Bronchitis', 'Sinusitis', 'Asthma', 'Strep Throat', 'Asthma']",1986-08-08
+3024,448,2012-10-01,"['Chronic Pain', 'Migraine', 'Diabetes', 'Migraine', 'Bronchitis']",1996-04-24
+3290,2559,1995-12-26,"['Asthma', 'Chronic Pain', 'Chronic Pain', 'Arthritis', 'Anemia', 'Flu', 'Pneumonia', 'COVID-19', 'Diabetes', 'Chronic Pain', 'Common Cold', 'Chronic Pain', 'Gastroenteritis', 'Sinusitis']",1986-11-23
+9586,9995,2004-12-30,"['Diabetes', 'Hypertension', 'Strep Throat', 'Bronchitis', 'Gastroenteritis', 'Bronchitis', 'Anemia', 'Diabetes']",1991-07-21
+1205,2755,1981-04-23,"['Strep Throat', 'Asthma', 'Bronchitis', 'Skin Rash', 'Sinusitis', 'Sinusitis', 'Flu', 'Strep Throat', 'Asthma', 'Sinusitis', 'Arthritis', 'Anemia', 'Diabetes']",1975-05-12
+1856,6994,1994-12-13,"['Diabetes', 'Anemia', 'Arthritis', 'Arthritis']",2012-09-20
+549,6759,1987-03-04,"['Flu', 'Skin Rash', 'Hypertension', 'Common Cold', 'Migraine', 'Pneumonia']",2019-10-18
+1916,2701,2012-12-29,"['Asthma', 'Gastroenteritis', 'Common Cold']",1997-09-23
+6200,8826,2007-09-20,"['Chronic Pain', 'Arthritis', 'Migraine', 'Skin Rash', 'Gastroenteritis', 'Anemia', 'Anemia', 'Arthritis', 'Bronchitis', 'Migraine', 'COVID-19', 'Chronic Pain', 'Sinusitis', 'Common Cold']",1996-05-12
+1187,7768,2018-05-14,"['Bronchitis', 'Migraine', 'COVID-19']",1978-01-05
+8941,8353,1991-06-29,"['Diabetes', 'Common Cold', 'Arthritis', 'Flu', 'Flu', 'Asthma', 'Pneumonia', 'Arthritis', 'Migraine', 'Diabetes']",2000-04-29
+4301,3400,1994-11-15,"['COVID-19', 'Hypertension', 'Bronchitis', 'Asthma', 'Strep Throat', 'Skin Rash']",2017-09-15
+8497,4618,2006-05-24,"['Anemia', 'Bronchitis', 'Strep Throat', 'Gastroenteritis', 'Asthma', 'Anemia', 'Strep Throat', 'Common Cold', 'COVID-19', 'Asthma']",1992-02-09
+8033,2128,2004-06-24,"['Chronic Pain', 'Pneumonia', 'Hypertension', 'Gastroenteritis', 'Hypertension', 'Arthritis', 'Diabetes', 'Anemia', 'Strep Throat']",2022-09-02
+6330,7980,1996-04-22,"['Common Cold', 'COVID-19', 'Strep Throat']",1987-01-02
+7337,4147,2019-02-24,"['Sinusitis', 'Asthma', 'Pneumonia', 'Migraine']",2001-06-13
+3549,5234,2008-01-07,"['Diabetes', 'Hypertension', 'Migraine', 'Pneumonia', 'Sinusitis', 'Asthma', 'Gastroenteritis', 'COVID-19', 'Anemia', 'Migraine']",2000-03-14
+217,2088,1972-01-03,"['Skin Rash', 'Pneumonia', 'Skin Rash', 'Hypertension', 'Pneumonia', 'Common Cold', 'Flu', 'Skin Rash', 'Chronic Pain']",2010-07-03
+5172,6809,1980-10-27,"['Chronic Pain', 'Common Cold']",1973-07-07
+7815,2356,2011-02-09,"['Migraine', 'COVID-19', 'Migraine', 'Common Cold', 'Chronic Pain', 'Strep Throat', 'Bronchitis', 'Sinusitis', 'Anemia', 'Diabetes', 'Hypertension']",2010-12-12
+4378,9908,1997-03-28,"['Common Cold', 'Sinusitis', 'Arthritis', 'Pneumonia', 'Strep Throat', 'Skin Rash', 'Chronic Pain', 'Arthritis', 'Bronchitis']",2008-08-15
+8089,8362,1990-05-28,"['Arthritis', 'Bronchitis', 'Common Cold', 'Gastroenteritis', 'Asthma', 'Arthritis', 'Bronchitis', 'Gastroenteritis', 'Chronic Pain', 'Common Cold', 'Migraine', 'Diabetes']",2003-09-25
+9960,3525,1999-07-23,"['Chronic Pain', 'Common Cold', 'Arthritis', 'Skin Rash', 'COVID-19']",2009-02-08
+5795,6155,2005-01-30,"['Migraine', 'Flu', 'Pneumonia']",1988-08-28
+3888,2790,2015-01-26,"['Bronchitis', 'Bronchitis', 'Arthritis', 'Common Cold', 'Asthma', 'Bronchitis', 'Anemia']",2004-04-14
+4276,5082,1978-05-22,"['Bronchitis', 'Bronchitis', 'Migraine', 'COVID-19']",1977-06-06
+6026,1275,2017-06-16,"['Common Cold', 'Sinusitis', 'Migraine', 'Chronic Pain', 'Flu']",2007-02-11
+4288,9312,1996-04-06,"['Pneumonia', 'Flu', 'COVID-19', 'Skin Rash', 'Asthma', 'Diabetes', 'Sinusitis', 'Strep Throat', 'Strep Throat', 'Flu', 'Arthritis', 'Common Cold', 'Gastroenteritis', 'Pneumonia', 'Anemia', 'Asthma']",1989-11-22
+5087,1763,1998-11-30,"['Migraine', 'Anemia', 'Strep Throat', 'Sinusitis', 'Bronchitis', 'Bronchitis', 'Hypertension', 'Arthritis', 'Common Cold', 'Hypertension']",2016-06-25
+8929,2946,2001-11-27,['Sinusitis'],1990-06-24
+1250,24,1999-02-24,['Strep Throat'],1973-05-21
+7866,6378,1999-09-19,['Flu'],2010-11-28
+2769,1587,2005-01-13,"['Bronchitis', 'Skin Rash', 'Asthma', 'Flu', 'Anemia', 'Hypertension', 'Sinusitis', 'Sinusitis', 'Common Cold']",1976-03-16
+5675,2280,2022-08-24,"['Asthma', 'Skin Rash', 'Diabetes', 'Common Cold', 'Asthma', 'Strep Throat', 'Sinusitis', 'Sinusitis', 'Chronic Pain', 'Anemia', 'Strep Throat', 'Migraine']",1987-09-19
+3803,2841,1974-03-01,"['Gastroenteritis', 'Sinusitis']",1971-08-09
+101,1085,2022-12-15,"['Anemia', 'Hypertension', 'Migraine']",2022-01-20
+3759,8395,2014-01-29,"['Common Cold', 'Common Cold', 'Migraine', 'Gastroenteritis', 'Pneumonia']",1976-03-28
+4957,4193,1982-09-29,"['Chronic Pain', 'Hypertension', 'Hypertension']",1976-05-21
+2004,743,2005-09-12,"['COVID-19', 'Bronchitis', 'Sinusitis', 'Common Cold', 'Bronchitis', 'Hypertension']",2013-11-30
+8664,3921,1982-07-03,"['Skin Rash', 'COVID-19', 'Arthritis', 'Chronic Pain', 'Hypertension', 'Anemia', 'Sinusitis']",2009-12-31
+4630,2602,1974-06-26,"['COVID-19', 'Chronic Pain', 'Common Cold', 'Diabetes', 'Pneumonia', 'Skin Rash', 'Migraine']",1984-09-13
+5785,5882,1971-06-07,"['Anemia', 'Arthritis', 'Migraine', 'Gastroenteritis', 'Asthma', 'Migraine', 'Chronic Pain', 'Diabetes']",1996-03-05
+7860,4432,2020-03-15,"['Asthma', 'Gastroenteritis', 'Gastroenteritis', 'Sinusitis', 'Hypertension', 'Arthritis', 'Sinusitis', 'Hypertension', 'Arthritis', 'Bronchitis', 'Gastroenteritis', 'Common Cold', 'Arthritis', 'Bronchitis', 'Strep Throat']",2005-07-25
+6033,6994,1972-06-20,"['Strep Throat', 'COVID-19', 'COVID-19', 'Bronchitis', 'Asthma', 'Anemia']",2002-01-26
+6109,1420,1985-06-06,"['Anemia', 'Pneumonia', 'Flu', 'Asthma']",1992-09-06
+7960,4429,2008-11-27,"['Arthritis', 'Arthritis', 'Strep Throat', 'Common Cold', 'Pneumonia', 'Pneumonia', 'Flu', 'Skin Rash', 'Skin Rash', 'Bronchitis', 'Flu']",1974-02-19
+8726,4965,1997-04-29,"['Common Cold', 'Anemia', 'Skin Rash', 'Pneumonia', 'Flu', 'Gastroenteritis']",1994-06-01
+9020,7618,2020-12-18,['Gastroenteritis'],2017-11-15
+5014,1816,2015-08-06,"['Diabetes', 'Bronchitis']",2005-05-18
+7721,2620,2018-05-12,"['Asthma', 'Asthma', 'Strep Throat', 'Hypertension', 'Sinusitis', 'Bronchitis', 'COVID-19', 'Flu', 'Arthritis', 'Common Cold', 'Asthma']",1980-07-31
+2634,9205,2020-11-16,"['Pneumonia', 'Common Cold', 'Diabetes', 'Hypertension', 'Pneumonia', 'Bronchitis', 'Sinusitis', 'Common Cold', 'Sinusitis', 'Sinusitis', 'Anemia', 'Bronchitis', 'Arthritis', 'Migraine', 'Asthma', 'Pneumonia']",2010-11-28
+1863,7618,1985-08-10,"['Migraine', 'Common Cold', 'Hypertension', 'COVID-19', 'Flu', 'Pneumonia', 'Common Cold', 'Chronic Pain', 'Arthritis', 'Arthritis', 'Strep Throat', 'Diabetes', 'Chronic Pain']",2014-10-17
+7219,1921,1974-05-02,"['Bronchitis', 'Flu', 'COVID-19', 'Hypertension', 'Hypertension', 'Strep Throat', 'Common Cold', 'Strep Throat', 'Hypertension', 'Gastroenteritis', 'Diabetes', 'Diabetes', 'Arthritis', 'Common Cold', 'Common Cold', 'Chronic Pain']",1971-10-25
+9076,5782,2022-06-09,"['Gastroenteritis', 'Gastroenteritis', 'Skin Rash', 'Bronchitis', 'Sinusitis', 'Diabetes', 'Flu', 'Common Cold', 'Sinusitis', 'Sinusitis', 'Asthma', 'Gastroenteritis', 'Sinusitis']",1989-11-18
+4724,2924,1984-09-11,"['Flu', 'Chronic Pain', 'Gastroenteritis', 'Bronchitis', 'Pneumonia', 'Anemia', 'Flu', 'Skin Rash', 'Migraine', 'Hypertension', 'Arthritis', 'Diabetes', 'Pneumonia', 'Anemia', 'Pneumonia']",1974-10-04
+9251,889,1979-04-30,"['Common Cold', 'Arthritis', 'Strep Throat', 'Common Cold', 'Hypertension', 'Migraine']",1980-07-02
+3848,1049,1987-07-09,"['Skin Rash', 'Anemia', 'Strep Throat', 'Hypertension', 'Diabetes', 'Gastroenteritis', 'Common Cold', 'Strep Throat', 'Sinusitis', 'Bronchitis', 'Skin Rash', 'Strep Throat', 'Common Cold', 'Skin Rash', 'Flu', 'Sinusitis']",2020-12-15
+4777,5920,2010-04-27,"['Common Cold', 'Hypertension', 'Gastroenteritis', 'Bronchitis', 'Hypertension', 'Gastroenteritis', 'Sinusitis', 'Hypertension', 'Arthritis']",2021-03-11
+5835,3619,2013-01-11,"['Chronic Pain', 'Flu', 'Hypertension', 'Diabetes', 'Migraine', 'Common Cold', 'Sinusitis', 'Gastroenteritis', 'Pneumonia', 'Bronchitis', 'Common Cold']",2024-10-10
+2777,8670,2024-10-22,"['COVID-19', 'Skin Rash', 'Strep Throat', 'Flu', 'Hypertension', 'Diabetes', 'Strep Throat', 'Migraine', 'Diabetes', 'Strep Throat', 'Gastroenteritis', 'Hypertension']",1996-10-01
+6066,3542,1977-06-27,"['Hypertension', 'Anemia', 'Arthritis', 'Bronchitis', 'Skin Rash', 'Pneumonia', 'Sinusitis', 'Gastroenteritis', 'Flu']",1989-11-26
+7392,7655,1977-03-05,"['Hypertension', 'Flu', 'Arthritis', 'COVID-19', 'Gastroenteritis']",1990-12-02
+2578,4552,1979-05-01,['Asthma'],1997-07-25
+8857,4740,2002-04-09,"['Skin Rash', 'Gastroenteritis', 'Skin Rash', 'Asthma', 'Bronchitis', 'Diabetes', 'Asthma', 'COVID-19', 'Sinusitis']",1974-05-24
+1074,8826,2009-06-18,"['Flu', 'Common Cold', 'Migraine', 'Common Cold', 'Arthritis', 'Pneumonia']",2019-09-17
+9594,6355,1988-07-16,"['Flu', 'Skin Rash', 'Diabetes', 'COVID-19', 'COVID-19', 'Hypertension', 'Sinusitis', 'Pneumonia', 'Migraine', 'COVID-19', 'Diabetes', 'Hypertension', 'Common Cold', 'Sinusitis']",1974-07-01
+9043,3629,1974-11-06,['Gastroenteritis'],1992-12-23
+561,8508,2014-09-20,"['Sinusitis', 'COVID-19', 'Pneumonia', 'Migraine', 'Diabetes', 'Strep Throat', 'COVID-19', 'Sinusitis', 'Anemia', 'Skin Rash', 'Pneumonia', 'Migraine', 'Chronic Pain', 'Skin Rash', 'Asthma', 'Strep Throat']",2021-11-29
+2514,709,2022-09-15,"['Migraine', 'Strep Throat', 'COVID-19', 'Pneumonia', 'Asthma', 'Gastroenteritis', 'COVID-19', 'Flu', 'Chronic Pain', 'Migraine']",2016-07-25
+1199,6768,2008-12-24,"['Common Cold', 'Strep Throat', 'Diabetes', 'Skin Rash', 'Hypertension', 'Sinusitis', 'Asthma', 'Bronchitis', 'Common Cold', 'Common Cold', 'Hypertension', 'Bronchitis', 'COVID-19', 'Strep Throat', 'Chronic Pain']",1993-06-13
+1952,6855,2003-10-10,"['COVID-19', 'Bronchitis', 'Diabetes', 'Gastroenteritis', 'Anemia', 'Flu', 'Anemia', 'Chronic Pain', 'Asthma', 'Sinusitis', 'Flu', 'Skin Rash', 'Common Cold', 'Flu', 'Arthritis']",1988-03-11
+7601,7458,2004-02-24,"['Gastroenteritis', 'Hypertension', 'Diabetes', 'Hypertension', 'Sinusitis', 'COVID-19', 'Anemia', 'Arthritis', 'Flu', 'COVID-19', 'Sinusitis', 'COVID-19', 'Gastroenteritis']",1989-06-24
+1993,9399,2024-07-18,"['Gastroenteritis', 'Migraine', 'Skin Rash', 'Bronchitis', 'Chronic Pain', 'Anemia', 'Hypertension']",1980-03-05
+4510,1568,2011-12-29,"['Hypertension', 'Diabetes', 'Flu', 'Diabetes', 'Pneumonia', 'Sinusitis', 'Chronic Pain', 'Chronic Pain', 'Bronchitis', 'Diabetes']",1992-12-14
+3628,7782,2014-10-27,"['Sinusitis', 'COVID-19', 'Arthritis', 'Strep Throat', 'Asthma', 'Strep Throat', 'Migraine', 'Skin Rash', 'Flu', 'Pneumonia', 'Flu', 'Sinusitis', 'Flu', 'Bronchitis', 'Skin Rash']",1998-10-10
+6625,7429,1971-01-09,"['Skin Rash', 'Sinusitis', 'Chronic Pain', 'Asthma', 'Migraine', 'Asthma', 'Pneumonia', 'Skin Rash', 'Bronchitis', 'Bronchitis', 'Arthritis', 'Hypertension', 'Pneumonia', 'Anemia']",1980-01-12
+1067,577,2005-03-08,"['Flu', 'COVID-19', 'Migraine', 'Common Cold', 'Flu', 'Skin Rash', 'Gastroenteritis', 'Skin Rash', 'Hypertension', 'Common Cold', 'Arthritis', 'Sinusitis', 'COVID-19', 'Migraine', 'Anemia']",1970-01-03
+8957,6600,2008-08-02,"['Common Cold', 'Strep Throat', 'Flu', 'COVID-19', 'Gastroenteritis', 'Diabetes', 'Pneumonia', 'Strep Throat', 'Arthritis']",1974-05-19
+640,6844,2003-03-30,"['Flu', 'Asthma', 'Bronchitis', 'COVID-19', 'Strep Throat', 'Skin Rash']",2014-05-01
+7539,6771,2024-01-21,"['Sinusitis', 'Migraine']",2005-02-17
+3788,9088,2019-03-21,"['COVID-19', 'Sinusitis', 'Migraine', 'Gastroenteritis', 'Arthritis', 'Migraine', 'COVID-19', 'Gastroenteritis', 'Skin Rash', 'Bronchitis', 'Migraine']",2017-01-29
+1974,5512,2018-03-08,"['Sinusitis', 'Diabetes', 'Asthma', 'Common Cold', 'Skin Rash', 'Hypertension', 'Common Cold', 'Flu', 'Strep Throat', 'Diabetes', 'Chronic Pain', 'Anemia', 'Chronic Pain']",1983-11-21
+3005,9525,2010-12-19,"['Sinusitis', 'Bronchitis', 'Hypertension', 'Sinusitis', 'Diabetes', 'Arthritis', 'COVID-19', 'Bronchitis', 'Pneumonia', 'Bronchitis', 'Bronchitis', 'Common Cold', 'Flu']",1986-06-29
+5349,6678,2001-04-13,"['Bronchitis', 'Chronic Pain', 'Diabetes', 'Sinusitis']",1984-01-11
+6812,7300,1975-05-28,"['Bronchitis', 'Bronchitis', 'Migraine', 'Pneumonia', 'Skin Rash', 'Hypertension', 'Sinusitis', 'COVID-19', 'Common Cold', 'Bronchitis', 'COVID-19', 'Anemia', 'Hypertension', 'Migraine', 'Strep Throat']",2014-03-23
+2062,7401,1998-08-06,"['Diabetes', 'Migraine', 'Diabetes', 'Skin Rash']",2011-12-31
+6901,7816,2009-09-17,"['Sinusitis', 'Common Cold', 'Chronic Pain', 'Gastroenteritis', 'Anemia', 'Hypertension', 'Diabetes', 'Pneumonia', 'Strep Throat', 'Migraine', 'Chronic Pain', 'Chronic Pain', 'Anemia', 'Flu', 'Common Cold', 'Hypertension']",2008-12-18
+8538,9787,1976-09-29,['Common Cold'],2023-03-17
+9863,8254,1970-11-19,"['Skin Rash', 'Migraine']",2015-02-07
+6302,3011,2000-08-08,['Common Cold'],1993-01-30
+3210,7228,2016-05-13,"['Diabetes', 'COVID-19', 'Diabetes', 'Bronchitis', 'Sinusitis']",1972-04-23
+3061,6940,1998-08-01,"['Common Cold', 'Diabetes', 'COVID-19', 'Bronchitis', 'Pneumonia', 'Common Cold', 'Sinusitis']",2007-12-31
+5896,235,1989-12-03,"['Asthma', 'Arthritis', 'Gastroenteritis', 'Flu', 'Hypertension', 'Migraine', 'Diabetes', 'COVID-19']",1974-11-28
+5880,5512,1980-06-30,"['Flu', 'Arthritis', 'Hypertension', 'Bronchitis', 'Hypertension', 'Arthritis']",2017-12-07
+3865,495,1983-02-25,"['Diabetes', 'Strep Throat', 'Strep Throat', 'Gastroenteritis', 'Anemia']",1987-03-29
+2379,2361,2011-06-16,"['Sinusitis', 'Pneumonia', 'Hypertension', 'Flu', 'Hypertension']",1987-04-19
+1076,2205,1989-08-21,"['Anemia', 'Diabetes', 'Flu', 'Asthma', 'Diabetes', 'Hypertension', 'Flu', 'Gastroenteritis', 'Pneumonia', 'Sinusitis', 'COVID-19']",2023-07-29
+5804,9418,2005-05-15,"['Diabetes', 'Diabetes', 'Flu', 'Migraine', 'Chronic Pain', 'Chronic Pain', 'Strep Throat', 'Flu', 'Asthma', 'Chronic Pain', 'Pneumonia', 'Gastroenteritis', 'Gastroenteritis', 'Bronchitis']",1999-09-21
+7887,8362,1975-05-22,"['Hypertension', 'Arthritis', 'Common Cold', 'Pneumonia', 'Asthma', 'Strep Throat', 'Chronic Pain', 'Sinusitis', 'Bronchitis', 'Common Cold']",2018-01-08
+7847,9857,2023-07-04,"['Strep Throat', 'Bronchitis', 'Diabetes', 'Diabetes', 'Anemia', 'Common Cold']",2014-02-21
+8774,2407,1998-11-09,"['Migraine', 'Hypertension', 'Migraine', 'Diabetes', 'Strep Throat', 'Migraine', 'Flu', 'Pneumonia', 'Gastroenteritis', 'Chronic Pain', 'Bronchitis', 'Asthma', 'Chronic Pain']",2011-01-19
+7077,5646,1976-12-27,"['Chronic Pain', 'Strep Throat', 'Arthritis', 'Hypertension', 'Arthritis', 'Asthma', 'Strep Throat', 'Bronchitis', 'Anemia', 'Hypertension']",2018-04-10
+5009,1480,2024-08-04,"['Gastroenteritis', 'Chronic Pain', 'Hypertension', 'Arthritis', 'COVID-19', 'Common Cold', 'Hypertension', 'Gastroenteritis', 'Diabetes', 'Strep Throat', 'Sinusitis']",1985-08-06
+9514,1290,2001-04-29,"['Bronchitis', 'Skin Rash', 'COVID-19']",2015-05-16
+4938,5444,1972-04-09,"['Common Cold', 'Hypertension', 'Arthritis', 'Anemia', 'Common Cold', 'Arthritis', 'Flu', 'Anemia', 'Gastroenteritis', 'Chronic Pain', 'Sinusitis', 'Skin Rash', 'Asthma']",2009-12-10
+2033,9433,2018-05-24,"['Pneumonia', 'Pneumonia', 'Asthma', 'Sinusitis', 'Strep Throat', 'Skin Rash']",1978-11-23
+8807,6410,2019-05-06,"['Anemia', 'Bronchitis', 'Gastroenteritis', 'Pneumonia', 'Chronic Pain', 'Flu', 'Chronic Pain']",2016-10-13
+9423,5270,1982-04-11,"['Sinusitis', 'Bronchitis', 'Skin Rash', 'Bronchitis', 'Migraine', 'Flu', 'Common Cold', 'Sinusitis', 'Flu', 'Hypertension', 'Common Cold', 'Anemia', 'Diabetes', 'Strep Throat', 'Anemia']",2011-06-06
+6377,9801,1995-08-19,"['Hypertension', 'COVID-19', 'Bronchitis', 'Sinusitis', 'Sinusitis']",1996-03-09
+9362,51,1982-09-13,"['Diabetes', 'Bronchitis', 'Strep Throat', 'Flu', 'Chronic Pain', 'Asthma', 'Asthma', 'Common Cold', 'Skin Rash', 'COVID-19', 'Chronic Pain', 'COVID-19', 'Asthma', 'Chronic Pain', 'Strep Throat']",1994-05-04
+443,2790,1975-10-16,"['Chronic Pain', 'Hypertension', 'Sinusitis']",1976-03-11
+9131,4147,1994-11-19,"['Skin Rash', 'Anemia', 'Gastroenteritis', 'Hypertension', 'Gastroenteritis', 'Gastroenteritis', 'Bronchitis', 'Flu', 'Gastroenteritis', 'Migraine']",1980-01-27
+8401,3960,1973-12-21,"['Chronic Pain', 'Asthma', 'Pneumonia', 'Pneumonia']",1993-07-26
+2898,3634,2017-08-27,"['Common Cold', 'Gastroenteritis', 'Pneumonia', 'Pneumonia', 'Arthritis', 'Skin Rash', 'Pneumonia', 'Asthma', 'Pneumonia', 'Common Cold', 'Skin Rash', 'Pneumonia']",1971-09-08
+967,8912,1993-08-09,"['Common Cold', 'Bronchitis', 'Skin Rash', 'Diabetes', 'Arthritis', 'Arthritis', 'Pneumonia', 'Migraine', 'Arthritis', 'Diabetes']",2000-03-15

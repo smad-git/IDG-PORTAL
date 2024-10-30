@@ -1,0 +1,1001 @@
+conditionId,encounterId,condition,dateDiagnosed
+9049,6339,"['Mental Health Disorders', 'Epilepsy', 'Anxiety', 'COPD', 'Osteoporosis', 'Liver Disease']",1979-11-23
+2916,9853,"['Osteoporosis', ""Parkinson's Disease"", 'Allergies', 'Obesity', 'Obesity', 'Liver Disease', 'COPD', 'Obesity', 'COPD', 'Allergies']",2005-06-09
+2474,6133,"['Epilepsy', 'Heart Disease', 'Mental Health Disorders']",1982-10-09
+481,9655,"['Kidney Disease', 'Allergies', 'Mental Health Disorders', 'Kidney Disease', 'Kidney Disease', 'Mental Health Disorders']",1983-07-23
+5236,3775,"['Allergies', 'Obesity', 'Kidney Disease', 'Osteoporosis', 'Kidney Disease']",1995-01-01
+1259,5830,"['COPD', 'Epilepsy', 'Liver Disease', 'Anxiety', 'Anxiety', 'Allergies']",2013-07-21
+9585,8229,"['Allergies', 'Allergies', 'Epilepsy', 'Osteoporosis', 'Kidney Disease', 'Osteoporosis', 'Allergies', 'Epilepsy', 'Thyroid Disease', ""Parkinson's Disease"", 'Anxiety', 'COPD']",1993-11-20
+2093,7601,"['Thyroid Disease', 'Osteoporosis', 'COPD', 'COPD', 'COPD', 'Allergies']",2018-10-20
+9813,5172,"['Heart Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Osteoporosis', 'COPD', 'Anxiety']",1977-05-26
+2251,3405,"['Allergies', 'Heart Disease', 'Anxiety', ""Parkinson's Disease"", 'Anxiety', ""Parkinson's Disease"", 'Allergies', 'Osteoporosis', 'Liver Disease', 'Anxiety']",2012-06-29
+6435,2094,"['Osteoporosis', 'Mental Health Disorders', 'Thyroid Disease']",2012-12-18
+1565,7860,"['Allergies', 'Kidney Disease', 'Kidney Disease', 'Allergies', 'Heart Disease']",1992-06-23
+7485,6823,"['Allergies', 'COPD', 'Mental Health Disorders', 'Mental Health Disorders', 'Allergies', 'COPD']",2005-09-08
+1484,603,"['Liver Disease', 'Thyroid Disease', 'Anxiety', 'COPD']",1981-07-25
+4536,2668,"['Anxiety', 'Mental Health Disorders', 'Liver Disease']",2016-04-24
+886,3191,"['Kidney Disease', 'Thyroid Disease', 'Liver Disease', 'Osteoporosis', 'Heart Disease', 'Thyroid Disease', 'Kidney Disease', 'COPD', 'Obesity', 'Obesity', 'Allergies', ""Parkinson's Disease""]",2015-08-09
+678,6554,"['Heart Disease', 'Epilepsy', 'Kidney Disease', 'Mental Health Disorders', 'Anxiety', 'Allergies', 'Thyroid Disease', 'COPD', 'Osteoporosis', 'Osteoporosis', 'COPD']",2001-11-27
+3665,7721,"['Osteoporosis', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Thyroid Disease', 'Anxiety']",1981-08-04
+924,5158,"['Allergies', 'Obesity', 'Allergies', 'COPD', 'Osteoporosis', 'Epilepsy']",2012-05-29
+2520,389,"['Epilepsy', 'Heart Disease', ""Parkinson's Disease"", 'Epilepsy', 'Anxiety', 'Kidney Disease', 'Obesity', 'Liver Disease', 'Osteoporosis']",2019-08-08
+6185,8078,"['Epilepsy', 'Obesity', 'Kidney Disease', 'Epilepsy', 'Epilepsy', 'COPD', 'Liver Disease', 'Liver Disease', 'Mental Health Disorders', 'Heart Disease', 'Thyroid Disease']",1984-06-02
+468,5675,"['Allergies', ""Parkinson's Disease"", 'Heart Disease', 'Kidney Disease', 'Thyroid Disease', 'Thyroid Disease', 'Mental Health Disorders', 'Heart Disease']",1977-06-18
+2326,8139,"['Allergies', 'Obesity', 'Thyroid Disease', 'Anxiety', 'Osteoporosis', 'Kidney Disease', 'Liver Disease', 'Mental Health Disorders', 'Obesity', 'COPD']",1981-07-13
+6347,5509,"['COPD', 'Mental Health Disorders', 'Obesity', 'Epilepsy', 'Thyroid Disease', 'Thyroid Disease']",2018-03-19
+655,8534,"['Mental Health Disorders', 'Kidney Disease', 'COPD', 'Epilepsy', 'Mental Health Disorders', 'Anxiety']",2023-05-12
+2416,3589,"['Mental Health Disorders', 'Liver Disease']",1998-04-20
+3979,3143,"['Thyroid Disease', 'Kidney Disease', 'Anxiety', 'Liver Disease', 'Allergies', 'Anxiety', 'Mental Health Disorders', 'Kidney Disease', 'Anxiety', 'Allergies']",2011-12-04
+3518,3126,"['Anxiety', 'Osteoporosis', 'Obesity', 'Obesity', 'Epilepsy', 'Kidney Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'Kidney Disease', 'Osteoporosis', 'COPD']",1980-04-17
+3767,4972,"['Allergies', 'COPD', 'Obesity', 'Liver Disease']",2002-11-30
+6234,1695,"['Allergies', ""Parkinson's Disease"", 'Anxiety', 'Liver Disease', 'Thyroid Disease', 'Thyroid Disease', 'Kidney Disease']",2008-03-04
+960,2769,"['Osteoporosis', 'Liver Disease', 'Thyroid Disease', 'COPD', 'Heart Disease', 'Anxiety', 'Obesity', 'Anxiety', 'Allergies', 'Epilepsy', 'Kidney Disease']",2004-04-17
+7801,353,"['COPD', 'Epilepsy', 'Obesity']",1996-02-23
+2103,1695,"[""Parkinson's Disease"", 'Epilepsy', 'Mental Health Disorders', 'Anxiety', 'COPD', 'Kidney Disease', 'COPD']",1991-06-13
+9413,1260,['Mental Health Disorders'],2014-09-16
+7940,6132,"['Liver Disease', 'Heart Disease', 'Allergies', 'COPD', 'Obesity', 'Epilepsy', 'Epilepsy']",1999-08-15
+115,628,"['Allergies', 'COPD', 'Heart Disease', 'Osteoporosis', 'Liver Disease', 'Heart Disease', 'Thyroid Disease', 'Thyroid Disease']",2004-07-09
+3249,5896,"['Anxiety', 'Mental Health Disorders', 'Obesity', 'Anxiety']",2011-11-17
+6457,6625,"['Liver Disease', 'Obesity']",2011-11-29
+2488,7600,"['COPD', 'Anxiety', 'Mental Health Disorders', 'Obesity', 'Anxiety', 'Heart Disease', 'Allergies', 'Anxiety', 'Heart Disease', 'Epilepsy', 'Thyroid Disease']",2013-04-15
+4731,488,"['Epilepsy', 'Heart Disease', 'Obesity']",1984-12-20
+1618,7960,"['Allergies', 'Liver Disease', 'Heart Disease']",1977-07-06
+9472,2402,"['Mental Health Disorders', 'Thyroid Disease', 'Mental Health Disorders', 'Anxiety', 'Liver Disease', 'Anxiety', 'Mental Health Disorders']",1991-05-10
+195,4957,"[""Parkinson's Disease"", 'Epilepsy', 'Mental Health Disorders', 'Obesity', 'Epilepsy', 'Epilepsy', 'Kidney Disease', 'Osteoporosis', 'Allergies', 'Allergies', 'Osteoporosis', 'Kidney Disease']",1999-09-19
+9224,9410,"['Allergies', 'Obesity', 'Osteoporosis', 'Mental Health Disorders', 'Thyroid Disease', 'Heart Disease', 'Liver Disease', 'Thyroid Disease', 'Kidney Disease', 'Mental Health Disorders', 'Anxiety']",1981-11-09
+5749,8717,"['Thyroid Disease', ""Parkinson's Disease"", 'Mental Health Disorders', ""Parkinson's Disease"", 'Osteoporosis', 'Kidney Disease', 'Thyroid Disease']",1980-11-19
+3452,8033,"['Obesity', 'COPD', ""Parkinson's Disease"", 'Liver Disease', 'Osteoporosis', 'Mental Health Disorders', 'Anxiety', 'Thyroid Disease', 'Liver Disease', 'Obesity', 'Allergies', 'Liver Disease']",2019-04-01
+9654,2578,"['Kidney Disease', 'Liver Disease', 'Obesity', 'Epilepsy', 'Obesity', 'Anxiety', 'Osteoporosis']",1991-05-16
+911,2320,"['Epilepsy', 'Obesity', 'Heart Disease', 'Liver Disease', 'Osteoporosis', 'Epilepsy', 'Liver Disease', 'Osteoporosis']",2019-01-10
+5187,8033,"['Epilepsy', 'Mental Health Disorders', 'Epilepsy', 'Liver Disease', 'Osteoporosis', 'COPD', 'Anxiety', 'Obesity', 'Mental Health Disorders', ""Parkinson's Disease"", 'Osteoporosis', 'Heart Disease']",1993-07-06
+1377,7539,"[""Parkinson's Disease"", 'Thyroid Disease', 'Osteoporosis', 'Anxiety', 'Thyroid Disease']",2008-02-27
+6585,1573,"['Heart Disease', 'Heart Disease', ""Parkinson's Disease"", 'Allergies']",1970-02-15
+8360,809,"['COPD', 'Liver Disease', 'Heart Disease', 'Anxiety']",1990-01-02
+7115,4044,"['Osteoporosis', 'Osteoporosis', 'COPD', 'Epilepsy']",1995-11-24
+9695,4743,['Liver Disease'],1984-07-11
+7130,5210,"['Allergies', 'Thyroid Disease', 'Epilepsy', 'Anxiety', 'Obesity', 'Epilepsy', 'Osteoporosis', ""Parkinson's Disease"", 'Mental Health Disorders', 'Thyroid Disease']",1992-01-05
+2499,1867,"['Allergies', 'Anxiety', 'Liver Disease', 'Allergies', 'COPD', 'Epilepsy', 'Epilepsy', 'Mental Health Disorders', 'Thyroid Disease', 'Kidney Disease', 'Liver Disease']",2001-02-27
+1925,8100,"['Heart Disease', 'Heart Disease']",2016-05-17
+6778,3329,"['Osteoporosis', 'Obesity', 'Allergies', 'COPD']",1973-04-02
+813,4520,"[""Parkinson's Disease"", 'Heart Disease', 'Heart Disease', 'Heart Disease', 'Mental Health Disorders', 'Allergies', 'Allergies', 'Anxiety', 'Obesity', 'Osteoporosis', 'Kidney Disease', 'Anxiety']",2004-03-26
+3646,2938,"['Mental Health Disorders', 'Epilepsy', 'Osteoporosis', 'COPD', 'Epilepsy', 'Thyroid Disease', 'Liver Disease', 'Liver Disease', 'Epilepsy', 'Osteoporosis', 'Kidney Disease', 'Anxiety']",2017-06-18
+8072,3633,"['Heart Disease', 'Obesity', 'Osteoporosis', 'Liver Disease', 'Kidney Disease', 'COPD', 'Mental Health Disorders', 'Allergies', 'Heart Disease']",2006-04-26
+4062,1695,"['Mental Health Disorders', 'Epilepsy', 'Obesity', 'COPD', 'Thyroid Disease', 'Anxiety', 'Allergies', 'Heart Disease', 'Thyroid Disease', 'Mental Health Disorders', 'Mental Health Disorders']",1996-06-28
+8299,4728,"['Liver Disease', 'Allergies', 'Liver Disease', ""Parkinson's Disease"", 'Kidney Disease', 'Anxiety', 'Thyroid Disease', 'COPD', 'Liver Disease', 'Liver Disease', 'Anxiety', 'Epilepsy']",1993-04-16
+280,8099,"['Allergies', ""Parkinson's Disease""]",2015-09-17
+9836,3775,"['Anxiety', 'Obesity', 'Thyroid Disease', 'Osteoporosis', 'Heart Disease']",1996-05-07
+1334,4416,"['Allergies', 'Epilepsy']",2018-04-17
+9869,4436,"['Mental Health Disorders', 'Obesity', 'Osteoporosis']",1974-12-21
+142,2878,"['Liver Disease', 'Anxiety', 'Allergies', 'Liver Disease', 'Obesity']",1998-12-12
+5013,4878,['Thyroid Disease'],2015-09-20
+4898,3326,"['Mental Health Disorders', 'Allergies']",2010-03-19
+6747,8957,"['Mental Health Disorders', ""Parkinson's Disease"", 'Liver Disease', 'Anxiety', 'Osteoporosis', 'Mental Health Disorders', 'Thyroid Disease', 'Kidney Disease']",1997-09-29
+5051,4510,"['COPD', 'Liver Disease', 'Liver Disease', 'Epilepsy']",1972-09-17
+6163,4729,['Allergies'],2014-10-15
+9444,1250,"[""Parkinson's Disease"", 'Heart Disease', 'Kidney Disease', 'Epilepsy']",2002-09-19
+5173,3589,"['Epilepsy', 'Obesity']",1971-03-24
+2313,7156,"['Liver Disease', 'Kidney Disease', 'Osteoporosis']",2019-12-01
+5054,6233,"['Allergies', 'Osteoporosis']",1979-05-17
+8416,2448,"['Liver Disease', 'Epilepsy', ""Parkinson's Disease"", 'Heart Disease', 'Obesity']",1994-09-01
+2700,2514,"['Obesity', 'Liver Disease', 'Epilepsy']",2010-05-30
+4573,6109,"['Thyroid Disease', 'Heart Disease', 'Thyroid Disease', 'Heart Disease', 'Heart Disease', 'Liver Disease', 'COPD', 'Heart Disease', 'Liver Disease', 'Osteoporosis', 'Epilepsy', 'COPD']",1981-10-18
+4204,3191,"['Heart Disease', 'COPD', 'Mental Health Disorders', 'Kidney Disease', 'Allergies', 'Epilepsy', 'Heart Disease']",2009-11-02
+3895,5506,"['Allergies', 'Anxiety', 'Allergies', ""Parkinson's Disease"", 'Anxiety', 'Liver Disease', 'Mental Health Disorders', 'Allergies']",1996-08-24
+8258,443,"[""Parkinson's Disease"", 'Liver Disease', 'Osteoporosis', 'Allergies', 'Anxiety']",2023-09-30
+8697,3040,"['Anxiety', 'Kidney Disease', 'Anxiety', 'Kidney Disease', 'Osteoporosis', 'Kidney Disease', ""Parkinson's Disease"", 'COPD']",1978-05-03
+3412,3326,"[""Parkinson's Disease"", 'Mental Health Disorders', 'COPD', 'Epilepsy', ""Parkinson's Disease"", 'Liver Disease', 'Epilepsy']",2021-01-23
+8132,7596,"['Anxiety', 'Heart Disease', 'Anxiety']",1976-11-12
+1943,488,"['COPD', 'Mental Health Disorders', 'Obesity']",1989-03-31
+729,4510,"['Liver Disease', 'Epilepsy', 'Osteoporosis']",2023-09-15
+5121,3747,"['Osteoporosis', 'Thyroid Disease', ""Parkinson's Disease"", 'Kidney Disease', 'Kidney Disease', 'Osteoporosis', 'Thyroid Disease', 'Kidney Disease', 'COPD', 'Anxiety']",2023-04-13
+5295,3996,"['Allergies', 'Allergies']",1987-10-17
+8298,7219,"['Thyroid Disease', 'Mental Health Disorders', 'Kidney Disease', 'Allergies', 'COPD', 'Thyroid Disease', 'Allergies']",1986-10-28
+1806,1863,"['Epilepsy', 'Osteoporosis', 'Kidney Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Liver Disease', ""Parkinson's Disease"", 'Thyroid Disease', ""Parkinson's Disease"", 'Kidney Disease', 'Thyroid Disease', 'Kidney Disease']",1988-01-07
+768,3473,"['Kidney Disease', 'Obesity', 'Liver Disease']",2009-06-17
+2552,5707,['Allergies'],2004-05-08
+8417,8807,"['COPD', 'Liver Disease', 'Thyroid Disease', 'Anxiety', 'Epilepsy', 'Thyroid Disease', 'Kidney Disease', 'Liver Disease', 'Kidney Disease', 'Mental Health Disorders', 'Osteoporosis']",1998-12-26
+388,3210,"['Anxiety', ""Parkinson's Disease""]",2018-07-01
+665,9735,"['COPD', 'Allergies', ""Parkinson's Disease"", 'COPD', 'Heart Disease']",2002-07-20
+8588,6823,"['Anxiety', 'Mental Health Disorders', 'Heart Disease', 'Obesity', 'Mental Health Disorders']",1984-09-08
+9071,872,"['Allergies', 'COPD', 'Allergies', 'Osteoporosis', 'Obesity', ""Parkinson's Disease"", 'Obesity']",1974-01-21
+1409,4647,"['Anxiety', 'Mental Health Disorders', 'Heart Disease', 'Obesity']",2022-01-20
+4455,4350,"['Kidney Disease', 'Obesity', ""Parkinson's Disease"", 'COPD', 'Kidney Disease', 'Epilepsy']",1971-02-13
+9828,7596,"['Anxiety', 'Thyroid Disease', 'Heart Disease', ""Parkinson's Disease"", 'Kidney Disease', 'Thyroid Disease', 'Liver Disease', 'Liver Disease', 'Anxiety', 'Thyroid Disease', ""Parkinson's Disease"", 'Allergies']",2000-01-30
+7750,6651,"['Epilepsy', 'Obesity', 'Kidney Disease', 'Heart Disease', 'Allergies']",2017-01-03
+5700,1683,"['Anxiety', 'COPD', ""Parkinson's Disease"", 'Liver Disease', 'Obesity', 'Liver Disease', 'Anxiety', 'Mental Health Disorders', 'Anxiety', 'Obesity', 'Obesity']",2017-01-25
+4999,1852,"['Osteoporosis', 'Heart Disease', 'Obesity', 'COPD', 'Kidney Disease', 'Anxiety', 'Epilepsy']",2013-02-22
+5083,6099,"['Epilepsy', 'Liver Disease', 'Obesity', 'Liver Disease', 'Osteoporosis']",1989-08-29
+6804,5087,"['COPD', 'Epilepsy', ""Parkinson's Disease""]",2010-03-31
+415,7219,"['Heart Disease', 'Mental Health Disorders', 'Osteoporosis', 'COPD', 'Epilepsy', 'Kidney Disease', 'Kidney Disease', 'Anxiety', 'Thyroid Disease', 'Allergies']",1973-07-01
+2072,810,"[""Parkinson's Disease"", 'Liver Disease']",1972-10-23
+6449,5859,"['Kidney Disease', 'Liver Disease']",1999-09-29
+5552,1883,"['Epilepsy', 'Kidney Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Anxiety', ""Parkinson's Disease"", 'Liver Disease', ""Parkinson's Disease"", 'COPD', 'Mental Health Disorders', 'Liver Disease', 'Epilepsy']",1982-10-02
+2306,4236,"['Kidney Disease', 'Epilepsy', 'Liver Disease', 'Heart Disease', 'Epilepsy', 'Osteoporosis', 'Mental Health Disorders', 'Liver Disease', 'Osteoporosis', 'Epilepsy', ""Parkinson's Disease"", 'Mental Health Disorders']",2020-10-03
+8641,5675,"['Kidney Disease', 'Osteoporosis', 'COPD', 'Heart Disease', 'COPD', 'COPD', 'Osteoporosis', 'Epilepsy', 'Allergies']",2011-05-20
+7299,3405,"['Allergies', 'Obesity', 'Obesity', 'Anxiety', 'COPD', 'Allergies', 'Epilepsy', 'Heart Disease']",2011-05-22
+8008,8100,"['Allergies', ""Parkinson's Disease"", 'Osteoporosis', 'COPD', 'Kidney Disease', 'Obesity', 'Anxiety', 'Mental Health Disorders', 'Anxiety']",2020-11-10
+8025,3040,"['Epilepsy', 'Liver Disease', 'Obesity', 'Anxiety', 'COPD', 'Obesity', 'Osteoporosis', 'Osteoporosis', 'Liver Disease', 'Liver Disease']",2008-10-06
+3684,3217,"['Allergies', 'Anxiety', 'Epilepsy']",1993-01-12
+746,8532,"['Heart Disease', 'Obesity', 'Obesity', 'Epilepsy', 'Obesity', 'Allergies', 'Epilepsy']",2020-12-22
+3423,3061,"['Anxiety', 'Allergies', 'Epilepsy', 'Allergies', 'Anxiety', 'Liver Disease', 'Heart Disease', 'Allergies']",2000-08-21
+738,7418,"['Allergies', 'Heart Disease', 'Allergies', 'Liver Disease', 'Obesity', 'Epilepsy', 'Anxiety', 'Anxiety', 'Thyroid Disease', 'Mental Health Disorders', 'COPD', 'COPD']",1987-01-20
+8966,4301,"['COPD', 'Obesity', 'Epilepsy', 'Liver Disease', 'Heart Disease', 'Osteoporosis']",1981-10-23
+4050,3009,['Obesity'],2010-11-17
+5211,4255,"['Anxiety', 'Heart Disease', 'Epilepsy', 'Liver Disease', 'Epilepsy', 'Allergies', 'Allergies', 'Thyroid Disease', 'Mental Health Disorders']",2020-12-22
+8606,9594,['Kidney Disease'],1976-07-14
+9329,6014,"['Epilepsy', 'Osteoporosis', 'Mental Health Disorders', 'Liver Disease', 'Allergies', 'Thyroid Disease']",1991-04-16
+227,3519,"['Liver Disease', 'Mental Health Disorders', 'Kidney Disease']",1993-01-17
+615,4557,"['Allergies', 'Osteoporosis', ""Parkinson's Disease"", 'Allergies', 'Anxiety', 'Epilepsy', 'Thyroid Disease', 'Kidney Disease', ""Parkinson's Disease"", 'Heart Disease', 'Epilepsy']",1996-09-26
+5530,4510,"['Epilepsy', 'Anxiety', 'Obesity', 'Osteoporosis', 'Allergies', 'Obesity', 'Anxiety', 'Obesity', 'Heart Disease']",1975-08-25
+1825,1260,"['Obesity', 'Allergies', 'Heart Disease', 'Thyroid Disease', 'Heart Disease', 'Allergies', 'Heart Disease']",2023-09-08
+5146,1900,"['COPD', 'Thyroid Disease', 'COPD', 'Allergies', 'Heart Disease', 'Mental Health Disorders', 'Epilepsy']",1988-10-20
+137,7369,"['Kidney Disease', 'Epilepsy', 'Mental Health Disorders', 'Mental Health Disorders', 'Epilepsy', 'Epilepsy', 'Epilepsy', 'Heart Disease', 'Thyroid Disease', 'Heart Disease', 'Thyroid Disease', 'Mental Health Disorders']",2007-01-05
+9040,2826,"['COPD', ""Parkinson's Disease""]",2022-10-04
+299,1630,"['Allergies', 'Allergies', 'Thyroid Disease', 'Thyroid Disease', 'Liver Disease', 'Mental Health Disorders', 'Kidney Disease', 'Liver Disease', 'Obesity', 'Osteoporosis', 'Anxiety', 'Heart Disease']",2024-01-19
+1243,3099,"['Heart Disease', 'Heart Disease', 'Osteoporosis', 'Allergies', 'Kidney Disease', 'Anxiety', 'Liver Disease', 'Heart Disease', 'Liver Disease', 'Allergies', 'Anxiety']",2018-03-15
+8396,1520,"['Osteoporosis', 'Kidney Disease', 'Liver Disease', 'Thyroid Disease', 'COPD', 'Liver Disease']",1972-09-04
+8342,3738,"['Epilepsy', ""Parkinson's Disease"", 'Epilepsy', 'Mental Health Disorders', 'Epilepsy', 'Kidney Disease', 'Osteoporosis']",2004-06-05
+3808,4777,"['Epilepsy', 'COPD', 'Obesity', 'Thyroid Disease', 'Liver Disease']",2011-02-16
+332,101,"['Obesity', 'Anxiety', 'Epilepsy', 'Epilepsy', 'Kidney Disease', 'Liver Disease', 'Mental Health Disorders', 'Liver Disease']",1976-06-12
+623,6813,"['Heart Disease', 'COPD', 'Heart Disease', 'Kidney Disease', 'Epilepsy', 'Kidney Disease', 'COPD', 'Kidney Disease', 'Osteoporosis', 'COPD']",1985-01-01
+3577,9796,"['Anxiety', 'Thyroid Disease', 'Anxiety', 'Heart Disease', 'Osteoporosis']",2013-03-04
+6211,8481,"['Anxiety', 'Osteoporosis', 'Anxiety', 'Kidney Disease']",2016-01-01
+4829,2826,"['Liver Disease', 'Obesity', 'Epilepsy', 'COPD', 'COPD', 'COPD', 'Heart Disease', 'Anxiety', 'Kidney Disease']",2018-07-19
+5534,4401,"[""Parkinson's Disease"", 'Osteoporosis', 'Mental Health Disorders', 'COPD']",1990-02-12
+9724,443,"['Epilepsy', 'COPD', ""Parkinson's Disease"", 'COPD', 'COPD', 'Obesity', ""Parkinson's Disease"", 'COPD', 'Obesity']",2016-11-27
+3065,1316,"['Osteoporosis', 'COPD', 'Epilepsy', 'Osteoporosis']",1987-07-07
+6293,720,"['Obesity', 'Epilepsy', 'Mental Health Disorders', 'Obesity']",1980-02-27
+8361,7156,"['Osteoporosis', 'COPD']",1978-08-24
+9907,5397,"['Liver Disease', 'Epilepsy', 'Thyroid Disease']",1988-03-19
+7929,3628,"[""Parkinson's Disease"", 'Anxiety', 'COPD', 'Heart Disease', 'Kidney Disease', 'Liver Disease', 'Liver Disease', 'Obesity', 'Heart Disease', 'Heart Disease']",1970-07-27
+9916,7985,"['Kidney Disease', 'Osteoporosis', 'Allergies', 'Anxiety', 'Osteoporosis', 'Thyroid Disease', 'Liver Disease']",1984-11-25
+4233,4350,"['Allergies', 'Allergies', 'Epilepsy', 'Anxiety', 'COPD', 'Osteoporosis', 'Liver Disease', 'Anxiety', 'Heart Disease', 'Thyroid Disease', 'Kidney Disease', 'Obesity']",1999-06-29
+3791,8706,"['Thyroid Disease', 'COPD', 'Osteoporosis', 'Liver Disease', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Epilepsy', ""Parkinson's Disease"", 'Anxiety', 'COPD', 'Heart Disease']",1998-05-14
+6085,9031,"['Heart Disease', 'COPD', 'Heart Disease', 'Liver Disease', 'Liver Disease', 'COPD', 'Osteoporosis', 'COPD', 'Liver Disease', 'Thyroid Disease']",1985-03-23
+1173,8957,['Liver Disease'],2001-03-21
+6819,108,"['Mental Health Disorders', 'Anxiety', 'Mental Health Disorders', 'Obesity', 'Anxiety', 'Allergies', 'Heart Disease', 'Osteoporosis', 'Thyroid Disease', 'Kidney Disease', ""Parkinson's Disease""]",1972-01-04
+9759,8248,"['Liver Disease', 'Osteoporosis', ""Parkinson's Disease"", 'Osteoporosis', 'Epilepsy', 'COPD']",1973-11-15
+3501,6009,"['Heart Disease', 'Kidney Disease', 'Mental Health Disorders', ""Parkinson's Disease"", 'Mental Health Disorders', 'Osteoporosis', 'Mental Health Disorders']",1999-05-03
+6748,4972,"[""Parkinson's Disease"", 'Osteoporosis', 'Heart Disease', 'Epilepsy', 'Liver Disease', 'Thyroid Disease', 'Thyroid Disease', 'Allergies', 'Anxiety', 'Allergies']",1989-06-14
+6724,1008,"[""Parkinson's Disease"", 'Thyroid Disease', ""Parkinson's Disease"", 'Mental Health Disorders', 'Heart Disease', 'Kidney Disease', 'Anxiety', 'Allergies']",1991-04-01
+6734,6812,"['Epilepsy', 'Heart Disease', 'Obesity', 'Mental Health Disorders', 'Liver Disease', ""Parkinson's Disease""]",2016-10-27
+3802,6910,"['Obesity', 'Liver Disease', 'Liver Disease']",1973-10-01
+5768,1008,['Thyroid Disease'],2024-07-08
+8389,2460,"['Epilepsy', 'Epilepsy', 'Thyroid Disease', 'Epilepsy', 'Anxiety', 'COPD', 'Heart Disease', 'Obesity', 'Anxiety', 'Allergies', 'Liver Disease', 'Epilepsy']",2008-10-16
+7963,7779,"['Liver Disease', 'Mental Health Disorders', 'Epilepsy', 'Mental Health Disorders']",2000-04-15
+8731,3996,"['Mental Health Disorders', 'Mental Health Disorders', 'Obesity']",2020-05-08
+5747,8294,"['Allergies', 'Osteoporosis', 'Mental Health Disorders']",1990-02-12
+821,9369,"['Kidney Disease', 'Liver Disease', 'Osteoporosis', 'Mental Health Disorders', 'Thyroid Disease', 'Obesity', 'Liver Disease', 'Mental Health Disorders', 'Obesity']",1982-09-07
+3691,8036,"['COPD', 'COPD']",1974-03-10
+1336,1695,"['Mental Health Disorders', 'Allergies', 'Heart Disease', 'Heart Disease', 'Obesity']",2000-10-16
+3062,8078,['Osteoporosis'],1999-07-20
+18,1205,"['Epilepsy', 'Obesity']",2007-09-16
+6659,6014,"['Allergies', 'Osteoporosis', 'Epilepsy']",2008-12-07
+1709,1076,"['COPD', 'Heart Disease', 'Kidney Disease', 'Kidney Disease', 'Obesity']",2024-01-23
+6835,978,"['Osteoporosis', 'Epilepsy', 'Thyroid Disease']",1983-11-05
+3261,5423,"['Liver Disease', 'Kidney Disease', 'Liver Disease', 'Allergies', 'Epilepsy', 'Epilepsy']",2000-05-17
+4954,1900,"['Thyroid Disease', 'Kidney Disease', 'Heart Disease', 'Heart Disease', 'Osteoporosis', 'Thyroid Disease', 'Allergies', 'Anxiety']",1999-05-02
+7578,6118,"['Osteoporosis', 'COPD', 'Obesity', 'Mental Health Disorders', 'Thyroid Disease', 'Heart Disease', 'Osteoporosis', 'Thyroid Disease', 'Osteoporosis', 'Allergies']",1984-09-26
+1507,7596,"['Anxiety', 'COPD', 'Kidney Disease', 'Liver Disease', 'Mental Health Disorders', 'Epilepsy', 'Kidney Disease']",2018-06-03
+3829,5465,"['Thyroid Disease', 'Obesity', ""Parkinson's Disease"", 'Heart Disease', 'Allergies', 'Anxiety', 'COPD', 'COPD']",2003-12-21
+2282,2964,"['Osteoporosis', 'Liver Disease']",1993-08-02
+2141,2460,"['Epilepsy', 'Obesity', 'Liver Disease', 'Osteoporosis', 'COPD', 'Obesity', 'Allergies', 'COPD', 'Obesity', 'Anxiety']",1973-12-27
+9225,9965,"['Kidney Disease', 'Heart Disease', 'Anxiety', 'Allergies', 'Osteoporosis', 'COPD', 'Allergies']",2010-11-14
+6421,8242,"['Obesity', 'Liver Disease', 'Allergies', 'Obesity', 'Allergies', 'Liver Disease', 'COPD', 'Anxiety', 'Thyroid Disease', 'Osteoporosis', 'Anxiety']",1989-01-22
+6635,9735,"['Osteoporosis', ""Parkinson's Disease"", 'Liver Disease', 'COPD', 'Osteoporosis', ""Parkinson's Disease"", 'Liver Disease', 'Allergies', 'Obesity', 'Osteoporosis']",2016-11-13
+7248,763,"['Allergies', 'Allergies', 'Liver Disease', 'Thyroid Disease', 'Anxiety', 'Epilepsy', 'Allergies']",1978-01-21
+2986,5087,"['Anxiety', 'Anxiety', 'Mental Health Disorders', 'Anxiety', 'Epilepsy', 'Liver Disease', 'Osteoporosis', 'Osteoporosis', 'COPD', 'Obesity']",1972-02-17
+3220,1074,"['Thyroid Disease', 'Kidney Disease', ""Parkinson's Disease"", 'Obesity']",2011-07-31
+2161,3604,"['Anxiety', 'Mental Health Disorders', 'Osteoporosis', 'Anxiety', ""Parkinson's Disease"", 'Allergies', 'Liver Disease', 'Epilepsy', 'Heart Disease', 'Thyroid Disease']",2022-04-29
+8771,763,"['Mental Health Disorders', 'Osteoporosis', 'Allergies', 'Heart Disease', 'Mental Health Disorders', 'Obesity']",1979-08-22
+3506,1863,"[""Parkinson's Disease"", 'Anxiety', 'Anxiety', ""Parkinson's Disease"", 'Obesity', 'Epilepsy', 'Anxiety', 'Liver Disease', 'Anxiety', 'Liver Disease']",2016-01-14
+5006,4825,['COPD'],1972-04-13
+4464,3575,"[""Parkinson's Disease""]",1982-03-14
+7851,7897,"['Anxiety', 'COPD', 'Heart Disease', 'Epilepsy', 'Osteoporosis', 'COPD', 'Anxiety', ""Parkinson's Disease"", 'Anxiety', 'Liver Disease', 'Epilepsy']",2024-04-06
+4491,6569,"['Epilepsy', 'Thyroid Disease', 'Osteoporosis', 'Liver Disease']",2013-06-28
+2901,5329,['Osteoporosis'],1972-12-08
+1743,6099,"['Liver Disease', 'Mental Health Disorders']",1996-09-08
+6431,5668,['Epilepsy'],2021-10-14
+8425,108,"['Kidney Disease', ""Parkinson's Disease"", 'Liver Disease', 'Kidney Disease', 'Heart Disease', 'Allergies', 'Heart Disease', 'Kidney Disease']",1984-05-10
+2179,4276,"['Obesity', 'Mental Health Disorders', 'Kidney Disease', 'Osteoporosis', 'Allergies', 'Liver Disease', 'Kidney Disease', 'Epilepsy', 'Heart Disease']",2001-03-16
+6918,1856,"['Heart Disease', 'COPD', 'Epilepsy', 'Mental Health Disorders', 'Thyroid Disease', 'Kidney Disease', 'Osteoporosis']",2016-03-21
+9091,7814,"['Anxiety', 'Allergies', 'Osteoporosis']",2000-09-06
+6793,9655,"['Kidney Disease', 'Liver Disease', 'Thyroid Disease', 'Osteoporosis']",2009-04-06
+2590,7156,"['Liver Disease', 'Liver Disease', 'Heart Disease', 'COPD', ""Parkinson's Disease"", 'Liver Disease', 'Mental Health Disorders', 'Kidney Disease', 'Mental Health Disorders']",2022-06-08
+7164,603,"['Allergies', 'Osteoporosis', 'Obesity', 'Liver Disease', 'Allergies', 'Obesity']",2017-08-30
+8381,590,"['Epilepsy', 'Osteoporosis']",1982-05-21
+7548,361,"['Epilepsy', 'Allergies', 'Osteoporosis', 'Osteoporosis', ""Parkinson's Disease"", 'Allergies', 'Allergies', 'Liver Disease', 'Obesity', 'Anxiety']",1997-07-08
+3973,3980,"['COPD', 'Anxiety', 'Anxiety', 'Anxiety', 'Thyroid Disease', 'Obesity', 'Obesity']",1985-11-09
+1873,5859,['Obesity'],1995-06-24
+1579,8294,"['Liver Disease', 'Heart Disease', 'Mental Health Disorders', 'Liver Disease', 'Liver Disease', ""Parkinson's Disease"", 'Mental Health Disorders', 'Obesity', 'COPD', 'Anxiety', 'Heart Disease']",1987-07-28
+4085,3457,"['Osteoporosis', 'Epilepsy', 'Obesity', 'Mental Health Disorders', 'Thyroid Disease', 'Heart Disease', 'Allergies', 'Mental Health Disorders', 'Obesity']",1975-10-22
+8093,3996,"['Obesity', 'Epilepsy', 'Kidney Disease']",2018-07-04
+4265,5414,"['Osteoporosis', 'Heart Disease', 'Kidney Disease', 'Heart Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Allergies', 'Obesity']",1996-10-29
+3561,6033,"[""Parkinson's Disease"", 'Mental Health Disorders', 'Liver Disease', 'Kidney Disease', 'Osteoporosis']",1999-02-13
+1039,4044,"['COPD', 'Kidney Disease', 'Anxiety', 'Osteoporosis', 'Epilepsy']",1974-01-27
+6722,6196,"['Thyroid Disease', 'Mental Health Disorders', 'Mental Health Disorders', 'Osteoporosis', 'Obesity']",2003-12-05
+4285,8804,['Osteoporosis'],2016-12-23
+6727,5388,"['Liver Disease', 'Mental Health Disorders', 'Anxiety', 'Liver Disease', 'COPD']",1973-09-03
+7231,4837,['Mental Health Disorders'],1988-10-20
+9182,1630,"['COPD', 'Mental Health Disorders', 'Epilepsy', 'Anxiety', 'Anxiety', 'Liver Disease', 'Anxiety', 'Kidney Disease', 'Heart Disease', 'Thyroid Disease']",2002-08-29
+1626,7175,"['Obesity', 'Osteoporosis', 'Epilepsy', 'Kidney Disease', 'Kidney Disease', 'Mental Health Disorders', 'COPD', 'Kidney Disease']",2009-11-26
+6736,8726,['Epilepsy'],2014-08-14
+8629,2320,"['Anxiety', 'Obesity', 'Epilepsy', 'Mental Health Disorders', 'Epilepsy', 'Epilepsy', 'Mental Health Disorders']",1984-02-10
+2710,4255,"['Thyroid Disease', 'Liver Disease', 'Mental Health Disorders', 'Mental Health Disorders', 'Obesity', 'Thyroid Disease']",1987-05-03
+1003,5122,"['Kidney Disease', 'Liver Disease', 'Allergies']",1998-05-18
+342,7175,"['Epilepsy', 'Osteoporosis', 'Mental Health Disorders', 'Allergies']",1992-03-26
+3944,4878,['Anxiety'],2002-10-07
+2922,1076,"['Epilepsy', 'Anxiety', 'Anxiety', 'Mental Health Disorders', ""Parkinson's Disease"", 'Allergies', 'COPD']",2021-06-14
+1396,4833,"[""Parkinson's Disease""]",1976-04-11
+7116,9853,"['Osteoporosis', 'Anxiety', 'COPD', 'Thyroid Disease', 'Mental Health Disorders', 'Kidney Disease', 'Thyroid Disease', 'Epilepsy', 'Heart Disease']",1999-06-13
+4776,5506,"['Anxiety', 'Allergies', 'Thyroid Disease']",1979-02-12
+5703,1371,"['Osteoporosis', 'Heart Disease', 'Allergies', 'Osteoporosis', 'Obesity', 'COPD', 'Anxiety', 'Osteoporosis', 'Osteoporosis', 'Mental Health Disorders', 'Obesity']",2007-03-30
+2909,763,"['Heart Disease', 'Osteoporosis']",2020-02-15
+9383,1993,"['Epilepsy', 'Kidney Disease', 'Epilepsy', 'COPD', 'Osteoporosis', ""Parkinson's Disease""]",1998-04-05
+43,8475,"['COPD', 'Anxiety', ""Parkinson's Disease"", 'Anxiety', 'Anxiety']",1975-03-20
+3139,488,"['Epilepsy', 'Allergies', 'Osteoporosis', 'Anxiety', 'Anxiety']",1997-11-01
+4922,7111,"['Mental Health Disorders', 'Osteoporosis', 'Heart Disease', 'COPD', 'Allergies', 'COPD', 'Mental Health Disorders', 'Allergies']",1975-08-22
+3224,5707,"['Epilepsy', 'Liver Disease', ""Parkinson's Disease"", 'Mental Health Disorders', ""Parkinson's Disease"", 'Heart Disease', 'Kidney Disease']",1978-04-02
+6417,6390,"['Allergies', 'Allergies', 'Anxiety', 'COPD', ""Parkinson's Disease"", 'Epilepsy', 'Liver Disease', ""Parkinson's Disease""]",2017-07-04
+2728,640,"['Kidney Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Osteoporosis', 'Mental Health Disorders', 'Thyroid Disease', 'COPD', 'Heart Disease']",2023-02-01
+1399,6026,"['Mental Health Disorders', 'Thyroid Disease', 'Kidney Disease', 'Mental Health Disorders']",2006-02-07
+9395,1695,"[""Parkinson's Disease"", 'Thyroid Disease', 'Obesity', 'Allergies', 'Osteoporosis', 'Osteoporosis']",1981-08-22
+3956,9031,"['Epilepsy', 'Liver Disease', 'COPD', 'Osteoporosis', 'Anxiety', 'Thyroid Disease', 'Obesity', 'Anxiety', 'Mental Health Disorders', 'Heart Disease', 'Heart Disease', 'Osteoporosis']",1991-12-08
+6180,1250,"['Allergies', 'Liver Disease', 'Obesity', 'Epilepsy']",1972-11-20
+7199,771,"['Obesity', 'Liver Disease', 'Kidney Disease', 'Allergies', 'Thyroid Disease', 'Obesity', 'Heart Disease']",1981-12-10
+6472,7960,"['Epilepsy', 'Liver Disease', 'Kidney Disease', 'Allergies', 'Kidney Disease', 'Allergies', 'Mental Health Disorders']",1988-02-15
+539,6254,"['Kidney Disease', 'Thyroid Disease', 'Kidney Disease', 'Thyroid Disease', 'Mental Health Disorders', 'Mental Health Disorders', 'Epilepsy']",2018-09-16
+5330,5388,"[""Parkinson's Disease"", 'Liver Disease', 'Obesity', 'Epilepsy', 'Osteoporosis']",1986-08-09
+273,680,"[""Parkinson's Disease"", 'Anxiety', 'Liver Disease', 'COPD', 'Epilepsy', 'Osteoporosis', 'Mental Health Disorders', 'COPD', 'Liver Disease']",1978-02-25
+8788,3753,"['Mental Health Disorders', 'COPD', 'Allergies']",1997-05-12
+133,6099,"['Allergies', 'Heart Disease']",2017-12-04
+2713,6118,"['Heart Disease', 'Thyroid Disease', 'Mental Health Disorders']",2005-01-05
+7649,2033,"['Kidney Disease', 'Osteoporosis', 'Thyroid Disease', 'Liver Disease', 'Heart Disease', 'Obesity', 'Thyroid Disease', 'Epilepsy', 'Thyroid Disease', 'Osteoporosis', 'Obesity']",2018-05-22
+5618,3865,"['Heart Disease', 'Heart Disease', 'COPD', 'Epilepsy', ""Parkinson's Disease"", 'Mental Health Disorders', 'Anxiety', 'COPD', 'Allergies', 'Osteoporosis', 'Thyroid Disease', 'Liver Disease']",1993-09-01
+1791,3660,"['Heart Disease', 'Allergies', 'Epilepsy', ""Parkinson's Disease"", 'Mental Health Disorders', 'Heart Disease', 'Anxiety', 'Mental Health Disorders', 'Kidney Disease', 'COPD', 'Osteoporosis', 'Anxiety']",2003-06-25
+5996,4008,['Kidney Disease'],2005-07-09
+9130,7847,"['Liver Disease', 'Obesity', 'Osteoporosis', 'Anxiety', 'Osteoporosis', 'Mental Health Disorders', 'Mental Health Disorders', 'Osteoporosis', 'Epilepsy', 'Osteoporosis', 'Epilepsy']",1991-06-23
+6455,4825,"['Epilepsy', 'Anxiety', 'Allergies', 'Heart Disease', 'Epilepsy', 'Mental Health Disorders', 'Kidney Disease', 'Anxiety']",2003-01-19
+3072,6683,"['Mental Health Disorders', 'Epilepsy']",1970-08-01
+540,6133,"['Liver Disease', 'Epilepsy', 'Thyroid Disease', 'Anxiety', 'Allergies', 'Kidney Disease', 'Osteoporosis', 'Allergies', 'Osteoporosis']",1984-06-05
+4822,9936,"['Liver Disease', 'Allergies', 'Osteoporosis', ""Parkinson's Disease"", 'Kidney Disease', 'Osteoporosis', 'Thyroid Disease', 'Epilepsy', 'Osteoporosis', 'Allergies', 'Osteoporosis']",1988-07-30
+9984,1867,"['Kidney Disease', 'COPD', 'COPD', ""Parkinson's Disease"", 'Thyroid Disease', 'Osteoporosis', 'Heart Disease', 'Osteoporosis', 'Kidney Disease', 'Anxiety', 'Osteoporosis']",1972-06-27
+8079,4913,"['Osteoporosis', 'Kidney Disease', 'Anxiety', 'Kidney Disease', 'Heart Disease']",2004-10-05
+1443,872,"['Mental Health Disorders', 'Mental Health Disorders', 'COPD']",2021-09-21
+6623,9786,"['Osteoporosis', 'Heart Disease', 'Obesity', 'Osteoporosis', 'Anxiety', 'COPD']",2004-11-16
+427,2777,"['Mental Health Disorders', 'Anxiety', 'Epilepsy', 'Epilepsy', 'Thyroid Disease', 'Obesity', 'Anxiety', 'Anxiety', 'Allergies', 'Osteoporosis', 'Epilepsy', 'Obesity']",1986-01-19
+6885,6429,"['Obesity', 'Anxiety', 'Anxiety', 'Allergies', 'Thyroid Disease', 'Mental Health Disorders', 'Kidney Disease', 'Obesity', 'Osteoporosis']",2015-11-30
+8793,9586,"['Thyroid Disease', 'Anxiety', ""Parkinson's Disease"", 'Osteoporosis', 'Kidney Disease', 'Heart Disease', 'Heart Disease', 'Obesity', 'Epilepsy', 'Allergies', 'Thyroid Disease', 'COPD']",2018-03-11
+2915,8002,"['Thyroid Disease', 'Osteoporosis', ""Parkinson's Disease"", ""Parkinson's Disease"", ""Parkinson's Disease""]",2000-06-16
+5688,9369,"['Anxiety', 'Anxiety', 'Mental Health Disorders', 'Allergies', 'Epilepsy']",1972-03-27
+1551,9675,"['COPD', 'Heart Disease', 'Heart Disease', 'Liver Disease']",1995-01-26
+4992,9721,"['Anxiety', ""Parkinson's Disease"", 'Heart Disease', 'COPD', 'Allergies', ""Parkinson's Disease"", 'Osteoporosis']",1984-01-24
+7439,7610,"['Heart Disease', 'Epilepsy', 'Heart Disease', 'Liver Disease', 'Thyroid Disease', 'Thyroid Disease', 'Epilepsy', ""Parkinson's Disease"", 'Thyroid Disease', 'Epilepsy', 'Obesity']",1997-06-10
+5243,7701,"['COPD', 'Epilepsy', 'Obesity', 'Kidney Disease', 'Anxiety', 'Mental Health Disorders', 'Kidney Disease', 'Anxiety', 'Epilepsy', 'Kidney Disease']",1975-05-12
+359,6394,"['Osteoporosis', 'Obesity', 'Osteoporosis', 'Osteoporosis', 'Obesity', 'COPD', 'Allergies', 'Kidney Disease', 'Obesity']",2001-11-19
+7968,4333,"['Thyroid Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Heart Disease', 'Liver Disease']",1971-08-28
+3737,3753,"['Thyroid Disease', 'COPD', 'Thyroid Disease', 'Epilepsy']",1972-04-13
+4460,9878,"[""Parkinson's Disease"", 'Liver Disease', 'Osteoporosis', 'Liver Disease', 'Allergies', 'Epilepsy', 'Kidney Disease', 'Kidney Disease', 'Mental Health Disorders', 'Allergies', 'Osteoporosis']",2024-09-24
+6047,7175,"['Liver Disease', 'Thyroid Disease']",2004-10-29
+2568,8033,['Allergies'],2020-06-16
+8180,6175,"['Anxiety', 'Mental Health Disorders', 'Epilepsy', 'Heart Disease', 'Obesity', 'Liver Disease', ""Parkinson's Disease"", 'Liver Disease']",1998-11-10
+5096,949,"['Anxiety', 'Anxiety']",2006-01-28
+5885,5172,"['Mental Health Disorders', ""Parkinson's Disease"", 'Heart Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Kidney Disease', 'COPD', 'Heart Disease']",1979-12-21
+5819,1260,"['COPD', 'COPD', 'Heart Disease']",1982-08-17
+9942,9393,"['Mental Health Disorders', 'COPD', 'Thyroid Disease', 'Osteoporosis', 'Liver Disease', ""Parkinson's Disease"", 'Kidney Disease', 'COPD', 'Mental Health Disorders', 'Allergies', 'Kidney Disease']",2009-05-25
+5039,5158,"['Allergies', 'Epilepsy', 'Mental Health Disorders', 'COPD', 'COPD', 'Osteoporosis', ""Parkinson's Disease"", 'Allergies', 'Allergies', 'Obesity', 'Epilepsy']",2000-05-02
+9647,21,"['Heart Disease', 'Liver Disease']",1981-01-15
+532,5423,"['Thyroid Disease', 'Allergies', 'COPD', 'Epilepsy', 'Anxiety', 'Kidney Disease', 'Kidney Disease', 'Kidney Disease']",2019-03-10
+3705,3217,"['Anxiety', 'Epilepsy']",2015-04-04
+2134,8207,"[""Parkinson's Disease"", 'Mental Health Disorders', 'Osteoporosis', 'Mental Health Disorders', 'Liver Disease', 'Anxiety']",1995-02-27
+6329,9543,"['Kidney Disease', 'Liver Disease', 'Allergies', 'COPD', 'COPD', 'Mental Health Disorders', 'COPD', 'Anxiety', 'Liver Disease', 'Anxiety', ""Parkinson's Disease"", ""Parkinson's Disease""]",1991-03-23
+2845,9965,"['Kidney Disease', 'Thyroid Disease', 'Liver Disease', ""Parkinson's Disease"", 'Anxiety', 'Epilepsy', 'Allergies', 'Osteoporosis']",1980-01-26
+331,9323,"['Kidney Disease', 'Obesity', ""Parkinson's Disease"", 'Obesity', 'Allergies', 'Thyroid Disease', 'Obesity', 'Osteoporosis', 'Epilepsy', 'Obesity', 'Allergies', 'Obesity']",2016-07-17
+5524,3575,"['Anxiety', 'Heart Disease', 'Obesity']",1972-09-07
+8658,6233,"['Heart Disease', 'Thyroid Disease', 'Obesity', 'COPD', 'Kidney Disease', 'Osteoporosis', 'Obesity', 'Kidney Disease']",1989-12-23
+4547,6634,"['Kidney Disease', 'COPD', 'Thyroid Disease', 'Liver Disease', 'Epilepsy', 'Thyroid Disease', 'Anxiety', 'Mental Health Disorders', 'COPD', 'Mental Health Disorders']",1992-07-12
+1256,3416,"['Epilepsy', 'COPD', 'Allergies']",1984-06-23
+7913,3777,"['Obesity', 'Heart Disease', 'Thyroid Disease']",1973-01-16
+1936,2117,"['Anxiety', 'Kidney Disease', ""Parkinson's Disease"", 'Anxiety', ""Parkinson's Disease""]",2003-10-18
+3685,3143,"['Obesity', ""Parkinson's Disease"", 'Liver Disease', 'Liver Disease', 'Kidney Disease', 'Kidney Disease', 'Mental Health Disorders', 'Kidney Disease', ""Parkinson's Disease"", 'Allergies']",1972-04-28
+7246,4350,"['Kidney Disease', 'Liver Disease', 'Osteoporosis', 'Anxiety', 'Allergies', 'Allergies', 'Liver Disease', 'COPD', 'Epilepsy', 'Liver Disease', 'Obesity', 'Liver Disease']",1993-09-23
+2656,6569,"['Thyroid Disease', 'Allergies', 'Liver Disease', 'Epilepsy', 'Epilepsy', 'Epilepsy', 'Anxiety', 'Kidney Disease', 'Heart Disease', 'Heart Disease', 'Heart Disease', ""Parkinson's Disease""]",2022-04-25
+2900,2777,"[""Parkinson's Disease"", 'Osteoporosis', 'COPD']",2012-08-12
+9342,628,"['Anxiety', 'Anxiety', 'Mental Health Disorders', 'COPD', 'Obesity', 'Obesity', 'Osteoporosis', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Heart Disease', 'Obesity']",2016-10-08
+2385,6812,"['Osteoporosis', 'Heart Disease', 'Kidney Disease', 'Obesity', 'Osteoporosis', 'Thyroid Disease', 'Liver Disease']",1999-05-12
+1068,3759,"['Kidney Disease', 'Liver Disease', 'Thyroid Disease', 'Obesity', 'Mental Health Disorders', ""Parkinson's Disease"", 'Liver Disease', 'Anxiety', 'Kidney Disease', 'Allergies', 'Obesity']",1994-07-17
+3103,5122,"['Liver Disease', 'Mental Health Disorders', 'Thyroid Disease', ""Parkinson's Disease"", 'Heart Disease', 'Mental Health Disorders', ""Parkinson's Disease""]",1972-12-14
+9424,5785,"['Anxiety', 'Mental Health Disorders', 'Obesity', 'Anxiety', 'Obesity', 'Allergies']",1972-11-21
+2008,4416,"['Kidney Disease', 'COPD', 'Obesity', 'Heart Disease', 'Allergies', 'Allergies', 'Anxiety', 'Mental Health Disorders']",1998-11-19
+4219,7219,"[""Parkinson's Disease"", 'Liver Disease', 'Kidney Disease', 'Kidney Disease', 'Obesity', ""Parkinson's Disease"", 'Osteoporosis', 'Osteoporosis', 'Kidney Disease', 'Mental Health Disorders']",2015-11-06
+305,1614,"['Osteoporosis', 'Thyroid Disease', 'COPD', 'Heart Disease', 'Heart Disease', 'COPD', ""Parkinson's Disease"", 'Osteoporosis', 'Anxiety', 'Heart Disease', 'Allergies', 'Kidney Disease']",2006-11-23
+8138,1964,"['COPD', 'Mental Health Disorders', 'Kidney Disease', 'Obesity', 'Kidney Disease', 'Heart Disease', 'Liver Disease', 'Obesity', 'Kidney Disease', 'Kidney Disease', 'Thyroid Disease', 'Thyroid Disease']",2016-09-03
+4950,967,"['Liver Disease', 'Thyroid Disease', 'Obesity', ""Parkinson's Disease"", 'Liver Disease', 'Obesity']",2000-03-14
+3000,1250,"['Epilepsy', 'Liver Disease', 'Anxiety', 'Liver Disease', 'Allergies', 'Obesity', 'Mental Health Disorders', 'Allergies', 'Mental Health Disorders', 'Heart Disease', ""Parkinson's Disease"", 'Obesity']",2022-10-05
+138,5014,"['Mental Health Disorders', ""Parkinson's Disease""]",2008-02-17
+3395,8162,"['COPD', 'COPD', 'Osteoporosis', 'Kidney Disease', ""Parkinson's Disease"", 'Liver Disease']",1992-09-27
+6492,5423,"['Kidney Disease', 'Kidney Disease', 'Mental Health Disorders', 'Epilepsy', 'Epilepsy', 'Liver Disease', 'Thyroid Disease', 'Heart Disease', 'Liver Disease', 'COPD', 'Osteoporosis']",1988-09-14
+1092,9863,"['Thyroid Disease', 'Mental Health Disorders', ""Parkinson's Disease"", 'Obesity', 'Epilepsy', 'Liver Disease', 'Heart Disease', 'Mental Health Disorders', 'Allergies', 'Epilepsy', 'Obesity', 'COPD']",2003-02-20
+6489,9128,"['Obesity', 'Obesity', 'Allergies', 'Anxiety', 'COPD', 'COPD', 'Mental Health Disorders', 'Liver Disease']",2001-04-17
+9315,7960,"[""Parkinson's Disease"", 'Allergies', ""Parkinson's Disease""]",1977-04-12
+7563,6376,"['Allergies', 'Mental Health Disorders', 'Heart Disease', 'Heart Disease', 'Kidney Disease', 'Kidney Disease', 'Thyroid Disease']",1991-03-31
+9351,8929,"['Anxiety', 'Thyroid Disease', 'Thyroid Disease', 'Obesity', 'Allergies', 'Liver Disease', 'Allergies', 'Thyroid Disease', 'Epilepsy', 'Anxiety']",1997-11-04
+2365,6812,"['Mental Health Disorders', 'Epilepsy', 'Anxiety', 'Obesity']",2024-08-21
+8060,7802,"[""Parkinson's Disease"", 'Allergies', 'Thyroid Disease', 'Heart Disease', 'Mental Health Disorders', 'Kidney Disease', 'Epilepsy', 'Liver Disease', 'Liver Disease', 'Osteoporosis', ""Parkinson's Disease""]",1986-04-12
+3703,4510,"['Kidney Disease', 'Anxiety', 'Liver Disease', 'Anxiety', 'Allergies', 'Anxiety', 'Obesity', 'COPD']",1990-04-23
+6037,2059,"['Heart Disease', ""Parkinson's Disease"", 'Obesity', 'Allergies', 'Mental Health Disorders']",2007-08-19
+9865,5830,"['Liver Disease', 'Mental Health Disorders', 'COPD']",1999-02-15
+319,3210,"['Kidney Disease', 'Epilepsy', 'Allergies', 'Thyroid Disease', 'COPD', 'Thyroid Disease']",1974-08-13
+1930,546,"['Kidney Disease', 'Heart Disease', 'Obesity', 'Allergies', 'Osteoporosis', 'Osteoporosis', 'Epilepsy', 'Osteoporosis']",2017-03-20
+4475,1371,['Thyroid Disease'],1974-01-16
+8795,10000,"['Epilepsy', 'Obesity', 'Kidney Disease', 'Osteoporosis', 'Epilepsy', 'Kidney Disease', 'Heart Disease', 'Thyroid Disease', 'Osteoporosis', 'Allergies', 'Mental Health Disorders']",1998-01-18
+2230,1250,"['Obesity', 'Heart Disease', 'Obesity', 'Kidney Disease', ""Parkinson's Disease"", 'Kidney Disease', 'Obesity', 'Osteoporosis', 'Heart Disease', 'Heart Disease']",2006-06-17
+8757,3205,"['COPD', 'Thyroid Disease', 'Thyroid Disease', 'Thyroid Disease', 'Osteoporosis', 'Heart Disease']",2018-04-18
+6707,2642,"['Heart Disease', 'Allergies', 'Mental Health Disorders', 'Epilepsy', 'Mental Health Disorders', ""Parkinson's Disease"", 'COPD']",1991-04-30
+7061,9796,"['Allergies', 'Heart Disease', 'Osteoporosis', 'Obesity', ""Parkinson's Disease"", 'Anxiety', 'COPD', 'Osteoporosis', 'Kidney Disease']",1989-11-20
+300,5487,"['Heart Disease', 'Mental Health Disorders', 'COPD', 'Heart Disease', 'Obesity']",1972-11-09
+537,2646,"['Liver Disease', 'Anxiety', 'Epilepsy', 'Allergies', 'Epilepsy', 'Osteoporosis', 'Anxiety', 'Mental Health Disorders', 'Heart Disease', 'Liver Disease']",1991-01-22
+9800,7815,"['Allergies', 'Osteoporosis']",1978-09-26
+8503,8229,"['Anxiety', 'Anxiety']",1989-01-08
+1917,8208,"['Obesity', 'Anxiety', 'Anxiety', 'Thyroid Disease', 'Thyroid Disease', 'Anxiety', 'Thyroid Disease']",1988-08-12
+2110,5087,"['Osteoporosis', 'Liver Disease', 'COPD', 'Liver Disease', 'Mental Health Disorders', 'Obesity', 'COPD', 'Kidney Disease', 'Kidney Disease']",1991-03-20
+1664,5835,"['Osteoporosis', 'COPD', 'Thyroid Disease', 'Epilepsy', ""Parkinson's Disease"", 'Osteoporosis', ""Parkinson's Disease"", 'Thyroid Disease', 'Kidney Disease', 'Heart Disease', 'Obesity', 'Liver Disease']",1995-05-31
+82,4630,"['Liver Disease', 'Anxiety', 'Allergies', 'Heart Disease', 'Allergies']",2005-10-19
+9683,7196,"['COPD', 'Liver Disease', 'Allergies', 'Allergies', 'COPD', 'Liver Disease', 'Anxiety', 'Obesity']",1989-09-01
+23,8712,"['Osteoporosis', 'Liver Disease', 'Heart Disease', 'Mental Health Disorders', 'Epilepsy', 'Heart Disease', 'COPD', 'COPD', 'Osteoporosis', 'Heart Disease']",2004-04-26
+6605,4549,"['Mental Health Disorders', ""Parkinson's Disease"", 'Obesity', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Anxiety', 'Anxiety', 'Heart Disease', 'Liver Disease', 'Anxiety', 'Thyroid Disease']",1991-07-18
+1223,1723,"[""Parkinson's Disease"", 'Heart Disease', 'Mental Health Disorders', 'Liver Disease', 'COPD', 'Anxiety']",2018-08-28
+1571,4520,"['Liver Disease', 'Heart Disease', 'Liver Disease', 'Heart Disease']",2017-06-06
+6777,5788,"['Kidney Disease', 'Osteoporosis']",1996-10-11
+1065,3604,"['COPD', 'Kidney Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'Obesity']",2019-05-25
+89,9347,"['Osteoporosis', 'Osteoporosis', ""Parkinson's Disease"", 'Kidney Disease']",1996-02-08
+1713,8804,"['Heart Disease', 'Heart Disease', 'Anxiety', 'Kidney Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'Allergies', 'Obesity', 'Heart Disease', 'Obesity', 'Mental Health Disorders', 'Obesity']",1990-06-15
+5421,1560,"['COPD', 'Heart Disease', 'Epilepsy', 'Mental Health Disorders', 'Anxiety', 'Mental Health Disorders', 'Thyroid Disease', 'Heart Disease']",2019-08-09
+3997,7219,"['Obesity', 'Heart Disease', 'Obesity', 'Liver Disease', 'Osteoporosis', 'Thyroid Disease', 'Allergies', 'Anxiety', 'Thyroid Disease', 'Allergies', 'Liver Disease', 'Kidney Disease']",1989-01-03
+5472,9878,"['Allergies', 'Obesity', 'Mental Health Disorders']",1991-05-29
+2264,5509,"['Kidney Disease', 'Heart Disease', 'Anxiety', 'COPD', 'Anxiety', 'COPD', 'Liver Disease', 'Epilepsy', 'Kidney Disease', 'Epilepsy', 'Kidney Disease']",2023-07-13
+292,3907,"['Heart Disease', 'COPD', 'Thyroid Disease']",2011-04-25
+7420,1856,"['Epilepsy', 'Anxiety']",1985-03-18
+9192,3575,['Heart Disease'],1975-05-31
+7449,2634,"['Liver Disease', 'Mental Health Disorders', 'COPD', 'Heart Disease', 'Mental Health Disorders', 'Osteoporosis']",1971-06-25
+5317,3517,"['Obesity', 'Anxiety', 'Heart Disease', 'Osteoporosis', 'Thyroid Disease', 'Epilepsy', ""Parkinson's Disease"", 'Kidney Disease', 'Anxiety', ""Parkinson's Disease"", 'Osteoporosis', 'Liver Disease']",1974-09-03
+553,4852,"['Heart Disease', 'Epilepsy', 'Mental Health Disorders', 'Heart Disease']",2014-12-15
+2943,6009,"['Kidney Disease', 'Allergies', ""Parkinson's Disease"", 'Mental Health Disorders', 'Kidney Disease', 'COPD', 'Liver Disease', 'Epilepsy', 'Allergies', 'Kidney Disease', 'Thyroid Disease', 'Anxiety']",1986-07-04
+2211,7779,"['Heart Disease', 'Liver Disease', 'Osteoporosis', 'Kidney Disease', 'COPD', 'Thyroid Disease', 'Liver Disease', 'Mental Health Disorders']",2002-09-20
+8376,4328,"['Osteoporosis', 'Thyroid Disease']",2021-01-25
+4699,9003,"['Thyroid Disease', 'Thyroid Disease', 'Obesity', 'Obesity', 'Thyroid Disease', 'Heart Disease', 'Anxiety']",1994-07-24
+8404,5844,"['COPD', 'Allergies', ""Parkinson's Disease"", 'Epilepsy', 'Osteoporosis', 'Kidney Disease', 'Liver Disease', 'COPD', 'Heart Disease']",1993-11-08
+3369,3848,"['Anxiety', ""Parkinson's Disease"", 'Epilepsy', 'Kidney Disease', 'Heart Disease', 'COPD', 'Thyroid Disease']",1973-07-25
+5319,9032,"['Thyroid Disease', 'Mental Health Disorders', 'Heart Disease', 'Liver Disease', 'Osteoporosis', 'Allergies', ""Parkinson's Disease""]",2018-08-05
+2881,4378,"[""Parkinson's Disease""]",1997-06-19
+7819,4566,"['Mental Health Disorders', 'Allergies', 'Epilepsy', 'Osteoporosis', 'Kidney Disease', 'Osteoporosis']",1982-12-07
+4101,680,"['Thyroid Disease', 'Anxiety', 'Heart Disease', 'Epilepsy']",1993-09-12
+5461,3633,"['Anxiety', 'Epilepsy', 'Epilepsy', 'Allergies', 'Allergies', ""Parkinson's Disease"", 'Mental Health Disorders', 'Anxiety', 'Allergies', 'Mental Health Disorders', 'COPD']",1975-06-22
+5940,3523,"['Epilepsy', 'Thyroid Disease', 'Epilepsy', 'Epilepsy', 'Obesity', 'Heart Disease', 'Allergies', 'Epilepsy', 'Mental Health Disorders', 'Kidney Disease', 'Osteoporosis']",2018-01-11
+8011,6910,"['Heart Disease', 'Kidney Disease', 'Mental Health Disorders', 'Obesity', 'Allergies', 'Obesity', 'Anxiety', 'Heart Disease']",2000-04-30
+9593,3907,"['Epilepsy', 'Thyroid Disease', 'Osteoporosis', 'Thyroid Disease']",1981-06-12
+4316,1995,"[""Parkinson's Disease""]",2005-08-15
+8159,6196,"[""Parkinson's Disease"", 'Thyroid Disease']",1970-05-28
+6718,1250,"['Kidney Disease', 'Osteoporosis', 'Thyroid Disease', 'Allergies', 'Allergies', 'Heart Disease', 'Thyroid Disease']",1973-01-06
+9621,7701,"['Epilepsy', ""Parkinson's Disease""]",1971-01-08
+4562,8481,"['Heart Disease', 'Heart Disease', ""Parkinson's Disease"", 'Epilepsy', 'Liver Disease', 'Epilepsy']",2023-03-13
+9725,4288,"['Osteoporosis', 'Epilepsy', 'Obesity', 'Anxiety', 'Thyroid Disease', ""Parkinson's Disease""]",2016-05-02
+8385,9431,"['COPD', 'Kidney Disease', 'Kidney Disease', 'Heart Disease']",1989-08-17
+11,5859,"['Mental Health Disorders', 'COPD', 'Allergies', 'Kidney Disease']",2012-02-24
+9698,5217,"['Liver Disease', ""Parkinson's Disease"", 'Allergies']",1980-01-15
+3866,7897,"['Heart Disease', 'Osteoporosis', 'Osteoporosis', 'Anxiety', 'COPD', 'Osteoporosis', 'Osteoporosis', ""Parkinson's Disease"", ""Parkinson's Disease"", ""Parkinson's Disease"", ""Parkinson's Disease"", 'Allergies']",2018-09-09
+4718,2777,"['Obesity', 'Allergies', 'Anxiety', 'Liver Disease', 'Liver Disease', 'Anxiety', 'Obesity', 'Kidney Disease', ""Parkinson's Disease""]",1984-05-29
+399,4520,"[""Parkinson's Disease"", 'Epilepsy', 'Liver Disease', 'Thyroid Disease', 'Mental Health Disorders', 'Liver Disease', 'Mental Health Disorders', 'Anxiety', 'Allergies', 'Allergies', 'Mental Health Disorders', 'Liver Disease']",1979-02-20
+1760,4257,"['Epilepsy', 'Osteoporosis', 'Anxiety', ""Parkinson's Disease"", 'Osteoporosis', 'Heart Disease']",2001-03-27
+8863,5009,['Epilepsy'],1974-07-25
+3673,8706,"['Mental Health Disorders', 'COPD']",2017-10-24
+2490,4825,"['Thyroid Disease', 'Heart Disease', 'COPD', 'Mental Health Disorders', 'COPD', 'Liver Disease', 'Osteoporosis', 'Epilepsy', 'Liver Disease', 'Thyroid Disease']",2012-09-02
+1876,7960,"[""Parkinson's Disease"", 'Epilepsy', 'Liver Disease', 'Allergies', 'Liver Disease', 'Kidney Disease', 'Osteoporosis', 'Heart Disease', 'Anxiety', 'Anxiety']",1995-01-03
+8974,5830,"['Mental Health Disorders', 'Heart Disease']",1999-07-09
+9007,322,"['Anxiety', ""Parkinson's Disease"", 'Epilepsy', 'Epilepsy', 'Kidney Disease', 'Epilepsy', 'COPD', 'Obesity', 'Osteoporosis', 'Obesity', 'Allergies', 'Epilepsy']",1974-09-15
+9670,7623,"['Liver Disease', 'Obesity']",1995-09-20
+1038,680,"[""Parkinson's Disease"", 'Thyroid Disease', 'Osteoporosis', 'COPD', 'COPD', 'Mental Health Disorders', 'Kidney Disease', 'Kidney Disease', 'Liver Disease', 'COPD', 'Obesity', 'Osteoporosis']",1978-09-20
+1463,8712,['COPD'],1976-06-26
+7243,6340,"['Osteoporosis', 'Osteoporosis', 'Obesity', 'Anxiety']",1999-01-18
+5831,1723,"['Anxiety', 'Kidney Disease', 'Heart Disease', 'Allergies', 'Anxiety']",2007-07-29
+8165,3191,['Thyroid Disease'],2021-05-14
+4286,2448,"[""Parkinson's Disease"", 'Thyroid Disease', ""Parkinson's Disease"", 'Osteoporosis', 'Liver Disease', 'Kidney Disease', 'Kidney Disease', ""Parkinson's Disease"", 'COPD', 'Kidney Disease', 'Thyroid Disease', 'Anxiety']",1985-08-27
+1765,10000,"['Thyroid Disease', 'Mental Health Disorders', 'Liver Disease']",1996-01-30
+5069,2004,"['Epilepsy', 'Obesity', 'Kidney Disease', 'Allergies', 'Osteoporosis', 'Kidney Disease', 'Allergies', 'Mental Health Disorders']",1973-09-28
+9673,174,"['Obesity', 'Obesity', 'Mental Health Disorders', 'Heart Disease', 'Kidney Disease', 'COPD', 'Anxiety', 'COPD']",2019-08-28
+5381,7511,"['Liver Disease', ""Parkinson's Disease"", 'Thyroid Disease']",2014-10-02
+2816,3473,"['Epilepsy', ""Parkinson's Disease"", 'Kidney Disease', 'Mental Health Disorders', 'Allergies', 'Heart Disease', 'Heart Disease', 'Allergies', 'Thyroid Disease', 'Obesity']",2009-05-09
+6006,8147,"['Mental Health Disorders', 'Anxiety', 'Liver Disease', 'Epilepsy', 'Heart Disease', 'COPD', 'Heart Disease', 'COPD', 'COPD', 'Epilepsy', 'Thyroid Disease', 'Allergies']",1990-05-15
+6883,2826,"['Liver Disease', 'Epilepsy']",1987-07-19
+9590,6109,"['Kidney Disease', 'Anxiety', 'Thyroid Disease', 'Anxiety', 'Allergies', 'Thyroid Disease', 'Heart Disease', 'Mental Health Disorders', ""Parkinson's Disease""]",1995-10-28
+2109,3326,"['Thyroid Disease', 'Obesity', 'Osteoporosis', 'Mental Health Disorders']",2008-01-08
+6204,108,"['Liver Disease', 'Osteoporosis', 'Kidney Disease']",1972-04-27
+8566,1964,"['Anxiety', 'Heart Disease', 'COPD', 'Obesity', 'Thyroid Disease', 'Kidney Disease', 'COPD', 'Heart Disease', 'Mental Health Disorders']",2016-07-29
+4780,8929,"['Liver Disease', 'COPD', 'Heart Disease', 'Osteoporosis', 'Mental Health Disorders', ""Parkinson's Disease"", 'Heart Disease', 'Heart Disease', 'Kidney Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'COPD']",2002-07-22
+3835,9020,"['Thyroid Disease', 'Osteoporosis', 'Mental Health Disorders', 'Epilepsy']",1998-05-17
+9954,1916,['Kidney Disease'],2024-04-17
+4180,6009,"['Kidney Disease', 'Kidney Disease', 'COPD', 'Heart Disease']",1992-05-25
+598,7196,"['Liver Disease', 'Heart Disease', 'Osteoporosis', 'Thyroid Disease', 'Mental Health Disorders', 'Kidney Disease', 'Allergies', 'Thyroid Disease', 'Osteoporosis', 'Heart Disease', 'Liver Disease']",1970-04-19
+4079,3217,"['Mental Health Disorders', 'Heart Disease', 'Liver Disease', 'Liver Disease', 'Osteoporosis', 'Liver Disease', 'Kidney Disease', ""Parkinson's Disease"", 'Heart Disease']",1998-04-01
+5918,9431,"['Allergies', 'Osteoporosis', 'Kidney Disease', 'Thyroid Disease', 'Liver Disease', 'Liver Disease', 'Thyroid Disease', 'Osteoporosis', ""Parkinson's Disease"", 'Epilepsy', 'Obesity']",2006-07-29
+6773,4321,"['Osteoporosis', ""Parkinson's Disease"", 'Allergies', 'Kidney Disease']",1976-02-22
+569,3138,['Mental Health Disorders'],2016-10-01
+558,3660,"[""Parkinson's Disease"", 'Osteoporosis', 'Kidney Disease', 'COPD', 'Thyroid Disease', 'Heart Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Epilepsy']",1996-03-07
+1515,7701,"['Kidney Disease', 'Heart Disease', 'Allergies', 'Kidney Disease', 'Allergies', 'Osteoporosis', 'Epilepsy']",2009-01-28
+1268,5388,"['Anxiety', 'Mental Health Disorders', 'Heart Disease', 'Kidney Disease', 'Obesity']",1973-10-31
+2208,526,"['COPD', 'Mental Health Disorders', 'COPD', ""Parkinson's Disease"", 'Allergies', ""Parkinson's Disease"", 'COPD']",1984-08-11
+8639,4018,"['Thyroid Disease', 'Allergies', 'Anxiety', ""Parkinson's Disease"", 'Obesity', 'Epilepsy', 'Mental Health Disorders', 'Heart Disease', 'Thyroid Disease', 'Liver Disease', 'COPD']",1971-01-19
+512,8726,"['Allergies', 'Allergies', 'Kidney Disease', 'Kidney Disease', 'Obesity', 'Heart Disease', 'Heart Disease', 'Thyroid Disease', 'Thyroid Disease', ""Parkinson's Disease""]",2008-12-26
+9061,3470,"['Thyroid Disease', 'Mental Health Disorders', 'Kidney Disease', 'Thyroid Disease', 'Mental Health Disorders', 'Kidney Disease']",1989-05-24
+6937,825,"['Liver Disease', 'Mental Health Disorders', 'Allergies', 'Heart Disease', 'Allergies', 'Allergies', 'Mental Health Disorders', 'Mental Health Disorders', 'Liver Disease']",1983-10-28
+5850,5804,"['Kidney Disease', 'COPD']",1977-09-07
+6882,8957,"['Heart Disease', 'Anxiety', 'Heart Disease', 'Obesity', 'Anxiety']",1978-02-25
+2195,8436,"['Thyroid Disease', 'COPD', 'COPD', 'Kidney Disease', 'Liver Disease', 'Kidney Disease', 'Allergies', 'Liver Disease']",1994-07-09
+3407,8162,"['COPD', 'Kidney Disease']",1995-04-01
+1605,6934,"['Liver Disease', 'Osteoporosis', 'Epilepsy', 'Allergies', 'Liver Disease', 'Obesity', 'Kidney Disease', 'Mental Health Disorders']",1993-02-08
+1477,1187,"[""Parkinson's Disease"", 'Anxiety', 'COPD', 'Epilepsy']",1993-12-31
+9298,680,"['Osteoporosis', 'Osteoporosis', 'Allergies', 'Osteoporosis', ""Parkinson's Disease"", ""Parkinson's Disease"", ""Parkinson's Disease""]",1972-06-20
+1828,6989,"[""Parkinson's Disease"", 'Heart Disease', 'COPD', 'Allergies', 'Liver Disease', 'Thyroid Disease', 'Epilepsy']",2016-09-26
+4465,5844,"['Heart Disease', ""Parkinson's Disease"", 'COPD', ""Parkinson's Disease"", 'Thyroid Disease', 'COPD', 'Liver Disease', 'Liver Disease', 'Mental Health Disorders']",2011-12-28
+1013,2769,['Heart Disease'],1993-06-11
+719,10000,"['COPD', 'COPD', 'Epilepsy', 'Mental Health Disorders', 'Kidney Disease']",1993-04-25
+8392,7011,"['Heart Disease', 'Allergies', 'Thyroid Disease', 'Thyroid Disease', 'Heart Disease', 'Osteoporosis', 'Osteoporosis', ""Parkinson's Disease"", 'Allergies', 'Epilepsy', 'Anxiety']",1979-09-25
+5386,5122,"[""Parkinson's Disease"", 'Osteoporosis', 'Osteoporosis', 'Thyroid Disease', 'Kidney Disease', 'Epilepsy']",1986-02-15
+3995,6901,"['Anxiety', 'COPD', 'Epilepsy', 'Mental Health Disorders', 'Liver Disease']",2004-09-16
+8408,1995,"['Epilepsy', 'Kidney Disease', 'Obesity', 'Anxiety', 'Liver Disease', 'Anxiety']",1982-03-27
+8295,3556,"['Epilepsy', 'Anxiety', 'Allergies', 'Liver Disease', 'Thyroid Disease']",1985-03-25
+8834,978,"['Kidney Disease', 'Allergies', 'Thyroid Disease', 'Heart Disease']",1989-09-14
+2005,1573,"['Epilepsy', 'Thyroid Disease', 'Anxiety', 'Thyroid Disease', ""Parkinson's Disease"", 'Epilepsy', 'Kidney Disease', 'Mental Health Disorders', 'Mental Health Disorders', 'Liver Disease', 'Mental Health Disorders', 'COPD']",2008-03-26
+6225,4560,"['Heart Disease', 'COPD', 'Epilepsy', 'Anxiety']",1971-03-10
+4362,2785,"[""Parkinson's Disease"", 'Heart Disease', 'Epilepsy', 'Kidney Disease', 'COPD', 'Mental Health Disorders', 'Anxiety', 'Allergies', 'Allergies']",1999-12-09
+9953,6506,"['Anxiety', 'Osteoporosis', 'Mental Health Disorders', 'COPD', 'Obesity', 'Liver Disease', 'Anxiety', 'Obesity', 'Allergies']",1978-07-21
+8823,2989,"['Liver Disease', 'Kidney Disease', 'Heart Disease']",1989-02-01
+4701,4290,"[""Parkinson's Disease"", 'Thyroid Disease', 'Epilepsy', 'Obesity', 'COPD', 'Anxiety', 'COPD', 'Osteoporosis']",1984-03-18
+6704,2578,"['Thyroid Disease', 'Mental Health Disorders', 'Heart Disease', 'Mental Health Disorders', 'Epilepsy', 'COPD', 'Mental Health Disorders']",1976-07-06
+4696,7717,"['Obesity', 'Obesity']",2009-07-04
+1018,4416,"['Kidney Disease', 'Mental Health Disorders', 'Obesity', 'Anxiety']",1995-08-06
+795,1863,"['Heart Disease', 'Mental Health Disorders']",1984-06-14
+3841,8162,"['COPD', 'Mental Health Disorders', 'Obesity']",1987-01-26
+7113,2950,"['Kidney Disease', 'Anxiety', 'Thyroid Disease', 'Obesity', 'Epilepsy', 'Mental Health Disorders', 'Obesity', 'Epilepsy', 'Anxiety']",1988-02-16
+2074,2785,['Allergies'],1995-07-01
+4623,7610,"['Liver Disease', 'Heart Disease', 'Mental Health Disorders', 'Liver Disease']",1987-09-16
+1919,6066,"['Anxiety', 'Osteoporosis', 'Mental Health Disorders', 'Kidney Disease', 'Mental Health Disorders', 'Osteoporosis', 'Obesity', 'Thyroid Disease', 'Mental Health Disorders', 'Obesity', 'Osteoporosis', 'Mental Health Disorders']",1985-04-05
+1905,1573,"['Obesity', 'Allergies', 'Obesity']",1970-01-07
+2119,322,"['Thyroid Disease', 'Osteoporosis', 'Obesity', 'Epilepsy', 'Allergies', 'Kidney Disease', 'Heart Disease', 'Epilepsy', 'Liver Disease', 'Allergies']",1978-07-09
+1190,4350,"['Thyroid Disease', 'Thyroid Disease', 'Heart Disease', 'Kidney Disease', ""Parkinson's Disease"", 'Obesity', 'Liver Disease', 'Heart Disease', 'Kidney Disease', 'Mental Health Disorders', 'Kidney Disease', 'Osteoporosis']",2023-03-17
+484,7645,['Obesity'],2002-03-11
+4208,3523,"['Liver Disease', 'Obesity', 'Epilepsy', 'Anxiety']",2017-11-19
+8355,8804,"['Anxiety', 'Allergies', 'Thyroid Disease', 'Allergies', 'Heart Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Mental Health Disorders', 'Liver Disease', 'Liver Disease', 'Anxiety']",2010-08-06
+545,562,"['Heart Disease', 'Mental Health Disorders', ""Parkinson's Disease"", 'Anxiety']",1984-05-04
+6320,7356,"['Liver Disease', ""Parkinson's Disease"", 'Osteoporosis', 'Mental Health Disorders', 'Obesity', 'Liver Disease', 'Obesity', 'Obesity']",2016-10-16
+8540,8804,"['Epilepsy', 'Heart Disease', ""Parkinson's Disease""]",2008-08-01
+9881,6429,"['Osteoporosis', 'Thyroid Disease', 'Allergies', 'Liver Disease']",1983-11-12
+3562,7156,"['Obesity', 'Obesity', 'Thyroid Disease', 'Mental Health Disorders', 'Anxiety', 'Liver Disease', 'Mental Health Disorders', 'Obesity', 'Anxiety']",1983-09-26
+5301,5014,"['COPD', ""Parkinson's Disease"", 'Heart Disease']",1994-01-23
+3025,9960,['Osteoporosis'],2016-09-19
+4443,8712,"['Osteoporosis', 'COPD', 'Heart Disease', 'Mental Health Disorders', 'Heart Disease', 'Mental Health Disorders', 'Kidney Disease', 'Mental Health Disorders', 'Mental Health Disorders', 'Osteoporosis']",1980-07-09
+4576,8207,"['Epilepsy', 'Anxiety']",1976-10-29
+7498,4520,"['Mental Health Disorders', 'Osteoporosis', 'Osteoporosis', ""Parkinson's Disease"", 'Epilepsy', 'Kidney Disease', 'Mental Health Disorders', 'COPD']",1974-12-05
+491,6390,['Osteoporosis'],2024-01-28
+8014,9675,"['Anxiety', 'Osteoporosis', 'Mental Health Disorders', 'Thyroid Disease', 'Obesity', 'Mental Health Disorders', 'Obesity', 'Epilepsy']",2011-04-06
+454,1792,"['COPD', 'Anxiety', 'Allergies', ""Parkinson's Disease"", 'Liver Disease', 'Allergies', ""Parkinson's Disease"", 'Anxiety', 'Osteoporosis', 'Anxiety', 'Liver Disease']",2009-07-10
+5925,4510,"['Heart Disease', 'Kidney Disease', 'Allergies', 'Kidney Disease', 'Obesity', 'Osteoporosis']",1983-07-30
+3352,1074,"['Obesity', 'Obesity', 'Obesity', 'Heart Disease', 'Epilepsy', 'Allergies']",1995-02-20
+4188,8737,"['Thyroid Disease', 'Allergies', 'Obesity', 'Mental Health Disorders', 'Epilepsy', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Liver Disease', 'COPD', 'Kidney Disease', 'Kidney Disease']",1971-03-31
+9983,3549,"['Anxiety', 'Osteoporosis', 'Allergies', 'Mental Health Disorders', 'Liver Disease', 'Osteoporosis', ""Parkinson's Disease"", 'COPD', 'Liver Disease', 'Kidney Disease', 'Thyroid Disease', 'Kidney Disease']",1973-09-26
+5726,3980,"['Allergies', 'Liver Disease', 'Epilepsy', 'Anxiety', 'Kidney Disease', 'Obesity', 'Anxiety']",1971-05-01
+9381,7887,"['Mental Health Disorders', 'Thyroid Disease']",1973-06-12
+2682,1695,"['Liver Disease', 'Anxiety', 'Allergies', 'Epilepsy', 'Liver Disease', 'Epilepsy', 'Kidney Disease', ""Parkinson's Disease"", 'Mental Health Disorders', 'Anxiety', 'Epilepsy']",1989-07-06
+3031,6625,"['Epilepsy', 'Mental Health Disorders', 'Heart Disease', 'Anxiety', 'Mental Health Disorders', 'COPD', ""Parkinson's Disease""]",2021-10-16
+3094,7860,"['Liver Disease', 'Liver Disease', 'Allergies', 'Obesity', 'Allergies', 'Obesity', 'Liver Disease', 'COPD', ""Parkinson's Disease""]",1973-10-09
+5331,9076,"[""Parkinson's Disease"", 'Obesity', 'Liver Disease', 'Thyroid Disease', 'Liver Disease', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Anxiety', 'Epilepsy', 'COPD', 'Kidney Disease', ""Parkinson's Disease""]",1982-10-12
+7293,9744,"['Epilepsy', 'COPD']",2014-12-20
+7552,2849,"[""Parkinson's Disease"", 'Allergies', 'COPD', ""Parkinson's Disease"", 'Epilepsy', 'Allergies', 'Liver Disease']",2011-08-09
+7425,8664,"[""Parkinson's Disease"", 'Mental Health Disorders', 'Mental Health Disorders', 'Allergies', 'Osteoporosis', 'Thyroid Disease', 'Obesity', 'Anxiety']",1974-06-14
+589,7539,"['Anxiety', 'Heart Disease', ""Parkinson's Disease"", 'Osteoporosis', 'Mental Health Disorders', 'COPD', 'Epilepsy', 'Osteoporosis']",2000-10-13
+5366,1316,"['Liver Disease', 'Heart Disease', 'Osteoporosis', 'Thyroid Disease', 'Kidney Disease']",1982-07-12
+9710,7539,"['Osteoporosis', 'Anxiety', 'Thyroid Disease', 'COPD', ""Parkinson's Disease"", 'Liver Disease', 'Liver Disease', 'Liver Disease', 'Anxiety']",2009-03-07
+3872,298,"['Kidney Disease', 'COPD', 'Anxiety', 'Kidney Disease', 'Obesity', 'Anxiety', 'Heart Disease', ""Parkinson's Disease"", 'Epilepsy', 'Anxiety']",2011-12-02
+8183,3191,"['Epilepsy', 'Liver Disease', 'Liver Disease']",2012-03-12
+83,7897,"['Thyroid Disease', 'Thyroid Disease', 'Mental Health Disorders']",1977-09-16
+4253,4825,"['Anxiety', ""Parkinson's Disease"", 'COPD', 'Heart Disease', 'Osteoporosis', 'Thyroid Disease', ""Parkinson's Disease"", 'COPD', ""Parkinson's Disease"", 'Kidney Disease']",2006-04-07
+6559,7539,"['Heart Disease', 'Allergies']",1975-01-24
+6632,2769,"['Osteoporosis', 'Obesity', 'Kidney Disease', ""Parkinson's Disease""]",1991-11-08
+6437,3099,"['Kidney Disease', 'Epilepsy', 'COPD', 'Osteoporosis', 'Kidney Disease']",1980-12-11
+6248,6922,"[""Parkinson's Disease"", 'COPD']",2004-10-24
+7379,3775,"['Epilepsy', 'Kidney Disease', 'Mental Health Disorders']",2021-01-20
+3611,2646,"['Thyroid Disease', 'Liver Disease', 'Mental Health Disorders', 'Obesity']",1995-06-04
+4228,5506,"['Thyroid Disease', ""Parkinson's Disease"", 'Thyroid Disease', ""Parkinson's Disease"", 'Obesity', 'Heart Disease', 'Mental Health Disorders']",1981-11-30
+9637,1723,"['Obesity', ""Parkinson's Disease"", 'COPD', 'Allergies', 'Heart Disease', 'Heart Disease']",1978-10-15
+2219,825,"[""Parkinson's Disease""]",1980-06-29
+252,6118,"[""Parkinson's Disease"", 'Kidney Disease', 'Anxiety']",1978-09-19
+1167,1852,"[""Parkinson's Disease"", 'Allergies', ""Parkinson's Disease"", 'Allergies']",2006-11-04
+829,4560,"['Thyroid Disease', 'Epilepsy', ""Parkinson's Disease"", 'Osteoporosis', 'Allergies', 'Allergies', ""Parkinson's Disease"", 'Thyroid Disease', 'Osteoporosis']",1990-10-28
+8785,2062,"['Obesity', 'Heart Disease', 'Epilepsy', 'Allergies', 'Kidney Disease', 'Osteoporosis']",2018-04-30
+8870,8207,"['Kidney Disease', 'Anxiety', 'Mental Health Disorders', 'Mental Health Disorders', 'Epilepsy']",1981-04-29
+8814,3009,"['Kidney Disease', 'Epilepsy', ""Parkinson's Disease"", 'Kidney Disease', 'Osteoporosis', 'Liver Disease', 'Obesity', 'Mental Health Disorders']",1994-11-19
+3493,217,"['Liver Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Kidney Disease']",2023-11-14
+7898,6906,"['COPD', 'Kidney Disease', 'Liver Disease', 'Epilepsy', 'Obesity', ""Parkinson's Disease""]",1979-05-13
+3507,9878,"['Heart Disease', 'Anxiety', 'Heart Disease', 'Thyroid Disease']",2000-08-05
+7682,353,"['Anxiety', 'Allergies', 'Mental Health Disorders', 'Thyroid Disease', 'Mental Health Disorders', 'Osteoporosis']",1979-07-21
+8618,4729,"['Osteoporosis', 'Heart Disease', 'Mental Health Disorders', 'Osteoporosis', 'Kidney Disease', ""Parkinson's Disease"", 'Liver Disease', 'Kidney Disease', 'Osteoporosis', ""Parkinson's Disease"", ""Parkinson's Disease""]",2001-02-07
+1151,2950,"['Osteoporosis', 'Epilepsy', 'Mental Health Disorders', 'Anxiety', 'Anxiety']",1975-03-13
+436,7814,"['Epilepsy', ""Parkinson's Disease"", 'Kidney Disease', 'Mental Health Disorders', 'Epilepsy', 'Anxiety', 'Obesity', 'Mental Health Disorders', ""Parkinson's Disease"", 'Anxiety']",2011-05-26
+6878,5788,"['Obesity', 'Allergies']",1986-01-28
+178,7190,"[""Parkinson's Disease"", 'Liver Disease', 'Epilepsy', 'COPD', 'Osteoporosis', 'Heart Disease']",1989-11-30
+9972,2795,"['Epilepsy', 'Allergies', 'Allergies', 'Allergies', 'Heart Disease']",2014-11-18
+1493,5414,"['Obesity', 'Liver Disease', 'Mental Health Disorders', ""Parkinson's Disease""]",1998-11-10
+714,8491,"[""Parkinson's Disease"", 'Kidney Disease', 'Mental Health Disorders']",2019-03-12
+7185,4560,"['Allergies', 'Heart Disease', 'Allergies', 'Heart Disease']",1988-03-30
+6501,3405,"['Thyroid Disease', 'Kidney Disease', 'Mental Health Disorders', 'Kidney Disease', 'Obesity', 'Allergies', ""Parkinson's Disease"", 'Epilepsy', 'Liver Disease']",1982-05-09
+2294,1695,"['Anxiety', 'Mental Health Disorders', 'Anxiety', 'Osteoporosis', 'Heart Disease', 'Thyroid Disease', 'Allergies', 'Osteoporosis', 'Liver Disease', 'Liver Disease', 'Heart Disease', 'Thyroid Disease']",1991-06-24
+9575,1762,"['COPD', 'Thyroid Disease', 'COPD', 'Heart Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Mental Health Disorders', 'Kidney Disease', 'Allergies', 'Anxiety', 'Kidney Disease']",1988-04-10
+1639,763,"['Epilepsy', 'Mental Health Disorders', 'Mental Health Disorders', 'Heart Disease', 'Thyroid Disease']",2023-05-03
+1829,1762,"['Thyroid Disease', 'Mental Health Disorders', 'Kidney Disease', 'Kidney Disease', 'Kidney Disease', 'Obesity', 'Allergies', 'Thyroid Disease', 'Heart Disease', 'COPD', 'Liver Disease']",1983-04-16
+2840,6270,"[""Parkinson's Disease"", 'Epilepsy', 'Epilepsy', 'Allergies']",2013-04-20
+1576,7537,"['Mental Health Disorders', 'Mental Health Disorders']",2009-09-24
+7422,189,"['Liver Disease', 'Osteoporosis', 'Mental Health Disorders', 'Kidney Disease', 'Anxiety', 'Obesity']",1994-11-14
+5778,2062,"['COPD', 'Liver Disease', 'Thyroid Disease', 'Osteoporosis', 'Mental Health Disorders', 'Kidney Disease', 'COPD', 'Allergies', 'Obesity', 'COPD', 'Kidney Disease', 'Allergies']",1978-10-04
+9830,8838,"['COPD', 'Heart Disease', 'Epilepsy', 'Kidney Disease', ""Parkinson's Disease"", 'Allergies']",1993-03-22
+6548,8394,"['Kidney Disease', 'Obesity', ""Parkinson's Disease"", 'Allergies', 'Mental Health Disorders', 'Heart Disease', ""Parkinson's Disease""]",2012-11-18
+3192,6812,"['Heart Disease', 'Epilepsy', 'Allergies', 'Obesity']",1976-09-05
+1279,6402,"['Obesity', 'Obesity', 'Anxiety', 'Kidney Disease', 'Kidney Disease']",1978-01-16
+242,9369,"['Heart Disease', 'COPD', ""Parkinson's Disease""]",2017-07-01
+5857,8838,['Anxiety'],1978-02-19
+565,7398,"['Kidney Disease', 'Liver Disease', 'Obesity', 'Anxiety', 'Thyroid Disease', 'Thyroid Disease', 'COPD', 'Obesity', 'Kidney Disease', 'Heart Disease', 'COPD', 'Allergies']",1990-02-14
+318,7644,"['COPD', 'COPD', 'Thyroid Disease', 'COPD', ""Parkinson's Disease"", 'Kidney Disease', 'Osteoporosis']",2001-03-21
+5156,7797,"['Epilepsy', 'Heart Disease', 'Obesity', ""Parkinson's Disease"", 'Thyroid Disease', 'Obesity', 'Mental Health Disorders', 'COPD']",2003-11-11
+244,1702,"['Obesity', 'Mental Health Disorders', 'Liver Disease', 'Kidney Disease', 'Heart Disease']",1984-02-10
+3294,3290,"['Osteoporosis', 'Obesity', 'COPD']",1977-12-08
+2479,3575,"['Obesity', 'COPD', 'Allergies', 'Heart Disease', 'Thyroid Disease', 'Osteoporosis', 'Thyroid Disease']",1977-05-17
+7665,7046,"['Obesity', ""Parkinson's Disease"", 'Obesity', 'Allergies', 'Obesity', 'Anxiety']",1989-03-15
+8399,1762,"['Kidney Disease', 'Mental Health Disorders', 'Anxiety', 'Obesity', 'Obesity', 'COPD', 'COPD', 'COPD', 'Kidney Disease']",2020-08-19
+984,3217,"['Obesity', 'Mental Health Disorders', 'Allergies', 'Heart Disease', 'COPD']",2014-08-31
+7575,5423,"['Liver Disease', 'COPD', 'COPD', 'Liver Disease']",2000-04-28
+7408,7644,"['Liver Disease', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Obesity', 'Allergies', 'Epilepsy', 'Kidney Disease']",1991-10-24
+1725,1520,"['Epilepsy', 'Osteoporosis', 'COPD', 'Mental Health Disorders']",2018-02-27
+592,4008,"['Osteoporosis', 'Epilepsy', 'Thyroid Disease', 'Epilepsy']",1994-08-07
+4192,8682,"['Obesity', 'Epilepsy', 'COPD', 'Obesity']",2016-12-06
+781,10000,"['Allergies', ""Parkinson's Disease"", 'Allergies', 'Osteoporosis', 'Thyroid Disease']",1984-03-23
+5043,8229,"['Kidney Disease', 'Thyroid Disease', 'Mental Health Disorders', 'Epilepsy', 'Osteoporosis', 'Mental Health Disorders', 'Heart Disease', 'Thyroid Disease', 'Osteoporosis']",1991-07-03
+5670,9431,"['Kidney Disease', ""Parkinson's Disease""]",1996-11-09
+7187,4044,"['Kidney Disease', 'Anxiety', 'Mental Health Disorders']",1992-06-28
+5630,1900,"['Epilepsy', 'Epilepsy', 'Thyroid Disease', 'Heart Disease', 'Allergies', 'Kidney Disease', 'Osteoporosis']",1973-09-25
+6660,9796,"['Allergies', ""Parkinson's Disease"", 'COPD', 'Liver Disease', 'Anxiety', 'Obesity', 'Liver Disease', 'Liver Disease', 'Heart Disease', 'Obesity', ""Parkinson's Disease"", 'Heart Disease']",1984-03-19
+4792,634,"['Anxiety', 'Anxiety', 'Osteoporosis']",2014-01-26
+4299,3586,"['Heart Disease', 'Thyroid Disease', 'Liver Disease', 'COPD', 'Osteoporosis', ""Parkinson's Disease""]",1982-04-23
+6949,7960,"['Thyroid Disease', 'Kidney Disease', ""Parkinson's Disease"", 'Heart Disease', 'Kidney Disease']",1988-10-14
+9736,431,"['Heart Disease', 'Allergies', 'Mental Health Disorders', ""Parkinson's Disease"", 'Allergies', 'Anxiety', 'Osteoporosis', 'Liver Disease', 'Anxiety', 'Obesity']",2005-03-09
+9624,6823,"['Obesity', 'Liver Disease']",1978-04-30
+5648,4328,"['COPD', 'Heart Disease', 'Heart Disease', 'Thyroid Disease', 'Anxiety', 'Liver Disease', 'Osteoporosis', ""Parkinson's Disease"", 'Osteoporosis', 'Mental Health Disorders']",2007-09-23
+7120,2950,"['Obesity', 'Kidney Disease', 'Thyroid Disease', 'Mental Health Disorders', 'Mental Health Disorders', 'Liver Disease', 'Allergies', 'Osteoporosis', 'Obesity', 'COPD']",2004-03-18
+7821,5016,"[""Parkinson's Disease"", 'Allergies']",1987-06-19
+6446,7802,"['Allergies', 'Mental Health Disorders', 'COPD', ""Parkinson's Disease"", 'Anxiety', 'Osteoporosis', 'Mental Health Disorders']",2019-10-03
+4217,7424,"['Thyroid Disease', 'Anxiety']",2017-04-01
+4496,1883,"['Allergies', 'Thyroid Disease', 'Osteoporosis', 'Obesity', 'Obesity']",2013-02-15
+2556,1316,"['Heart Disease', 'Heart Disease', 'Heart Disease', 'Osteoporosis', 'Heart Disease', 'COPD', 'Heart Disease', 'Epilepsy', 'Epilepsy', 'Liver Disease', 'Kidney Disease', 'Anxiety']",1976-02-02
+2173,298,"['Kidney Disease', 'Allergies', 'Obesity']",1995-12-04
+5587,3290,"['Mental Health Disorders', 'Thyroid Disease', 'Anxiety', 'Osteoporosis', 'Kidney Disease', 'COPD', 'Mental Health Disorders', 'Osteoporosis', 'Heart Disease', 'Anxiety', 'Osteoporosis']",1995-01-05
+2740,3575,"['COPD', 'Thyroid Disease']",2013-10-23
+1788,6377,"['Osteoporosis', 'Heart Disease']",2023-07-15
+5573,6033,"['Osteoporosis', 'Obesity', 'Epilepsy', 'Mental Health Disorders']",2017-11-13
+2972,8033,"['Kidney Disease', 'Epilepsy', 'Heart Disease', 'Epilepsy', 'Thyroid Disease', 'Epilepsy', 'Allergies', 'Heart Disease']",1970-01-25
+4704,7887,"['Osteoporosis', 'Allergies', 'Mental Health Disorders', 'Mental Health Disorders', ""Parkinson's Disease"", 'Epilepsy']",2000-09-05
+8965,7337,"['COPD', 'Allergies', 'Heart Disease', 'Heart Disease', 'COPD', 'Thyroid Disease', 'Heart Disease']",2022-05-28
+6860,6109,"[""Parkinson's Disease"", 'Heart Disease']",1988-07-28
+7638,9369,['Mental Health Disorders'],2002-06-20
+9598,6989,"['Mental Health Disorders', 'Osteoporosis', 'Osteoporosis', 'Heart Disease', 'Epilepsy', 'Thyroid Disease']",2011-10-06
+6018,9522,"['COPD', 'Allergies', 'Epilepsy', 'COPD', ""Parkinson's Disease""]",1970-09-13
+8916,2033,['Liver Disease'],1979-06-08
+6153,4350,"['COPD', 'Heart Disease', 'Epilepsy', 'Kidney Disease', 'Osteoporosis']",2022-12-19
+3602,562,"['Thyroid Disease', 'Obesity', 'Heart Disease', 'Heart Disease', 'Mental Health Disorders']",2023-07-03
+395,1267,"['Mental Health Disorders', 'Osteoporosis', ""Parkinson's Disease"", 'Allergies', 'Epilepsy', 'Kidney Disease', 'Heart Disease', ""Parkinson's Disease"", 'Obesity']",2006-07-14
+8374,8078,"['Allergies', 'Kidney Disease', 'Liver Disease', 'Liver Disease', 'Kidney Disease']",1990-08-05
+5545,8712,['Heart Disease'],1992-08-24
+1503,6506,['Liver Disease'],2008-12-19
+5193,2989,"['Osteoporosis', 'Allergies', 'Kidney Disease', 'Obesity', 'Kidney Disease', 'Mental Health Disorders', 'Kidney Disease', 'COPD', 'Thyroid Disease', 'Kidney Disease', 'Obesity']",1970-12-23
+9608,6429,"['Epilepsy', 'Epilepsy', 'COPD', 'Liver Disease', 'Kidney Disease', 'Mental Health Disorders', 'Kidney Disease', 'Allergies', 'Anxiety', 'Osteoporosis', 'COPD']",2006-11-02
+2248,5503,"[""Parkinson's Disease"", 'Kidney Disease', 'COPD', 'Heart Disease', 'Kidney Disease', ""Parkinson's Disease"", 'Liver Disease', 'Epilepsy']",1978-10-25
+2688,9786,"['Liver Disease', 'Kidney Disease', 'Allergies', 'Mental Health Disorders', 'Anxiety', 'Epilepsy', 'Obesity']",1998-12-12
+1797,4852,"['Obesity', 'Anxiety', 'Liver Disease', 'Obesity', ""Parkinson's Disease"", 'Mental Health Disorders', 'Thyroid Disease']",1972-01-28
+9612,4510,"['Epilepsy', 'COPD', 'Heart Disease', 'Anxiety', 'Liver Disease', 'Anxiety', 'Mental Health Disorders']",2015-05-07
+9982,8294,"['Kidney Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Allergies', 'Epilepsy', 'Obesity', 'Liver Disease', ""Parkinson's Disease"", 'Heart Disease', 'Kidney Disease']",2017-05-09
+4933,3040,"['Liver Disease', 'Allergies', 'Thyroid Disease', 'Anxiety', ""Parkinson's Disease"", 'Thyroid Disease', 'Thyroid Disease', 'Epilepsy']",2010-07-05
+4888,5785,"['Allergies', 'Liver Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'Epilepsy', 'Mental Health Disorders', 'Anxiety', 'Liver Disease', 'Liver Disease', 'Epilepsy', 'Osteoporosis']",1978-01-26
+6054,6934,"['Allergies', 'Obesity', 'Liver Disease', 'Heart Disease', 'Osteoporosis', 'Heart Disease']",1978-08-16
+5555,3210,"['Kidney Disease', 'Obesity', 'Heart Disease', 'Heart Disease', 'Anxiety', 'Epilepsy', 'Heart Disease', 'Kidney Disease', 'Osteoporosis', 'Obesity', ""Parkinson's Disease"", 'Mental Health Disorders']",2018-05-24
+1616,7398,"['Osteoporosis', 'Obesity', 'Anxiety', 'Heart Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Obesity', 'Heart Disease', 'Anxiety', 'Allergies']",1986-05-05
+8643,5465,"['COPD', 'Heart Disease', 'Heart Disease', 'COPD']",1990-07-31
+7639,5397,"['Mental Health Disorders', 'Heart Disease', 'Obesity', 'Epilepsy', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Osteoporosis', 'Anxiety']",2004-05-14
+2049,5506,"['Epilepsy', 'Mental Health Disorders', 'Mental Health Disorders', 'Osteoporosis', 'Obesity', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Allergies', 'COPD', ""Parkinson's Disease"", 'Osteoporosis']",1984-11-02
+5162,2357,"['Anxiety', 'Mental Health Disorders', 'Kidney Disease', 'COPD', ""Parkinson's Disease"", 'Obesity', 'Heart Disease', 'Kidney Disease', 'Epilepsy', 'Anxiety']",2007-11-24
+7715,5329,"['Kidney Disease', ""Parkinson's Disease"", 'Osteoporosis', 'Thyroid Disease', 'Heart Disease', 'Mental Health Disorders', 'Liver Disease', 'Osteoporosis', 'Osteoporosis', ""Parkinson's Disease"", 'Heart Disease']",1981-09-10
+7173,1342,"['Kidney Disease', 'Obesity', 'Anxiety', 'Osteoporosis', 'COPD', 'Anxiety', 'Mental Health Disorders', 'Liver Disease', ""Parkinson's Disease"", 'Anxiety']",2003-03-26
+9870,9085,"['Liver Disease', 'Thyroid Disease', 'Epilepsy', 'Thyroid Disease', 'Epilepsy']",2007-08-18
+6029,1074,"['Thyroid Disease', 'Obesity', 'COPD', 'Osteoporosis', 'COPD', 'Mental Health Disorders', 'Anxiety', 'Thyroid Disease', 'Thyroid Disease']",1981-07-23
+456,9032,"['COPD', 'Obesity', 'Anxiety', 'Mental Health Disorders', 'Osteoporosis', 'Epilepsy', 'Osteoporosis', 'Osteoporosis', 'Obesity', 'Allergies']",2019-01-31
+9740,9341,"['Allergies', 'Obesity', 'Kidney Disease', 'Mental Health Disorders', 'Kidney Disease', 'Epilepsy', 'Kidney Disease', 'Mental Health Disorders']",1982-06-10
+1977,3009,"['Anxiety', 'Anxiety', 'Mental Health Disorders', 'Obesity', 'Kidney Disease', 'Obesity']",1981-11-20
+2706,8139,"['Anxiety', 'Anxiety', 'Mental Health Disorders', 'Allergies', 'Osteoporosis', 'Thyroid Disease', 'Anxiety']",1973-04-13
+259,1187,"[""Parkinson's Disease"", 'Heart Disease', 'Obesity', 'Osteoporosis', 'Liver Disease', 'Allergies']",1980-05-31
+513,3892,"['COPD', 'Osteoporosis', 'Heart Disease', 'Obesity', 'Liver Disease', 'Allergies', 'Obesity', 'Kidney Disease', 'COPD', 'Liver Disease', 'Obesity']",1973-11-29
+1224,4467,"['Liver Disease', 'Liver Disease', 'Allergies', 'Mental Health Disorders', 'Liver Disease']",1987-11-03
+823,5122,['Thyroid Disease'],2018-03-24
+4506,9423,"['Kidney Disease', 'Allergies', 'COPD', 'Kidney Disease', 'Epilepsy', 'Mental Health Disorders', 'Mental Health Disorders', 'Epilepsy']",1986-01-18
+2847,8401,"['Thyroid Disease', 'COPD', 'Mental Health Disorders', 'Epilepsy', 'Kidney Disease', 'Anxiety', 'Osteoporosis']",1973-07-12
+7214,3210,"['Anxiety', 'Anxiety', 'Allergies', 'COPD', 'COPD', 'Thyroid Disease']",1988-04-22
+8358,5172,"['Heart Disease', 'Kidney Disease', 'Epilepsy', 'Mental Health Disorders', 'Kidney Disease', 'Thyroid Disease']",2009-12-03
+5877,1762,"['Epilepsy', 'Liver Disease', 'Obesity', ""Parkinson's Disease"", 'Epilepsy', 'Kidney Disease', 'COPD', 'Osteoporosis', 'COPD', 'Mental Health Disorders', 'Anxiety']",1986-03-15
+6236,9735,"['Epilepsy', 'COPD', 'Kidney Disease', 'Obesity', 'Epilepsy', 'Anxiety', 'Thyroid Disease', 'Allergies', 'Liver Disease', 'Mental Health Disorders', 'Anxiety', 'Mental Health Disorders']",1991-02-02
+8652,4513,"['Mental Health Disorders', 'Thyroid Disease', 'Kidney Disease', 'Heart Disease']",1994-12-17
+5212,3217,"['Thyroid Disease', 'Obesity', 'Thyroid Disease', 'Heart Disease', 'Mental Health Disorders', 'Epilepsy', 'Anxiety', 'Anxiety', 'Liver Disease', 'Epilepsy', 'Liver Disease', 'Kidney Disease']",2002-10-13
+2820,6302,"['Obesity', 'Kidney Disease', 'Heart Disease', 'Heart Disease', 'Kidney Disease', 'Heart Disease', 'Kidney Disease', 'Kidney Disease', 'Anxiety']",2021-12-03
+8228,1852,"['Heart Disease', 'Epilepsy', 'Liver Disease', 'Kidney Disease', 'Osteoporosis', 'Epilepsy', 'Allergies', 'COPD']",1985-08-27
+3043,3643,"['Epilepsy', 'Allergies', 'Thyroid Disease', 'Anxiety', 'Kidney Disease', 'Osteoporosis', 'Kidney Disease', 'Obesity', 'Allergies', 'Osteoporosis', 'Thyroid Disease', 'Heart Disease']",1991-12-24
+3773,3892,['Osteoporosis'],2017-07-16
+129,634,"[""Parkinson's Disease"", 'Epilepsy', 'Kidney Disease', 'Obesity', 'COPD']",1992-02-17
+5590,4852,"['Liver Disease', 'Heart Disease', 'Obesity', 'Osteoporosis', 'COPD', 'Mental Health Disorders', 'Epilepsy', 'Thyroid Disease', 'COPD', 'Allergies', 'Mental Health Disorders']",1992-09-23
+2679,3980,"['Heart Disease', 'Osteoporosis', 'Anxiety', 'COPD']",1975-03-28
+9382,5830,"['Thyroid Disease', 'Thyroid Disease', 'Mental Health Disorders', 'Liver Disease', 'COPD']",2010-02-02
+8634,5414,"['Kidney Disease', 'Liver Disease', 'COPD', 'Kidney Disease', 'Epilepsy', 'Allergies', 'Obesity']",1985-12-08
+8876,4883,"['Osteoporosis', 'Epilepsy', ""Parkinson's Disease"", 'Osteoporosis', 'Anxiety']",2014-05-26
+3284,3312,"['Obesity', 'Mental Health Disorders', 'Allergies', ""Parkinson's Disease""]",1996-05-03
+7634,9675,"['Allergies', 'Heart Disease', ""Parkinson's Disease"", 'Mental Health Disorders', 'Mental Health Disorders', 'Liver Disease']",2013-04-04
+9202,5509,"['Anxiety', 'Epilepsy', 'Epilepsy', 'Anxiety', 'Liver Disease', 'Obesity', 'COPD']",2016-11-19
+6098,6812,['Thyroid Disease'],2018-06-14
+1077,7537,"[""Parkinson's Disease"", 'Obesity', 'Obesity', 'Allergies', 'Thyroid Disease', 'Epilepsy']",1971-11-16
+6193,5880,"['Mental Health Disorders', ""Parkinson's Disease"", 'Mental Health Disorders', 'Mental Health Disorders', ""Parkinson's Disease"", 'Epilepsy', 'Epilepsy']",1979-06-30
+2265,6823,"['COPD', 'Epilepsy', 'Anxiety', 'Thyroid Disease', 'Mental Health Disorders', 'Anxiety', 'Thyroid Disease', 'COPD', 'Obesity', 'Osteoporosis', 'Anxiety']",1985-05-24
+7723,5830,"['Allergies', 'COPD', 'Allergies', 'Osteoporosis']",2021-03-18
+275,8475,"['Thyroid Disease', ""Parkinson's Disease"", 'Obesity', 'Kidney Disease', 'Heart Disease', 'Heart Disease']",1996-09-13
+4270,8948,"['Heart Disease', 'Osteoporosis', ""Parkinson's Disease"", 'COPD', 'Liver Disease', 'Kidney Disease', 'Allergies', 'Liver Disease', 'Allergies']",2003-01-31
+3130,9856,"['Liver Disease', 'Kidney Disease', 'Anxiety']",2003-11-15
+973,4290,"['COPD', 'Liver Disease', 'COPD', 'Anxiety']",2008-11-29
+5207,9789,"['Anxiety', 'COPD']",2017-01-17
+3362,2898,"['Epilepsy', 'Allergies', 'Allergies', 'Heart Disease']",2013-04-29
+360,603,['COPD'],1974-09-20
+424,8538,"['Osteoporosis', 'COPD', 'Obesity', 'Thyroid Disease', 'Obesity']",1988-09-08
+310,542,"['Mental Health Disorders', 'Obesity', 'Liver Disease', 'Mental Health Disorders', 'Liver Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'Kidney Disease', 'Heart Disease', 'Osteoporosis', 'Mental Health Disorders', ""Parkinson's Disease""]",1998-09-06
+6106,7098,"['Kidney Disease', 'COPD', 'Thyroid Disease']",1983-03-28
+855,4321,"['Osteoporosis', 'Osteoporosis', 'Allergies', 'Allergies', 'Heart Disease', 'Obesity', 'Epilepsy', 'Liver Disease', 'Thyroid Disease', 'Epilepsy', 'Allergies']",2018-02-13
+2113,3405,['Kidney Disease'],2005-08-18
+5293,9853,"['Kidney Disease', 'Osteoporosis', ""Parkinson's Disease"", 'Epilepsy', 'Obesity', 'Anxiety', 'Anxiety', 'Kidney Disease', 'Obesity', 'Mental Health Disorders']",1986-08-20
+7946,1650,['Osteoporosis'],1976-03-01
+2549,353,"['Kidney Disease', 'Mental Health Disorders', 'COPD', 'COPD', 'Liver Disease', 'Osteoporosis', 'Osteoporosis', ""Parkinson's Disease"", 'Obesity']",1997-05-30
+4903,8737,"['COPD', 'Obesity', 'Anxiety', 'Allergies', 'Epilepsy', 'Thyroid Disease', 'Heart Disease', 'Epilepsy']",1988-07-02
+6703,322,"['COPD', 'Epilepsy', 'Heart Disease', 'Liver Disease']",1998-04-09
+2012,8075,"['Mental Health Disorders', 'COPD', 'Mental Health Disorders', 'Osteoporosis', 'Thyroid Disease', 'COPD', ""Parkinson's Disease"", 'Osteoporosis', 'COPD']",1971-10-21
+2217,5008,"[""Parkinson's Disease"", 'Osteoporosis', ""Parkinson's Disease"", 'Anxiety', 'Thyroid Disease', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Liver Disease', 'Kidney Disease', 'Liver Disease', ""Parkinson's Disease"", 'Heart Disease']",2022-04-09
+7357,9863,"['Epilepsy', 'COPD', 'COPD', 'Anxiety', 'Kidney Disease', 'COPD', 'Mental Health Disorders', 'Allergies', 'Mental Health Disorders', 'Epilepsy']",1995-03-26
+6178,6390,"['Allergies', 'Thyroid Disease', 'Epilepsy', 'Liver Disease', 'Liver Disease', 'Thyroid Disease', 'Osteoporosis']",1981-08-07
+4524,9655,"['Obesity', 'Heart Disease', 'Osteoporosis', 'Thyroid Disease', 'Heart Disease', 'Thyroid Disease', ""Parkinson's Disease""]",2005-02-17
+1572,2244,"['Heart Disease', 'Kidney Disease', 'Anxiety', ""Parkinson's Disease""]",2007-02-20
+6102,4436,"['Obesity', 'Thyroid Disease', 'COPD', 'Epilepsy', 'Heart Disease', 'Thyroid Disease', 'Obesity', 'Kidney Disease', 'Thyroid Disease', 'Osteoporosis', 'Obesity', 'Obesity']",2021-08-04
+7573,9965,"['COPD', ""Parkinson's Disease"", 'Allergies', 'Liver Disease', 'Thyroid Disease', 'COPD', 'Allergies', 'Thyroid Disease', 'COPD']",2004-09-27
+5477,4852,"['Heart Disease', 'Mental Health Disorders', 'Obesity', 'Osteoporosis', 'Liver Disease', ""Parkinson's Disease""]",2001-12-06
+497,2033,"['Obesity', 'Mental Health Disorders', 'Kidney Disease', 'Allergies', 'COPD', ""Parkinson's Disease"", 'Anxiety', 'COPD', 'Osteoporosis', 'Heart Disease', 'Anxiety', 'Heart Disease']",1997-03-14
+2850,3747,"['Obesity', 'Liver Disease']",2021-04-12
+8519,361,"['Heart Disease', 'COPD', 'Epilepsy']",2007-06-02
+7366,1995,"['Thyroid Disease', 'Epilepsy']",2014-10-16
+6075,5963,['Epilepsy'],2021-03-01
+5652,2244,"['COPD', 'Mental Health Disorders']",2021-05-25
+7996,330,"['Anxiety', 'COPD', 'Kidney Disease', 'Kidney Disease', 'Kidney Disease', 'Epilepsy', 'COPD', 'Heart Disease', 'Osteoporosis', 'Anxiety', 'COPD']",1998-09-02
+3074,562,"['Liver Disease', 'Anxiety']",1991-10-01
+5535,7337,"['Allergies', 'Allergies', 'Obesity', 'Thyroid Disease', 'Kidney Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Osteoporosis']",2006-10-15
+5833,3788,"['Kidney Disease', 'Kidney Disease', 'Thyroid Disease', 'COPD', 'COPD']",2003-09-21
+7427,6270,"[""Parkinson's Disease"", 'Anxiety', 'Heart Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Anxiety']",1979-08-14
+5464,9128,"['Anxiety', 'Kidney Disease', 'Epilepsy']",1981-12-16
+854,1573,"['Obesity', 'Thyroid Disease', 'Mental Health Disorders', 'Anxiety', 'COPD', 'Heart Disease', 'Obesity', 'Allergies', 'Kidney Disease', ""Parkinson's Disease"", 'Liver Disease']",2020-07-11
+4043,9850,['Thyroid Disease'],2017-07-13
+162,6270,"[""Parkinson's Disease"", 'Epilepsy', 'Liver Disease', 'Thyroid Disease', 'Obesity']",2008-12-12
+3420,6735,"['Kidney Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Heart Disease', 'Anxiety', ""Parkinson's Disease"", 'Epilepsy', 'Thyroid Disease', 'COPD', 'COPD', 'Allergies', 'Epilepsy']",2018-01-01
+490,4520,['Heart Disease'],1999-11-06
+4480,9032,"['Kidney Disease', 'Thyroid Disease', 'Obesity', 'Allergies']",1983-05-08
+4424,9789,"['Mental Health Disorders', 'Mental Health Disorders']",1996-04-11
+3229,3473,"['Allergies', 'Allergies', 'COPD', 'Epilepsy', 'Allergies', 'Kidney Disease', ""Parkinson's Disease""]",1975-04-12
+346,604,"['Epilepsy', 'Heart Disease', 'Epilepsy', 'Thyroid Disease']",2001-09-18
+1660,763,"['Obesity', 'Obesity', ""Parkinson's Disease"", 'Mental Health Disorders', 'COPD', 'Mental Health Disorders', ""Parkinson's Disease"", 'Anxiety', 'COPD', 'COPD', 'Liver Disease']",2019-06-18
+3214,69,"['Allergies', 'Kidney Disease', 'Kidney Disease', 'Heart Disease', 'Kidney Disease', 'Mental Health Disorders', 'COPD', ""Parkinson's Disease"", 'Kidney Disease', 'Anxiety']",2013-07-16
+255,3848,"['Anxiety', ""Parkinson's Disease"", 'COPD', 'Kidney Disease', 'Liver Disease', 'Heart Disease', 'Heart Disease', 'Mental Health Disorders', 'Heart Disease']",2013-06-15
+1317,3806,['Osteoporosis'],2011-08-08
+3731,5252,"['Liver Disease', 'Osteoporosis', 'Mental Health Disorders', 'Kidney Disease', 'Obesity', 'Osteoporosis', 'Liver Disease', 'Epilepsy', 'Thyroid Disease']",1984-05-17
+8044,9410,"['Heart Disease', 'Epilepsy', 'Obesity', 'Anxiety', ""Parkinson's Disease"", 'Allergies']",2021-02-18
+1644,4044,"['Osteoporosis', 'COPD', 'Allergies', 'Kidney Disease', 'COPD', 'Anxiety', 'Heart Disease', 'Liver Disease', 'Heart Disease']",1971-07-20
+2139,3217,"['Liver Disease', 'Heart Disease', ""Parkinson's Disease"", 'Obesity', 'COPD', 'Kidney Disease', 'Epilepsy', 'Liver Disease', 'Allergies']",2004-12-01
+5493,9163,"['Epilepsy', 'Epilepsy', 'Anxiety', 'Anxiety', 'Liver Disease', 'Osteoporosis', 'Epilepsy', 'Epilepsy', 'COPD', 'Osteoporosis']",1990-03-27
+3064,488,"[""Parkinson's Disease"", 'Thyroid Disease']",2008-03-20
+1931,628,"['Kidney Disease', 'Heart Disease']",1983-01-11
+8906,45,"['Thyroid Disease', 'Epilepsy', ""Parkinson's Disease"", 'Obesity', 'Epilepsy', 'Epilepsy', 'Mental Health Disorders']",1992-10-28
+5739,1974,"['Epilepsy', 'Liver Disease']",1996-10-26
+7336,3205,['Thyroid Disease'],1990-12-28
+1613,7111,"['Kidney Disease', 'Obesity', 'Anxiety', 'Liver Disease', 'Epilepsy', 'Thyroid Disease', 'Mental Health Disorders', 'Liver Disease', 'Allergies', 'Osteoporosis']",2020-12-21
+4347,2402,"['Mental Health Disorders', 'Heart Disease', 'Obesity', 'Kidney Disease', 'Allergies', 'Kidney Disease', 'COPD', 'Obesity', 'Heart Disease', 'Epilepsy', 'Anxiety']",1990-08-06
+5715,542,"['Liver Disease', 'COPD', 'Epilepsy', 'Liver Disease', 'Thyroid Disease', 'Heart Disease']",2001-08-15
+1343,967,"['Anxiety', 'Anxiety', 'Thyroid Disease', 'COPD', 'Allergies', 'Thyroid Disease', 'Thyroid Disease', 'Allergies', 'Osteoporosis', ""Parkinson's Disease""]",1991-03-02
+7694,628,"['Heart Disease', 'Mental Health Disorders', 'Liver Disease', 'Osteoporosis', ""Parkinson's Disease""]",2015-01-11
+8909,2033,"['Heart Disease', 'Thyroid Disease', 'Epilepsy', ""Parkinson's Disease"", 'Mental Health Disorders', 'Thyroid Disease', 'Thyroid Disease', 'Heart Disease', 'Osteoporosis', 'COPD']",2011-04-25
+7598,8312,"['Anxiety', 'COPD', 'Obesity', 'Liver Disease']",1995-09-04
+7390,445,"['Kidney Disease', 'Allergies', 'Osteoporosis', ""Parkinson's Disease"", 'Allergies', 'Epilepsy', 'Liver Disease', 'Liver Disease', 'Mental Health Disorders', 'Allergies', 'COPD']",2011-03-20
+5084,4467,"['Mental Health Disorders', 'Allergies', 'Liver Disease', 'Osteoporosis', 'Epilepsy', 'Kidney Disease', 'Mental Health Disorders', 'Anxiety', 'Kidney Disease']",2023-09-23
+3998,9702,"['COPD', 'Anxiety', 'Anxiety', 'Anxiety', 'Mental Health Disorders', 'Anxiety']",2019-12-20
+2699,1964,"['Epilepsy', 'COPD', 'Anxiety', 'Anxiety', 'Osteoporosis', 'Mental Health Disorders', 'Heart Disease']",1988-11-18
+206,8036,"['Obesity', 'Obesity', 'Mental Health Disorders', ""Parkinson's Disease"", 'Mental Health Disorders', 'COPD', 'Anxiety', 'Thyroid Disease', 'Epilepsy', 'Heart Disease', 'Thyroid Disease']",2001-05-02
+7758,7701,"['Mental Health Disorders', 'Osteoporosis', 'Mental Health Disorders']",1988-11-06
+3878,5122,"['Liver Disease', 'Thyroid Disease', 'Heart Disease']",2021-11-14
+6760,6597,"['Kidney Disease', 'Epilepsy', 'Anxiety', 'Liver Disease', 'Liver Disease', 'Allergies', 'Mental Health Disorders', 'Epilepsy', 'Allergies', 'COPD', 'Kidney Disease']",1984-09-21
+5902,8538,"['Epilepsy', 'Osteoporosis', ""Parkinson's Disease"", 'Obesity']",1972-04-26
+6475,4883,"['Heart Disease', 'Kidney Disease', 'Epilepsy', 'Liver Disease']",1987-02-11
+4961,7802,"['Anxiety', ""Parkinson's Disease"", 'Anxiety', 'Kidney Disease', 'Anxiety', 'Thyroid Disease']",1984-12-09
+7342,1573,"['COPD', 'Mental Health Disorders', 'Epilepsy', 'Osteoporosis', 'Allergies']",2011-12-09
+6674,2780,"[""Parkinson's Disease"", 'Anxiety', 'Liver Disease', 'Kidney Disease', 'Kidney Disease']",2016-09-05
+9200,2514,"['Allergies', 'Allergies', 'Kidney Disease', 'COPD', 'Allergies', 'Osteoporosis', 'Anxiety', 'Epilepsy', 'Kidney Disease', 'Thyroid Disease', 'Epilepsy', 'Thyroid Disease']",1985-08-09
+4078,952,"['Thyroid Disease', 'Osteoporosis', 'Obesity', 'Epilepsy', 'COPD']",1984-07-15
+1621,1995,"['Thyroid Disease', 'Kidney Disease', 'Kidney Disease', 'Kidney Disease']",2009-03-01
+4906,5972,"['Epilepsy', 'Liver Disease', 'Thyroid Disease', 'COPD', 'Obesity', 'Kidney Disease', 'Osteoporosis', 'Osteoporosis', 'Allergies', 'Anxiety', 'Mental Health Disorders']",1979-09-02
+6315,9369,"['Allergies', 'Kidney Disease', 'Kidney Disease', 'Anxiety', 'Heart Disease', 'Obesity', 'Epilepsy', 'COPD']",2024-09-18
+246,8139,"['Thyroid Disease', 'Anxiety', 'Obesity', 'Liver Disease', 'COPD', 'Liver Disease', 'Heart Disease', 'Liver Disease', 'COPD', 'Thyroid Disease']",2010-05-15
+2721,8147,"[""Parkinson's Disease"", 'COPD', 'Anxiety', ""Parkinson's Disease"", 'Mental Health Disorders', 'Thyroid Disease', 'Heart Disease', 'Obesity', 'Allergies']",1986-04-12
+9359,5972,['Allergies'],1983-07-31
+503,3217,"['Mental Health Disorders', 'Epilepsy', 'Allergies', 'Liver Disease', 'Liver Disease', 'Allergies', 'Heart Disease', 'Obesity', 'Allergies', ""Parkinson's Disease""]",2017-07-05
+1731,9853,"['Kidney Disease', 'COPD']",2018-02-05
+3690,6922,['Mental Health Disorders'],1971-09-01
+9244,5795,"[""Parkinson's Disease"", 'Osteoporosis', 'Kidney Disease', 'Anxiety', 'Mental Health Disorders']",2019-02-20
+7895,3210,"['Thyroid Disease', 'Anxiety', 'Mental Health Disorders', 'Osteoporosis', 'Mental Health Disorders', 'Epilepsy', 'Osteoporosis', 'Thyroid Disease', 'COPD', 'Heart Disease', 'Anxiety', 'Mental Health Disorders']",2006-05-19
+1904,5963,"['Epilepsy', 'Osteoporosis', 'Allergies', 'Thyroid Disease', 'Obesity', 'Liver Disease', 'Mental Health Disorders', 'Mental Health Disorders']",2005-12-22
+5104,7701,"['Mental Health Disorders', 'Obesity', 'Kidney Disease', 'Anxiety', 'Obesity', 'Epilepsy', 'Heart Disease', 'Thyroid Disease', ""Parkinson's Disease"", 'Thyroid Disease']",1983-09-09
+2573,5356,"['Thyroid Disease', 'Mental Health Disorders']",2008-08-28
+8017,5509,"['Anxiety', 'Epilepsy', 'Kidney Disease', 'Heart Disease', 'Allergies', 'Thyroid Disease', ""Parkinson's Disease"", 'Anxiety', 'Heart Disease']",1974-05-14
+5166,7557,"['Mental Health Disorders', ""Parkinson's Disease"", 'Anxiety', 'Anxiety', 'Liver Disease', 'Epilepsy', 'Kidney Disease', 'COPD', 'Thyroid Disease', ""Parkinson's Disease""]",2015-08-09
+5389,1792,['Epilepsy'],1985-12-26
+1481,6339,"['COPD', 'Obesity', 'Anxiety']",2009-03-01
+8609,952,"['Anxiety', 'COPD', 'Allergies']",2022-09-29
+8499,640,"['Mental Health Disorders', 'COPD', 'Kidney Disease', 'Obesity', 'COPD', 'Thyroid Disease', 'Liver Disease', 'Heart Disease', 'Thyroid Disease', 'Anxiety', 'Liver Disease', 'Mental Health Disorders']",1987-02-13
+914,542,"['Anxiety', 'Osteoporosis', 'COPD', ""Parkinson's Disease"", 'Anxiety', 'Thyroid Disease', 'Obesity', 'Obesity']",2017-03-03
+6452,2514,"['Obesity', ""Parkinson's Disease"", 'Mental Health Disorders', 'Kidney Disease', 'Anxiety', 'Mental Health Disorders', 'Thyroid Disease', 'COPD', ""Parkinson's Disease""]",1999-07-16
+8368,1250,"[""Parkinson's Disease"", 'Allergies', 'Thyroid Disease', ""Parkinson's Disease"", 'Liver Disease', ""Parkinson's Disease""]",2002-12-05
+6112,628,"['Allergies', 'Liver Disease', 'Anxiety', 'Allergies', 'Obesity', 'Liver Disease', 'Kidney Disease']",1983-09-14
+6300,6014,"['Liver Disease', 'Liver Disease', 'Osteoporosis', 'Epilepsy', 'Osteoporosis', 'Anxiety', 'Mental Health Disorders', 'Heart Disease', 'Heart Disease', 'Obesity', 'Osteoporosis']",1974-06-03
+2671,4378,"['Heart Disease', 'Epilepsy', 'Liver Disease']",1995-08-10
+113,6996,"['Obesity', 'Liver Disease', 'Anxiety', 'Liver Disease', 'Anxiety', 'Allergies', 'COPD', 'Allergies', 'Osteoporosis', 'Thyroid Disease', 'Anxiety', 'Liver Disease']",2018-04-29
+7400,2761,"['Thyroid Disease', 'Mental Health Disorders', 'Heart Disease']",1994-03-07
+3706,2777,"['COPD', 'Allergies', 'Epilepsy', ""Parkinson's Disease""]",1980-03-17
+7553,2402,"['Liver Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'Epilepsy', 'Mental Health Disorders']",1985-05-14
+3275,2780,"['Liver Disease', 'Allergies', 'Mental Health Disorders', 'Epilepsy', 'Anxiety', 'Mental Health Disorders', 'Thyroid Disease', 'Allergies', 'Mental Health Disorders', 'COPD']",2013-03-14
+284,6901,['Osteoporosis'],2017-03-08
+6894,7814,"['Epilepsy', 'Allergies', 'Mental Health Disorders', 'Thyroid Disease']",1997-05-06
+9534,8774,['Kidney Disease'],2007-11-26
+8486,9163,"['Kidney Disease', 'Liver Disease', 'Heart Disease', 'COPD', 'COPD', 'COPD', 'Epilepsy']",1996-03-10
+7198,4852,"['COPD', 'Liver Disease']",1993-12-05
+1284,1762,"['Anxiety', 'COPD', 'Mental Health Disorders', 'Liver Disease', 'Osteoporosis', ""Parkinson's Disease""]",1986-03-25
+4585,952,"['Mental Health Disorders', 'Epilepsy', ""Parkinson's Disease"", 'Thyroid Disease', 'Thyroid Disease', 'Kidney Disease', 'Allergies', 'COPD', 'Kidney Disease', 'Mental Health Disorders', 'Osteoporosis', 'Allergies']",2007-02-14
+673,8712,"['Obesity', 'Mental Health Disorders', 'Anxiety', 'Liver Disease', 'Liver Disease', 'Mental Health Disorders']",1995-07-21
+5872,9003,"['Anxiety', 'Anxiety', 'COPD', 'Epilepsy', 'Anxiety', 'Allergies', 'Liver Disease']",2011-04-15
+9121,6254,"['Obesity', 'Anxiety', 'Thyroid Disease', 'COPD', 'COPD', 'COPD', 'Allergies', 'Allergies', ""Parkinson's Disease"", 'Thyroid Disease']",2013-01-21
+2903,4467,"['Anxiety', ""Parkinson's Disease""]",1986-06-15
+4404,3996,"['Anxiety', 'Osteoporosis', 'Mental Health Disorders', 'Kidney Disease', 'Heart Disease', 'Mental Health Disorders', 'Epilepsy', 'Kidney Disease', 'Allergies', ""Parkinson's Disease""]",1991-01-29
+5300,5830,"['Thyroid Disease', 'Kidney Disease', 'Thyroid Disease', 'Thyroid Disease']",1989-10-25
+4764,3632,['Thyroid Disease'],1999-09-10
+4848,8481,"['Anxiety', 'Epilepsy', 'Osteoporosis', ""Parkinson's Disease""]",2017-03-22
+8187,1952,"['Heart Disease', 'Thyroid Disease', 'Kidney Disease', 'Allergies']",2013-12-03
+8600,4420,"['Allergies', 'Heart Disease', 'Thyroid Disease', 'COPD', 'Obesity', 'Epilepsy', 'Epilepsy', 'Obesity', 'COPD', 'Mental Health Disorders']",2000-11-06
+5002,174,"['Thyroid Disease', 'COPD']",2012-01-19
+8279,3806,"[""Parkinson's Disease"", 'Mental Health Disorders', 'Obesity', 'COPD', 'Anxiety']",2014-12-25
+7258,6014,"['COPD', 'Mental Health Disorders', 'Heart Disease', 'COPD', 'Epilepsy', 'Thyroid Disease', 'Allergies', 'Mental Health Disorders', ""Parkinson's Disease""]",1972-08-30
+8744,6014,['Allergies'],1986-06-21
+8255,3803,"['Epilepsy', 'Mental Health Disorders']",1971-01-18
+965,4957,['Mental Health Disorders'],2021-09-30
+1790,6735,"['Thyroid Disease', 'Liver Disease', 'COPD', 'Epilepsy', 'Liver Disease', 'Allergies', 'Osteoporosis']",2023-03-12
+9390,6066,"[""Parkinson's Disease"", 'Anxiety', 'Heart Disease', 'Obesity', 'Obesity', 'COPD', 'Thyroid Disease']",2011-05-17
+5639,2878,"['Epilepsy', ""Parkinson's Disease"", 'Mental Health Disorders', ""Parkinson's Disease"", 'Heart Disease', 'Anxiety', 'COPD', 'Obesity', 'Liver Disease', 'Epilepsy']",1982-10-12
+2974,6402,"['Mental Health Disorders', 'Kidney Disease', 'Epilepsy', 'Kidney Disease', 'Epilepsy', 'Mental Health Disorders', 'Allergies', 'Epilepsy', 'Obesity', 'Allergies', 'Thyroid Disease']",1974-01-26
+8913,4276,"['Heart Disease', 'Heart Disease', 'Osteoporosis', 'Heart Disease', 'Epilepsy', 'Heart Disease', 'Allergies', 'Epilepsy', 'Heart Disease', 'Obesity', 'Osteoporosis', 'Allergies']",2024-05-18
+2501,7369,"['Mental Health Disorders', 'Allergies', 'Epilepsy', 'Heart Disease']",2016-01-19
+3716,3312,"['COPD', 'Epilepsy', 'Mental Health Disorders']",2012-11-01
+9779,431,['Mental Health Disorders'],1996-05-01
+8278,1246,"['Heart Disease', 'Obesity', 'COPD', 'Thyroid Disease', 'COPD', 'Allergies']",1988-05-04
+5406,2794,"['Epilepsy', 'Mental Health Disorders', 'Epilepsy']",1974-06-11
+9215,8147,"['Anxiety', 'Obesity', 'Heart Disease', 'Thyroid Disease', 'Mental Health Disorders', 'Kidney Disease', 'Mental Health Disorders', 'Liver Disease', ""Parkinson's Disease"", 'Kidney Disease', ""Parkinson's Disease""]",2014-02-10
+8690,9863,"['Liver Disease', 'Liver Disease', 'Liver Disease', 'Epilepsy', 'Kidney Disease']",2010-04-08
+9597,6254,"['Kidney Disease', 'Kidney Disease', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Mental Health Disorders', 'Heart Disease', 'Thyroid Disease', 'Heart Disease', 'Liver Disease', 'Epilepsy', 'Allergies']",2005-03-20
+2948,8738,"['Heart Disease', 'COPD', 'Liver Disease', 'Anxiety', 'Liver Disease', 'Mental Health Disorders', 'Epilepsy', 'Anxiety', 'Epilepsy', 'Thyroid Disease']",2010-01-22
+9005,6200,"['Anxiety', 'Thyroid Disease', 'Epilepsy', 'COPD', 'COPD', 'Allergies', 'Heart Disease', 'Liver Disease', ""Parkinson's Disease"", 'Heart Disease', 'Heart Disease', 'COPD']",1991-02-09
+2435,6830,['Epilepsy'],1997-06-23
+6273,4288,"['Anxiety', 'Mental Health Disorders']",2010-01-11
+6311,8294,"['Thyroid Disease', 'Obesity', 'Osteoporosis', 'Allergies', 'COPD']",1998-11-04
+5392,9032,"['Heart Disease', 'Anxiety', 'Liver Disease', 'Kidney Disease']",1973-01-01
+193,5725,['Osteoporosis'],1991-01-31
+5814,4833,['Anxiety'],2006-06-14
+3013,3519,"['Heart Disease', 'COPD', 'Osteoporosis', 'COPD']",1978-10-29
+879,603,"['Allergies', 'Heart Disease', 'Mental Health Disorders', 'Heart Disease', 'Anxiety', 'COPD']",1999-03-24
+9966,5500,"['Osteoporosis', 'Thyroid Disease', ""Parkinson's Disease"", 'Heart Disease', 'Anxiety', 'Obesity', 'Obesity', 'Thyroid Disease', 'Obesity', 'Anxiety']",1994-04-27
+7831,3126,"[""Parkinson's Disease"", 'Anxiety', 'Allergies']",1994-10-02
+8051,1856,"['Allergies', 'Liver Disease', 'Liver Disease']",1973-11-26
+180,7161,"['Anxiety', 'Liver Disease']",1987-07-31
+3238,7814,"['Mental Health Disorders', 'Kidney Disease', 'Kidney Disease']",2014-08-20
+765,3024,"['Obesity', 'Thyroid Disease', 'Anxiety', 'Heart Disease']",2001-12-26
+1979,1995,"['Heart Disease', 'Mental Health Disorders', 'Osteoporosis', 'Obesity', 'Anxiety', ""Parkinson's Disease"", 'Liver Disease', 'Thyroid Disease', 'Liver Disease', 'Thyroid Disease']",1977-07-06
+9063,9128,"[""Parkinson's Disease"", 'Anxiety', 'Liver Disease', 'Allergies', 'Allergies', 'Mental Health Disorders', 'Anxiety']",2003-10-25
+3169,1267,"['Mental Health Disorders', 'Kidney Disease']",2010-04-28
+601,561,"['Liver Disease', 'COPD', ""Parkinson's Disease"", 'Thyroid Disease']",1978-07-31
+1280,3473,"['Kidney Disease', 'Heart Disease']",2008-12-04
+9648,9796,"['Heart Disease', 'Allergies', 'Thyroid Disease', 'COPD', 'Obesity', 'COPD', 'Allergies', 'Osteoporosis', 'Mental Health Disorders']",2001-03-11
+4914,433,"['Liver Disease', 'Anxiety', 'Epilepsy']",1971-12-21
+1850,4913,"['Epilepsy', 'Osteoporosis', ""Parkinson's Disease"", ""Parkinson's Disease"", ""Parkinson's Disease"", 'Kidney Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Liver Disease', 'Mental Health Disorders', 'Osteoporosis', ""Parkinson's Disease""]",2014-11-09
+4568,9479,"['Liver Disease', 'Osteoporosis', 'Heart Disease', 'Anxiety', 'Kidney Disease', 'Obesity']",2000-07-27
+8284,3777,"['Liver Disease', 'COPD', 'Obesity', 'Osteoporosis', 'Thyroid Disease', 'Obesity', 'Obesity', 'Kidney Disease']",2011-01-07
+4089,238,"['Thyroid Disease', 'Kidney Disease', 'Obesity', 'Heart Disease']",1992-11-10
+4349,5122,"['Allergies', ""Parkinson's Disease"", 'Thyroid Disease', 'Liver Disease', 'Liver Disease']",1979-10-10
+2990,6812,"['Heart Disease', 'COPD', ""Parkinson's Disease"", 'Allergies', 'Thyroid Disease', 'Mental Health Disorders', 'Mental Health Disorders', 'Obesity']",1973-05-22
+9208,5859,"['Liver Disease', ""Parkinson's Disease"", 'Osteoporosis', 'COPD', 'Osteoporosis']",2001-03-02
+5110,9675,"[""Parkinson's Disease"", 'Heart Disease', 'Allergies', 'Anxiety']",1985-03-30
+9952,7369,"['Liver Disease', 'Anxiety', 'Liver Disease', 'Allergies', 'Epilepsy', 'Heart Disease', 'Liver Disease']",1979-07-30
+6190,3738,"['Osteoporosis', 'Epilepsy', 'Osteoporosis', 'COPD', 'Osteoporosis', 'Kidney Disease', 'Osteoporosis']",2009-12-01
+7272,8436,"['COPD', 'Thyroid Disease', 'Allergies', 'Osteoporosis', 'Obesity', 'Epilepsy', 'Thyroid Disease', ""Parkinson's Disease""]",2012-07-11
+4183,1467,"['Kidney Disease', 'Kidney Disease', 'Obesity']",1971-07-02
+643,298,"['Mental Health Disorders', 'Thyroid Disease', 'Allergies', 'Kidney Disease', 'Osteoporosis', 'Liver Disease', ""Parkinson's Disease""]",2000-01-08
+2220,7814,"[""Parkinson's Disease"", 'Obesity', 'Osteoporosis', 'Liver Disease', 'Anxiety']",1974-10-24
+7362,1199,"['Osteoporosis', 'Kidney Disease', 'Kidney Disease']",2023-08-02
+6130,4257,"['Allergies', 'Heart Disease', 'Mental Health Disorders', 'Obesity', 'Liver Disease']",2002-10-01
+7090,8774,"['Liver Disease', 'Anxiety', 'COPD', ""Parkinson's Disease"", 'Thyroid Disease', 'Liver Disease', 'Anxiety']",1995-09-27
+7132,2578,"['Heart Disease', 'Thyroid Disease', 'Epilepsy', 'COPD']",2018-02-15
+3406,1900,"['Epilepsy', ""Parkinson's Disease"", 'Obesity', 'Osteoporosis', 'Thyroid Disease', 'Osteoporosis', 'Liver Disease', 'COPD', 'Liver Disease']",2005-07-07
+9012,3138,"['COPD', 'Allergies', ""Parkinson's Disease"", 'Obesity', ""Parkinson's Disease"", 'Heart Disease', 'Thyroid Disease', 'Anxiety', 'Thyroid Disease', 'Liver Disease', 'Liver Disease']",1993-07-08
+786,590,"['Anxiety', 'Heart Disease', ""Parkinson's Disease"", 'Anxiety']",1993-07-11
+5452,2083,"['Heart Disease', 'Heart Disease', 'Kidney Disease', 'Obesity', 'Osteoporosis']",2013-01-22
+2239,8497,['Liver Disease'],1977-01-20
+9823,1260,"['Allergies', 'Thyroid Disease', 'Mental Health Disorders']",2022-10-08
+230,3009,['Epilepsy'],1972-07-16
+5796,4056,"['Osteoporosis', 'Epilepsy', 'Mental Health Disorders', 'Allergies', 'Osteoporosis', 'Mental Health Disorders', 'Heart Disease', 'Obesity', 'Liver Disease', 'Anxiety', 'Liver Disease']",1986-04-27
+797,8078,"['Liver Disease', 'Anxiety', 'Obesity', 'Heart Disease', 'Thyroid Disease', 'Liver Disease', 'Mental Health Disorders', 'Osteoporosis', 'Anxiety', ""Parkinson's Disease"", 'Liver Disease']",2019-02-26
+4593,9850,"[""Parkinson's Disease""]",1974-03-08
+3830,8838,"['Anxiety', 'Thyroid Disease', 'Thyroid Disease']",1985-08-06
+8608,7724,"['Liver Disease', 'Kidney Disease']",1994-08-26
+3912,8312,"[""Parkinson's Disease""]",1972-03-28
+1215,549,"['Kidney Disease', 'Kidney Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'Allergies', 'Anxiety', 'Obesity', 'Epilepsy']",1971-06-25
+1282,3759,"['Obesity', 'Osteoporosis', 'Epilepsy']",1970-10-08
+7364,8229,"['Osteoporosis', 'COPD', 'Kidney Disease', 'Epilepsy', ""Parkinson's Disease""]",2001-03-26
+1783,3523,"['Thyroid Disease', 'Mental Health Disorders', 'Allergies']",1990-02-28
+7763,4436,"['Liver Disease', 'Epilepsy', ""Parkinson's Disease"", 'Epilepsy']",1998-10-10
+6645,8664,"['Anxiety', 'Thyroid Disease', 'Heart Disease', 'Obesity', 'Thyroid Disease']",1978-11-17
+4858,8804,"['COPD', 'Epilepsy', 'Anxiety']",2013-10-14
+5148,1775,"['Obesity', 'Osteoporosis', 'Heart Disease']",2004-08-11
+895,6425,"[""Parkinson's Disease"", 'Allergies', 'Allergies', 'Mental Health Disorders', 'Allergies', 'Liver Disease', 'Kidney Disease', 'Liver Disease', 'COPD', 'Liver Disease']",2009-10-19
+945,6425,"['Allergies', 'Heart Disease', 'Heart Disease', 'COPD', 'Kidney Disease', 'Kidney Disease', ""Parkinson's Disease"", 'Osteoporosis', 'Anxiety']",1972-02-11
+6443,9721,['COPD'],1990-07-22
+8559,9482,['COPD'],1990-11-05
+4064,3777,"['COPD', 'Liver Disease', 'COPD', 'Osteoporosis', 'Osteoporosis']",1985-04-06
+7462,8682,"['Heart Disease', ""Parkinson's Disease"", 'Liver Disease', 'Liver Disease', 'Liver Disease', 'Liver Disease', 'Liver Disease', 'COPD', 'Allergies', 'Osteoporosis', 'Thyroid Disease']",2014-04-21
+4532,3136,"['Anxiety', 'Allergies', 'Kidney Disease', 'Epilepsy', 'Heart Disease', 'Kidney Disease', 'Obesity', ""Parkinson's Disease"", 'Kidney Disease', 'Allergies', 'Osteoporosis', 'Heart Disease']",2017-01-29
+8485,8873,"['Thyroid Disease', 'Liver Disease', 'Obesity', 'Allergies', ""Parkinson's Disease"", 'Thyroid Disease', 'Mental Health Disorders', 'Osteoporosis', 'Kidney Disease', 'Allergies', 'COPD', 'Obesity']",1976-08-26
+7096,4510,"['Heart Disease', 'Mental Health Disorders', 'Osteoporosis', 'Epilepsy']",1991-04-24
+868,8538,"['Epilepsy', 'Osteoporosis', 'Epilepsy', 'Epilepsy', 'Obesity', 'Anxiety', 'Thyroid Disease', 'Thyroid Disease', 'Kidney Disease']",1992-05-02
+7792,4022,['Thyroid Disease'],2011-07-22
+3735,8208,"['COPD', 'Mental Health Disorders', 'Mental Health Disorders', 'Osteoporosis', 'Allergies']",2004-06-30
+3302,6376,"['Heart Disease', 'Mental Health Disorders', 'COPD']",1983-10-12
+8510,7960,"['Obesity', 'Kidney Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Thyroid Disease', 'Osteoporosis', 'Obesity', 'Anxiety']",2013-01-15
+7307,1520,"['Anxiety', 'Epilepsy', 'Kidney Disease', 'Allergies', 'COPD', ""Parkinson's Disease"", 'Allergies', 'Liver Disease', 'Heart Disease']",2019-04-25
+619,8075,"['Anxiety', 'Osteoporosis', 'Allergies', 'Kidney Disease', 'COPD', 'Kidney Disease', 'Osteoporosis', 'Obesity', 'Allergies', 'Allergies', 'Liver Disease', 'COPD']",1999-11-11
+1413,6554,['COPD'],2011-05-23
+9350,131,"['COPD', 'COPD', ""Parkinson's Disease"", 'Osteoporosis', 'Kidney Disease', 'Allergies', 'Heart Disease', 'Liver Disease', 'Allergies']",1998-07-13
+9716,831,"['Epilepsy', 'Allergies', 'Anxiety', 'Allergies', 'Kidney Disease', 'Kidney Disease', 'Anxiety', 'COPD', 'Obesity']",1979-05-07
+9901,634,"['Kidney Disease', 'COPD', 'Anxiety', ""Parkinson's Disease"", 'Anxiety', ""Parkinson's Disease"", 'Obesity', 'Anxiety', 'Osteoporosis', 'Liver Disease']",2023-12-17
+9317,7815,"['Thyroid Disease', 'Thyroid Disease']",1978-09-04
+9663,9702,"['Osteoporosis', 'Kidney Disease', 'Thyroid Disease', 'Kidney Disease', 'Allergies', 'Epilepsy', 'Obesity', 'COPD', 'Epilepsy']",2001-09-08
+6595,640,"['Epilepsy', 'Heart Disease']",2002-11-24
+2863,5707,"['Obesity', 'Kidney Disease', 'Epilepsy', 'Mental Health Disorders', 'COPD', 'Epilepsy', 'Liver Disease', 'Heart Disease', 'Kidney Disease']",1980-06-18
+1891,3738,"['Kidney Disease', 'COPD', 'Kidney Disease', 'Allergies', 'Kidney Disease', 'Kidney Disease', 'Liver Disease', 'Thyroid Disease']",2006-05-13
+963,3040,"['Osteoporosis', 'Kidney Disease', 'Mental Health Disorders', 'Mental Health Disorders', 'Anxiety', ""Parkinson's Disease"", 'Anxiety', 'Thyroid Disease']",1985-08-06
+2111,3061,"['Obesity', 'Allergies', 'Thyroid Disease']",1970-08-14
+3573,3907,"['Heart Disease', 'Obesity', 'Heart Disease', 'COPD', 'Osteoporosis', 'COPD', 'Obesity', 'Anxiety', 'Mental Health Disorders']",1978-01-20
+6477,7701,"['Kidney Disease', 'Obesity', 'COPD', 'Mental Health Disorders', 'Anxiety', 'COPD']",2021-11-01
+1868,5788,"['Epilepsy', 'Osteoporosis', 'Epilepsy', 'Thyroid Disease', 'Liver Disease', ""Parkinson's Disease"", 'Epilepsy']",2001-08-14
+737,1293,"['COPD', 'Epilepsy', 'Allergies', 'Epilepsy', 'Kidney Disease', 'Obesity']",1996-10-21
+385,6118,"['Heart Disease', 'Kidney Disease', 'Heart Disease', 'Anxiety', 'Anxiety', ""Parkinson's Disease"", 'Mental Health Disorders', 'Kidney Disease', 'Osteoporosis']",2022-02-17
+2736,429,"['Kidney Disease', 'COPD', 'Kidney Disease', 'Obesity', 'Thyroid Disease', 'Heart Disease', 'Mental Health Disorders', 'Allergies', 'Thyroid Disease']",1995-10-07
+8413,3205,"['Liver Disease', 'Heart Disease', 'Obesity', 'Osteoporosis', 'Heart Disease']",1989-08-26
+7754,1974,"['Thyroid Disease', 'Kidney Disease', 'Liver Disease', 'Thyroid Disease', 'Heart Disease']",1994-11-17
+8005,1293,"['Epilepsy', 'Osteoporosis', 'Anxiety', 'Epilepsy', 'Anxiety', 'Epilepsy', 'Heart Disease', 'Kidney Disease', 'Heart Disease', 'Heart Disease']",1994-11-15
+9589,1008,['COPD'],2024-04-20
+7314,1250,"['Heart Disease', 'Osteoporosis', 'Allergies', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Thyroid Disease', 'Osteoporosis', 'Mental Health Disorders']",1985-04-09
+2462,3892,"['Epilepsy', 'Allergies', 'Liver Disease', 'Obesity']",1982-01-16
+6220,604,"['COPD', 'Osteoporosis', 'Obesity', 'Kidney Disease']",2018-04-24
+2857,9369,['Osteoporosis'],1991-09-01
+9331,542,"['Obesity', 'Anxiety', 'COPD', 'Thyroid Disease', 'Thyroid Disease', 'Allergies', 'Allergies', 'Heart Disease']",1993-12-22
+1981,8294,"['Osteoporosis', 'Epilepsy', 'Obesity', 'Mental Health Disorders', 'Osteoporosis', 'Liver Disease', 'COPD', 'Thyroid Disease', 'Osteoporosis', 'Obesity', 'Obesity', 'Anxiety']",2022-01-04
+2813,9936,"['Kidney Disease', 'Obesity', ""Parkinson's Disease"", 'Obesity', 'Mental Health Disorders', ""Parkinson's Disease"", 'Thyroid Disease', 'Osteoporosis', ""Parkinson's Disease""]",1971-01-24
+1235,5388,"['Obesity', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Kidney Disease', 'Thyroid Disease', 'Liver Disease', 'Epilepsy', 'Liver Disease']",1970-01-28
+118,7077,"['Liver Disease', 'Heart Disease', 'COPD', 'Kidney Disease', ""Parkinson's Disease"", 'Heart Disease']",2022-02-16
+9084,6901,"['COPD', 'Osteoporosis', 'Kidney Disease', 'Heart Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'COPD', 'Anxiety']",1971-09-17
+5801,2780,['Epilepsy'],1999-11-18
+1578,9341,"['Liver Disease', 'COPD', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Anxiety', 'Heart Disease', 'Heart Disease', 'Liver Disease', 'Heart Disease', 'Kidney Disease', 'Allergies', 'Osteoporosis']",1979-05-21
+5696,5785,"['Thyroid Disease', 'Epilepsy', 'Kidney Disease', 'Liver Disease']",1987-03-04
+629,7644,"['Heart Disease', 'Osteoporosis']",2016-01-12
+1706,1856,"[""Parkinson's Disease"", 'Liver Disease', 'Kidney Disease']",1974-12-29
+3154,853,"['Kidney Disease', 'COPD', 'Osteoporosis', 'Liver Disease', 'Osteoporosis', 'Epilepsy', 'COPD', 'COPD', ""Parkinson's Disease""]",2018-02-14
+9242,6554,"['Thyroid Disease', ""Parkinson's Disease"", 'Thyroid Disease', 'Allergies']",2010-06-18
+1213,5880,"['Allergies', 'Kidney Disease', 'Heart Disease', 'Kidney Disease', 'Liver Disease', 'Anxiety', 'Thyroid Disease']",1995-10-07
+5221,7219,"['COPD', ""Parkinson's Disease"", 'Osteoporosis', 'Allergies', 'Mental Health Disorders', 'Anxiety', 'Epilepsy', 'Kidney Disease']",2011-10-19
+5290,6377,"['Epilepsy', 'Kidney Disease', 'Osteoporosis', 'Kidney Disease', 'Osteoporosis', 'Thyroid Disease', 'Liver Disease', 'Anxiety']",1970-06-30
+4845,3457,"['Obesity', 'Epilepsy', ""Parkinson's Disease"", 'Liver Disease', 'Thyroid Disease', 'Liver Disease']",2019-01-01
+9515,5675,"['Kidney Disease', 'Liver Disease', 'Kidney Disease', 'Heart Disease', 'Epilepsy', 'Obesity', 'Allergies', 'Epilepsy', ""Parkinson's Disease"", 'Epilepsy', 'Osteoporosis']",2016-03-25
+7788,4513,"['Allergies', 'Mental Health Disorders', 'Thyroid Disease', ""Parkinson's Disease"", 'Mental Health Disorders', 'Epilepsy']",1973-10-25
+3328,6425,"['Anxiety', 'Thyroid Disease', ""Parkinson's Disease"", 'Anxiety', 'Anxiety', 'Heart Disease', 'Kidney Disease', 'COPD']",1990-10-01
+8020,1614,"['Osteoporosis', 'Epilepsy', 'Kidney Disease']",1980-08-05
+84,5172,"['Obesity', 'Epilepsy', 'Liver Disease', 'Anxiety', 'Osteoporosis', 'Allergies', 'Heart Disease']",1994-05-17
+2360,978,"['Osteoporosis', ""Parkinson's Disease"", 'Anxiety', 'Epilepsy', 'Liver Disease']",2002-04-11
+5687,8706,"['Liver Disease', 'Obesity', 'Epilepsy', 'COPD', 'Obesity', 'Heart Disease', 'Heart Disease', 'Heart Disease']",1988-06-29
+184,431,"['Mental Health Disorders', 'Osteoporosis', 'Kidney Disease', 'Kidney Disease', 'Kidney Disease', 'Osteoporosis', 'Allergies', 'Osteoporosis', 'Epilepsy', 'Allergies', 'Kidney Disease']",1993-05-26
+5981,6922,['Heart Disease'],1987-10-31
+5817,6996,"['COPD', 'Obesity', 'Liver Disease', 'Obesity', 'Anxiety', 'Epilepsy', 'Epilepsy', 'Liver Disease', 'Mental Health Disorders']",1994-04-05
+2307,1342,"['Epilepsy', 'Obesity', 'Anxiety', 'Thyroid Disease', 'Thyroid Disease', ""Parkinson's Disease""]",2011-01-01
+237,2878,"['Osteoporosis', 'Epilepsy', 'Anxiety', 'Epilepsy', 'Anxiety', 'Kidney Disease', 'Thyroid Disease', 'Thyroid Disease', 'Liver Disease', 'Heart Disease', 'Thyroid Disease']",1987-04-13
+1401,3040,"['Anxiety', 'Epilepsy', ""Parkinson's Disease"", 'Thyroid Disease', 'Anxiety', 'Mental Health Disorders', 'Anxiety', 'Osteoporosis', 'Kidney Disease', 'Thyroid Disease']",2022-05-03
+6970,2878,"['Obesity', 'Mental Health Disorders', 'Obesity', 'Thyroid Disease']",1977-05-07
+1311,853,"['Thyroid Disease', 'Obesity']",2002-12-29
+6084,640,"[""Parkinson's Disease"", 'COPD', 'Epilepsy']",1981-04-08
+3606,7190,"['Kidney Disease', 'Osteoporosis', 'Liver Disease', 'COPD', 'Obesity', 'Kidney Disease', 'Mental Health Disorders', 'Allergies', 'Liver Disease', 'Heart Disease', 'Kidney Disease']",1982-09-19
+4988,6270,"['Mental Health Disorders', 'Heart Disease', 'Liver Disease', 'Liver Disease', 'Thyroid Disease']",2008-01-01
+7127,5859,"['Epilepsy', 'Kidney Disease', 'Anxiety']",2021-02-27
+9402,3470,"['Epilepsy', ""Parkinson's Disease"", 'Allergies', 'Obesity', 'Mental Health Disorders', 'Osteoporosis', ""Parkinson's Disease"", 'Liver Disease', ""Parkinson's Disease"", 'COPD', 'Osteoporosis']",1993-03-29
+5892,7897,"['COPD', 'Heart Disease', 'Allergies', 'Epilepsy', 'Mental Health Disorders', 'Mental Health Disorders', 'Kidney Disease', 'Allergies', 'Liver Disease', 'Thyroid Disease']",1972-02-26
+5723,6425,"['Kidney Disease', 'Mental Health Disorders']",2002-06-14
+8593,2634,"['Kidney Disease', 'Obesity', 'Kidney Disease', 'Obesity', ""Parkinson's Disease"", 'Epilepsy', 'Anxiety']",1979-08-19
+8817,3759,"['COPD', ""Parkinson's Disease"", 'Thyroid Disease', 'Heart Disease', 'Anxiety', ""Parkinson's Disease"", 'COPD', 'Kidney Disease', 'Anxiety', 'Heart Disease', ""Parkinson's Disease""]",1980-08-28
+3243,7111,"['Anxiety', 'Liver Disease', 'Liver Disease', 'Mental Health Disorders', 'Kidney Disease', 'COPD', 'Kidney Disease', 'Heart Disease', ""Parkinson's Disease""]",1983-03-28
+5124,5804,['Allergies'],1997-07-06
+2323,8294,"[""Parkinson's Disease"", ""Parkinson's Disease"", 'Thyroid Disease', 'Allergies', 'Allergies', 'COPD', 'Thyroid Disease', 'Obesity']",1988-12-16
+6829,9702,"['Allergies', 'Heart Disease', 'Mental Health Disorders']",1994-09-20
+4207,5785,"['Allergies', 'COPD', 'Kidney Disease', 'Thyroid Disease', 'Thyroid Disease', 'Liver Disease', 'COPD', 'COPD', 'Liver Disease', 'Anxiety', 'Kidney Disease', 'Obesity']",1996-03-02
+3499,967,"['Heart Disease', 'Obesity', 'Liver Disease', 'Kidney Disease', 'COPD']",1972-12-25
+2629,2083,"['Epilepsy', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Mental Health Disorders', 'Anxiety']",2005-12-19
+4691,330,['Thyroid Disease'],2017-01-27
+4826,9594,"['Obesity', 'Epilepsy', 'Osteoporosis', 'Heart Disease', 'Osteoporosis', 'Liver Disease', 'COPD', 'Thyroid Disease', 'Obesity']",1985-05-27
+5345,189,"['Osteoporosis', 'COPD', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Allergies', 'Obesity', 'Thyroid Disease', 'Mental Health Disorders']",1973-10-17
+9117,4333,"['COPD', 'Mental Health Disorders', 'Epilepsy']",1973-05-23
+6077,952,"['Heart Disease', 'Liver Disease']",1984-02-06
+2865,4878,"['Kidney Disease', 'Obesity', 'Liver Disease', 'Liver Disease', 'Thyroid Disease', 'Kidney Disease', 'Heart Disease', 'Kidney Disease', 'Liver Disease']",1981-01-07
+7290,9936,"['COPD', 'Thyroid Disease', 'Heart Disease', 'Osteoporosis', 'Kidney Disease', 'Heart Disease', 'Epilepsy', 'Heart Disease', 'Epilepsy', 'Heart Disease', ""Parkinson's Disease""]",1970-09-01
+9900,108,"['Heart Disease', 'Allergies', 'Osteoporosis']",1991-12-16
+2009,9479,"['Thyroid Disease', 'Anxiety', 'Mental Health Disorders', 'COPD', 'Kidney Disease', 'Epilepsy', 'Obesity', 'Allergies']",2002-04-24
+4725,6109,"['Kidney Disease', 'COPD', 'Thyroid Disease', 'Obesity', 'Mental Health Disorders', 'Anxiety', 'Mental Health Disorders', 'Obesity', 'Thyroid Disease']",1976-02-20
+2681,1260,"['Obesity', 'Osteoporosis', 'Osteoporosis', 'Thyroid Disease', 'Anxiety', 'Mental Health Disorders', 'Mental Health Disorders', ""Parkinson's Disease"", 'Anxiety', ""Parkinson's Disease"", 'COPD', 'Heart Disease']",1987-10-16
+7772,9853,"['Obesity', 'Thyroid Disease', 'Allergies', 'Thyroid Disease']",1978-06-04
+127,9411,['Osteoporosis'],2008-06-18
+2917,3329,"['Thyroid Disease', 'Epilepsy', 'Allergies', 'Liver Disease', 'Anxiety', 'Kidney Disease', 'Osteoporosis', 'Osteoporosis', 'Thyroid Disease', ""Parkinson's Disease"", 'Osteoporosis', 'Liver Disease']",2006-08-04
+1661,2244,"['Mental Health Disorders', 'Anxiety', 'Heart Disease', 'COPD', 'Kidney Disease', 'Allergies', 'COPD', ""Parkinson's Disease"", 'Osteoporosis', 'Allergies', 'COPD']",1981-01-08
+6794,8143,"[""Parkinson's Disease"", 'Allergies', 'Thyroid Disease', 'Allergies', 'Osteoporosis']",2023-07-19
+2441,8682,"['Liver Disease', 'Epilepsy', ""Parkinson's Disease"", 'Epilepsy', 'Liver Disease', 'Obesity', 'Liver Disease']",2014-02-25
+8665,4833,"['Heart Disease', 'Thyroid Disease', 'Heart Disease', 'Epilepsy', 'Kidney Disease', 'Osteoporosis', 'Mental Health Disorders']",2006-09-20
+2550,2494,"[""Parkinson's Disease"", 'Kidney Disease']",1972-03-12
+5548,6562,"[""Parkinson's Disease"", 'Anxiety', 'Thyroid Disease', 'Obesity', 'Obesity', 'Anxiety', 'Epilepsy', 'Anxiety', 'Epilepsy', 'Anxiety', 'Osteoporosis']",1991-01-23
+5436,2578,"['Mental Health Disorders', 'Thyroid Disease', 'Epilepsy']",1986-03-03
+16,8534,"['Allergies', 'Allergies', 'Thyroid Disease']",2014-08-19
+4612,5707,"['COPD', 'Liver Disease', 'Thyroid Disease', 'Kidney Disease', 'Kidney Disease', 'Liver Disease', 'Osteoporosis', 'Anxiety']",2016-03-11
+2533,8534,"['Osteoporosis', 'Liver Disease', ""Parkinson's Disease"", 'Epilepsy', 'Anxiety', 'Epilepsy', 'Anxiety']",1990-03-22
+551,8251,"[""Parkinson's Disease"", 'Epilepsy', 'Thyroid Disease', 'Obesity', 'COPD', 'Allergies']",2019-12-23
+1982,4743,"['Liver Disease', 'Mental Health Disorders', ""Parkinson's Disease""]",1982-05-19
+3361,9410,"['Osteoporosis', 'COPD', 'Anxiety', 'Obesity', 'Epilepsy', 'Obesity']",2004-04-25
+1622,2059,"['Kidney Disease', 'Anxiety', 'COPD', 'Obesity', 'Kidney Disease', 'Osteoporosis', 'Liver Disease', ""Parkinson's Disease"", 'Epilepsy', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Anxiety']",1979-07-31
+1780,8242,"['Mental Health Disorders', 'Liver Disease', 'Thyroid Disease']",2013-09-21
+7331,9043,"['Mental Health Disorders', 'Liver Disease', 'Heart Disease']",1992-04-15
+2498,4257,"['Anxiety', 'Thyroid Disease', 'Osteoporosis', 'Liver Disease', 'Mental Health Disorders', 'Anxiety', 'COPD', 'Epilepsy', 'Kidney Disease']",2023-08-07
+6521,2514,"[""Parkinson's Disease"", 'Thyroid Disease', ""Parkinson's Disease"", 'Liver Disease']",1971-08-13
+8341,5397,"['Epilepsy', 'Thyroid Disease', 'Epilepsy', 'Epilepsy', 'COPD', 'Obesity', 'Liver Disease', 'Mental Health Disorders', 'Osteoporosis', 'Thyroid Disease', 'COPD']",1978-10-27
+1159,1560,"['Epilepsy', 'Epilepsy', 'Heart Disease', 'Thyroid Disease', 'COPD', 'Obesity', 'Thyroid Disease', 'Heart Disease', 'Kidney Disease', 'Liver Disease']",2013-10-28
+3334,3604,"['Obesity', ""Parkinson's Disease""]",1990-10-04
+3082,8143,"['Osteoporosis', 'Kidney Disease']",1989-12-19
+5291,9163,"['Osteoporosis', 'Mental Health Disorders', 'Liver Disease', 'Mental Health Disorders', 'Thyroid Disease', 'Heart Disease', 'Thyroid Disease', 'Osteoporosis']",1996-07-11
+4974,443,"['Anxiety', 'Epilepsy', 'Anxiety', 'Epilepsy', 'Thyroid Disease', 'Obesity', 'Mental Health Disorders', ""Parkinson's Disease"", 'Thyroid Disease', 'Allergies', 'Thyroid Disease']",1996-04-11
+8849,1250,"['Heart Disease', 'Osteoporosis', 'COPD', 'Liver Disease', 'Allergies', 'Obesity', 'Epilepsy', 'COPD', 'COPD']",1973-12-31
+3408,1974,"['Mental Health Disorders', 'Heart Disease', 'Thyroid Disease', 'Anxiety', 'Anxiety', 'COPD', 'Osteoporosis', 'Osteoporosis', 'Liver Disease']",1990-05-25
+826,8312,"['Epilepsy', ""Parkinson's Disease"", ""Parkinson's Disease"", 'Anxiety', 'Kidney Disease', 'Thyroid Disease']",2016-08-23
+2290,9163,"['Osteoporosis', 'Liver Disease', 'COPD', 'COPD', 'Osteoporosis']",2008-09-10
+2757,4373,"['Mental Health Disorders', 'Liver Disease', 'Liver Disease', 'Mental Health Disorders', 'Epilepsy', 'Allergies', 'COPD', 'Anxiety', 'Allergies', 'Allergies', 'Anxiety', 'Thyroid Disease']",2022-12-22
+700,8475,"['Anxiety', 'Allergies', 'Heart Disease', 'Osteoporosis', 'Epilepsy', 'Liver Disease', 'COPD']",1998-05-01
+4354,5388,"['Anxiety', 'Anxiety', 'Liver Disease', ""Parkinson's Disease"", 'Osteoporosis', 'COPD', 'Allergies']",1989-12-27
+9549,6175,['Epilepsy'],1972-01-19
+4793,7814,"['Allergies', 'Heart Disease', 'Mental Health Disorders', 'COPD', 'Osteoporosis', 'Anxiety', ""Parkinson's Disease"", 'Osteoporosis', ""Parkinson's Disease"", 'Mental Health Disorders']",1993-10-05
+6524,9796,"['COPD', 'Heart Disease', 'Kidney Disease', 'Thyroid Disease', 'Anxiety', 'COPD', 'Epilepsy', 'Allergies', 'Osteoporosis']",1990-11-19
+8369,5388,"['Kidney Disease', 'Osteoporosis', 'Mental Health Disorders', 'Obesity', 'Thyroid Disease', 'Anxiety']",2023-01-06
+6497,7717,"['Mental Health Disorders', 'Allergies', 'Obesity', 'Anxiety', 'Epilepsy', 'Mental Health Disorders', 'Thyroid Disease']",2011-04-21
+6450,7623,"['Thyroid Disease', 'Anxiety', 'Anxiety', 'Liver Disease', 'Obesity', 'Liver Disease', ""Parkinson's Disease"", 'COPD', 'Epilepsy']",2000-10-08
