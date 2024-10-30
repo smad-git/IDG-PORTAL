@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-idgportalbackend-dev-f4dc1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::304634770878:role/amplify-idgportalbackend-dev-f4dc1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::304634770878:role/amplify-idgportalbackend-dev-f4dc1-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-idgportalbackend-dev-f4dc1-deployment",
+      "UnauthRoleName": "amplify-idgportalbackend-dev-f4dc1-unauthRole",
+      "StackName": "amplify-idgportalbackend-dev-f4dc1",
+      "StackId": "arn:aws:cloudformation:us-east-1:304634770878:stack/amplify-idgportalbackend-dev-f4dc1/28b46750-96c5-11ef-b544-0afffe978081",
+      "AmplifyAppId": "d3sms1s8z0on91"
+    },
+    "categories": {
+      "function": {
+        "patientdbpopulation": {}
+      }
+    }
+  }
+}

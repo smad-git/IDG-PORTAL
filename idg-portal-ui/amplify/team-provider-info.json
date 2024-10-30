@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-idgportalui-dev-044dc-authRole",
+      "UnauthRoleArn": "arn:aws:iam::304634770878:role/amplify-idgportalui-dev-044dc-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::304634770878:role/amplify-idgportalui-dev-044dc-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-idgportalui-dev-044dc-deployment",
+      "UnauthRoleName": "amplify-idgportalui-dev-044dc-unauthRole",
+      "StackName": "amplify-idgportalui-dev-044dc",
+      "StackId": "arn:aws:cloudformation:us-east-1:304634770878:stack/amplify-idgportalui-dev-044dc/767c3200-96c1-11ef-bbbf-0affc89b6327",
+      "AmplifyAppId": "d3g7slogo803q9"
+    }
+  }
+}
